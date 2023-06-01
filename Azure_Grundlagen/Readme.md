@@ -14,6 +14,8 @@ Plattform: Microsoft Teams (Online Workshop)
 
 > Note: Jede Teilnehmerin und Teilnehmer erhalten eine Bestätigung der Kursteilnahme!
 
+Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff "Anmeldung Workshop Azure Grundlagen".
+
 ## Kursbeschreibung:
 Der Azure Grundlagen-Workshop ist ein interaktiver Online-Kurs, der Ihnen eine Einführung in die Grundlagen von Microsoft Azure bietet. 
 Der Workshop findet über eine Dauer von 3 Stunden statt und wird über die Plattform Microsoft Teams durchgeführt.
