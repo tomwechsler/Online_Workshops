@@ -9,7 +9,7 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 Datum: 30. Juni 2023  
 Zeit: 14.00 Uhr  
 Dauer: 3 Stunden  
-Preis pro TeilnehmerIn: Euro 120.-
+Preis pro TeilnehmerIn: Euro 120.-  
 Plattform: Microsoft Teams (Online Workshop)  
 
 > Note: Jede Teilnehmerin und Teilnehmer erhalten eine Bestätigung der Kursteilnahme!
