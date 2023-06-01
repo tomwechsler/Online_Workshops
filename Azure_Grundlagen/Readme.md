@@ -33,6 +33,8 @@ Der Workshop kombiniert theoretische Inhalte mit praktischen Übungen, um Ihnen 
 
 ## Voraussetzungen:
 Um an diesem Workshop teilzunehmen, sollten Sie über grundlegende IT-Kenntnisse verfügen und ein grundlegendes Verständnis von Cloud-Computing haben. Es sind keine spezifischen Azure-Vorkenntnisse erforderlich.
+**Empfehlung:**  
+Damit Sie dem Workshop bestens folgen können, sollten Sie Zugang haben zum Azure Portal. Idealerweise richten Sie dazu eine kostenlose Testversion ein (link siehe unten).
 
 ## Zielgruppe:
 Dieser Workshop richtet sich an IT-Profis, Entwickler und Entscheidungsträger, die ihr Wissen über Azure-Grundlagen erweitern möchten. Es ist ideal für Einsteiger geeignet, die einen Überblick über die Azure-Plattform erhalten möchten.
