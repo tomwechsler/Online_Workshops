@@ -9,7 +9,9 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 Datum: 30. Juni 2023  
 Zeit: 14.00 Uhr  
 Dauer: 3 Stunden  
-Plattform: Microsoft Teams (Online Workshop)
+Plattform: Microsoft Teams (Online Workshop)  
+
+> Note: Jede Teilnehmerin und Teilnehmer erhalten eine Bestätigung der Kursteilnahme!
 
 ## Kursbeschreibung:
 Der Azure Grundlagen-Workshop ist ein interaktiver Online-Kurs, der Ihnen eine Einführung in die Grundlagen von Microsoft Azure bietet. 
@@ -48,11 +50,11 @@ Dieser Workshop bietet eine Einführung in Azure-Grundlagen und legt den Grundst
 ## Kontaktinformationen
 Ich wünsche Ihnen viel Spass mit dem Workshop. Wenn Sie Fragen haben, können Sie mich unter folgender Adresse erreichen:
 
-- Email: training@videotrainer
+- Email: training@videotrainer.ch
 
 - Twitter: @tomvideo2brain
 
-- LinkedIn and Xing
+- LinkedIn und Xing
 
 
 ## Resources
