@@ -29,7 +29,7 @@ Der Workshop findet über eine Dauer von 3 Stunden statt und wird über die Plat
    - Zugriffssteuerung und Sicherheitsaspekte in Azure
    - Überwachung und Skalierung von Azure-Ressourcen
 
-> Note: Der Workshop kombiniert theoretische Inhalte mit praktischen Übungen, um Ihnen einen umfassenden Einblick in die Azure-Plattform zu geben. Sie haben die Möglichkeit, Fragen zu stellen und in Echtzeit mit dem Kursleiter und anderen Teilnehmern zu interagieren.
+Der Workshop kombiniert theoretische Inhalte mit praktischen Übungen, um Ihnen einen umfassenden Einblick in die Azure-Plattform zu geben. Sie haben die Möglichkeit, Fragen zu stellen und in Echtzeit mit dem Kursleiter und anderen Teilnehmern zu interagieren.
 
 ## Voraussetzungen:
 Um an diesem Workshop teilzunehmen, sollten Sie über grundlegende IT-Kenntnisse verfügen und ein grundlegendes Verständnis von Cloud-Computing haben. Es sind keine spezifischen Azure-Vorkenntnisse erforderlich.
