@@ -31,34 +31,22 @@ Der Workshop findet über eine Dauer von 3 Stunden statt und wird über die Plat
 
 > Note: Der Workshop kombiniert theoretische Inhalte mit praktischen Übungen, um Ihnen einen umfassenden Einblick in die Azure-Plattform zu geben. Sie haben die Möglichkeit, Fragen zu stellen und in Echtzeit mit dem Kursleiter und anderen Teilnehmern zu interagieren.
 
+## Voraussetzungen:
+Um an diesem Workshop teilzunehmen, sollten Sie über grundlegende IT-Kenntnisse verfügen und ein grundlegendes Verständnis von Cloud-Computing haben. Es sind keine spezifischen Azure-Vorkenntnisse erforderlich.
 
-To follow along with me I suggest you have the following ready:
+## Zielgruppe:
+Dieser Workshop richtet sich an IT-Profis, Entwickler und Entscheidungsträger, die ihr Wissen über Azure-Grundlagen erweitern möchten. Es ist ideal für Einsteiger geeignet, die einen Überblick über die Azure-Plattform erhalten möchten.
 
-- A Linux virtual machine (Recommended: Debian, Ubuntu Desktop, or Fedora workstation. Of course, you can also work with a Windows or macOS system.) 
+Nach Abschluss des Workshops haben Sie ein solides Verständnis der Cloudkonzepte, der Azure-Architektur und der grundlegenden Verwaltung von Azure-Ressourcen. Sie sind in der Lage, Ihre Azure-Kenntnisse zu erweitern und erste Schritte in der Entwicklung und Verwaltung von Azure-Lösungen zu unternehmen.
 
-  Minimum 1 CPU and 1 GB RAM (Recommended: 2 CPUs and 4 GB RAM)
-
-  Update the system: 
-
-    Debian/Ubuntu: `apt update && apt upgrade -y`
-
-    Fedora: `dnf update -y`
-
-  > Note: I suggest using VirtualBox, VMware Workstation, KVM or Proxmox for your virtual machines. 
-
-- Visual Studio Code installed.
-
-- An Azure Subscription with a separate user (with **admin** permissions) for lab purposes
-
-> Note: !!! Creating infrastructure on Azure or other cloud providers can incur a cost. Do not apply infrastructure if you do not want to be charged. 
-
-> Build in the cloud with an Azure free account: https://azure.microsoft.com/en-us/free/ (It needs a credit card for the registration!)
-
-- Two or more monitors (or a second system) to display additional resources
+## Hinweis:
+Dieser Workshop bietet eine Einführung in Azure-Grundlagen und legt den Grundstein für weitere Vertiefungen in spezifischen Azure-Bereichen. Es handelt sich nicht um einen umfassenden Kurs, der alle Aspekte von Azure abdeckt.
 
 
-## Contact information
-I hope you enjoy the webinar. If you have any questions you can contact me at:
+## Kontaktinformationen
+Ich wünsche Ihnen viel Spass mit dem Workshop. Wenn Sie Fragen haben, können Sie mich unter folgender Adresse erreichen:
+
+- Email: training@videotrainer
 
 - Twitter: @tomvideo2brain
 
@@ -66,44 +54,19 @@ I hope you enjoy the webinar. If you have any questions you can contact me at:
 
 
 ## Resources
-- Visual Studio Code:
+- Anmelden einer kostenlosen Azure Testversion:
 
-  https://code.visualstudio.com/download
+  https://azure.microsoft.com/de-de/free/
 
-- VirtualBox:
+- Microsoft Teams herunterladen:
 
-  https://www.virtualbox.org/wiki/Downloads
+  https://www.microsoft.com/de-ch/microsoft-teams/download-app
 
-- Azure user account setup
+## Weitere Lerninhalte
+- AZ-900:
 
-  https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/add-users-azure-active-directory 
+  https://learn.microsoft.com/en-us/certifications/exams/az-900/
 
-- Azure Azure role-based access control (Azure RBAC)
-
-  https://learn.microsoft.com/en-us/azure/role-based-access-control/overview 
-
-- Hashicorp Terraform Associate certification webpage with objectives:
-
-  https://www.hashicorp.com/certification/terraform-associate
-
-- Terraform Docs: 
+- Bereiten Sie sich auf die Microsoft Azure Fundamentals-Prüfung:
   
-  https://developer.hashicorp.com/terraform/docs
-
-- Terraform Registry: 
-  
-  https://registry.terraform.io/
-
-- Terraform Language Documentation: 
-  
-  https://developer.hashicorp.com/terraform/language
-
-
-## Further Study
-- Terraform Study Guide:
-
-  https://developer.hashicorp.com/terraform/tutorials/certification/associate-study
-
-- Terraform Review Guide:
-  
-  https://developer.hashicorp.com/terraform/tutorials/certification/associate-review
+  https://de.linkedin.com/learning/paths/bereiten-sie-sich-auf-die-microsoft-azure-fundamentals-prufung-az-900-vor
