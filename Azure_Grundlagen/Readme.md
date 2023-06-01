@@ -6,9 +6,9 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
 
 ## Kurs Informationen:
-Datum: 30. Juni 2023
-Zeit: 14.00 Uhr
-Dauer: 3 Stunden
+Datum: 30. Juni 2023  
+Zeit: 14.00 Uhr  
+Dauer: 3 Stunden  
 Plattform: Microsoft Teams (Online Workshop)
 
 ## Kursbeschreibung:
