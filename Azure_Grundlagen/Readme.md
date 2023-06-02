@@ -42,7 +42,7 @@ Um an diesem Workshop teilzunehmen, sollten Sie über grundlegende IT-Kenntnisse
 Damit Sie dem Workshop bestens folgen können, sollten Sie Zugang haben zum Azure Portal. Idealerweise richten Sie dazu eine kostenlose Testversion ein (link siehe unten).
 
 ## Zielgruppe:
-Dieser Workshop richtet sich an IT-Profis, Entwickler und Entscheidungsträger, die ihr Wissen über Azure-Grundlagen erweitern möchten. Es ist ideal für Einsteiger geeignet, die einen Überblick über die Azure-Plattform erhalten möchten.
+Dieser Workshop richtet sich an IT-Profis, Entwickler:Innen und Entscheidungsträger:Innen, die ihr Wissen über Azure-Grundlagen erweitern möchten. Es ist ideal für Einsteiger:Innen geeignet, die einen Überblick über die Azure-Plattform erhalten möchten.
 
 Nach Abschluss des Workshops haben Sie ein solides Verständnis der Cloudkonzepte, der Azure-Architektur und der grundlegenden Verwaltung von Azure-Ressourcen. Sie sind in der Lage, Ihre Azure-Kenntnisse zu erweitern und erste Schritte in der Entwicklung und Verwaltung von Azure-Lösungen zu unternehmen.
 
