@@ -12,7 +12,7 @@ Dauer: 3 Stunden
 Preis pro TeilnehmerIn: Euro 120.-  
 Plattform: Microsoft Teams (Online Workshop)  
 
-> Note: Jede Teilnehmerin und Teilnehmer erhalten eine Bestätigung der Kursteilnahme!
+> Note: Jede Teilnehmerin und jeder Teilnehmer erhalten eine Bestätigung der Kursteilnahme!
 
 Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff "Anmeldung Workshop Azure Grundlagen".  
 Anmeldefrist bis: 23. Juni 2023
@@ -40,7 +40,7 @@ Der Workshop kombiniert theoretische Inhalte mit praktischen Übungen, um Ihnen 
 ## Voraussetzungen:
 Um an diesem Workshop teilzunehmen, sollten Sie über grundlegende IT-Kenntnisse verfügen und ein grundlegendes Verständnis von Cloud-Computing haben. Es sind keine spezifischen Azure-Vorkenntnisse erforderlich.  
 **Empfehlung:**  
-Damit Sie dem Workshop bestens folgen können, sollten Sie Zugang haben zum Azure Portal. Idealerweise richten Sie dazu eine kostenlose Testversion ein (link siehe unten).
+Damit Sie dem Workshop bestens folgen können, sollten Sie Zugang haben zum Azure Portal. Idealerweise richten Sie dazu eine kostenlose Testversion ein (Link siehe unten).
 
 ## Zielgruppe:
 Dieser Workshop richtet sich an IT-Profis, Entwickler:Innen und Entscheidungsträger:Innen, die ihr Wissen über Azure-Grundlagen erweitern möchten. Es ist ideal für Einsteiger:Innen geeignet, die einen Überblick über die Azure-Plattform erhalten möchten.
