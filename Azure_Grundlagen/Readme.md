@@ -11,6 +11,7 @@ Zeit: 14.00 Uhr
 Dauer: 3 Stunden  
 Preis pro TeilnehmerIn: Euro 120.-  
 Plattform: Microsoft Teams (Online Workshop)  
+**Anmeldefrist: 23. Juni 2023**  
 
 > Note: Jede Teilnehmerin und jeder Teilnehmer erhalten eine Bestätigung der Kursteilnahme!
 
