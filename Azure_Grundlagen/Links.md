@@ -20,6 +20,18 @@ https://learn.microsoft.com/de-de/training/modules/describe-cloud-compute/6-desc
 Vergleichen von Cloudpreismodellen  
 https://azure.microsoft.com/de-de/pricing/
 
+Beschreiben der Vorteile von Hochverfügbarkeit und Skalierbarkeit in der Cloud  
+https://learn.microsoft.com/de-de/training/modules/describe-benefits-use-cloud-services/2-high-availability-scalability-cloud
+
+Vorteile der Zuverlässigkeit und Vorhersagbarkeit in der Cloud  
+https://learn.microsoft.com/de-de/training/modules/describe-benefits-use-cloud-services/3-reliability-predictability-cloud
+
+Vorteile der Sicherheit und Governance in der Cloud  
+https://learn.microsoft.com/de-de/training/modules/describe-benefits-use-cloud-services/4-security-governance-cloud
+
+Beschreiben der Vorteile der Verwaltbarkeit in der Cloud  
+https://learn.microsoft.com/de-de/training/modules/describe-benefits-use-cloud-services/5-manageability-cloud
+
 ## Architektur
 
 ## Verwaltung
