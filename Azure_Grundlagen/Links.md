@@ -32,6 +32,15 @@ https://learn.microsoft.com/de-de/training/modules/describe-benefits-use-cloud-s
 Beschreiben der Vorteile der Verwaltbarkeit in der Cloud  
 https://learn.microsoft.com/de-de/training/modules/describe-benefits-use-cloud-services/5-manageability-cloud
 
+Grundlegendes zu Infrastructure-as-a-Service  
+https://learn.microsoft.com/de-de/training/modules/describe-cloud-service-types/2-describe-infrastructure-service
+
+Beschreiben von Platform-as-a-Service  
+https://learn.microsoft.com/de-de/training/modules/describe-cloud-service-types/3-describe-platform-service
+
+Grundlegendes zu Software-as-a-Service  
+https://learn.microsoft.com/de-de/training/modules/describe-cloud-service-types/4-describe-software-service
+
 ## Architektur
 
 ## Verwaltung
