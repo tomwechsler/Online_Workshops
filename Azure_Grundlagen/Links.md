@@ -43,4 +43,46 @@ https://learn.microsoft.com/de-de/training/modules/describe-cloud-service-types/
 
 ## Architektur
 
+Azure-Geografien  
+https://azure.microsoft.com/de-de/explore/global-infrastructure/geographies/#choose-your-region
+
+Was sind Azure-Regionen und -Verfügbarkeitszonen?  
+https://learn.microsoft.com/de-de/azure/reliability/availability-zones-overview
+
+Komponenten und Grenzen des Azure-Informationssystems  
+https://learn.microsoft.com/de-de/azure/security/fundamentals/infrastructure-components#azure-datacenters
+
+Verwalten von Azure-Ressourcengruppen mithilfe des Azure-Portals  
+https://learn.microsoft.com/de-de/azure/azure-resource-manager/management/manage-resource-groups-portal
+
+Subscriptions, licenses, accounts, and tenants for Microsoft's cloud offerings  
+https://learn.microsoft.com/en-us/microsoft-365/enterprise/subscriptions-licenses-accounts-and-tenants-for-microsoft-cloud-offerings
+
+Was sind Azure-Verwaltungsgruppen?  
+https://learn.microsoft.com/de-de/azure/governance/management-groups/overview
+
+Grundlagen der Azure-Ressourcenverwaltung  
+https://learn.microsoft.com/de-de/azure/active-directory/fundamentals/secure-resource-management
+
+Beschreiben von Azure Compute- und Azure-Netzwerkdiensten  
+https://learn.microsoft.com/de-de/training/modules/describe-azure-compute-networking-services/
+
+Beschreiben von Azure-Speicherdiensten  
+https://learn.microsoft.com/de-de/training/modules/describe-azure-storage-services/
+
+Identität, Zugriff und Sicherheit in Azure  
+https://learn.microsoft.com/de-de/training/modules/describe-azure-identity-access-security/
+
 ## Verwaltung
+
+Beschreiben der Kostenverwaltung in Azure  
+https://learn.microsoft.com/de-de/training/modules/describe-cost-management-azure/
+
+Sicherheit und Governance  
+https://learn.microsoft.com/de-de/azure/cloud-adoption-framework/scenarios/wvd/eslz-security-governance-and-compliance
+
+Beschreiben von Features und Tools zum Verwalten und Bereitstellen von Azure-Ressourcen  
+https://learn.microsoft.com/de-de/training/modules/describe-features-tools-manage-deploy-azure-resources/
+
+Grundlegendes zu Überwachungstools in Azure  
+https://learn.microsoft.com/de-de/training/modules/describe-monitoring-tools-azure/
