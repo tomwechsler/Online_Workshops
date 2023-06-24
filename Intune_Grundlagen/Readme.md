@@ -1,4 +1,4 @@
-# Microsoft Intune Grundlagen - Einrichtung, Geräteverwaltung, Anwendungsmanagement und Überwachung
+# 📢Microsoft Intune Grundlagen - Einrichtung, Geräteverwaltung, Anwendungsmanagement und Überwachung!📢
 Online Workshop zum Thema Intune Grundlagen!
 
 ## Workshop Intune Grundlagen
@@ -6,12 +6,12 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
 
 ## Kurs Informationen:
-Datum: 04. August 2023  
-Zeit: 14.00 Uhr  
-Dauer: 3 Stunden  
-Preis pro TeilnehmerIn: Euro 120.-  
-Plattform: Microsoft Teams (Online Workshop)  
-**Anmeldefrist: 28. Juli 2023**  
+🗓️ Datum: 04. August 2023  
+⌚ Zeit: 14.00 Uhr  
+⌚ Dauer: 3 Stunden  
+💸 Preis pro TeilnehmerIn: Euro 120.-  
+📍 Plattform: Microsoft Teams (Online Workshop)  
+🗓️ **Anmeldefrist: 28. Juli 2023**  
 
 > Note: Jede Teilnehmerin und jeder Teilnehmer erhalten eine Bestätigung der Kursteilnahme!
 
