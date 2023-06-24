@@ -1,4 +1,4 @@
-# 📢Microsoft Intune Grundlagen - Einrichtung, Geräteverwaltung, Anwendungsmanagement und Überwachung!📢
+# 📢 Microsoft Intune Grundlagen - Einrichtung, Geräteverwaltung, Anwendungsmanagement und Überwachung! 📢
 Online Workshop zum Thema Intune Grundlagen!
 
 ## Workshop Intune Grundlagen
