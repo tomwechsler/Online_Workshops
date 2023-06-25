@@ -79,9 +79,9 @@ Ich wünsche Ihnen viel Spass mit dem Workshop. Wenn Sie Fragen haben, können S
 
 
 ## Ressourcen
-- Anmelden einer kostenlosen Azure Testversion:
+- Anmelden einer kostenlosen Intune Testversion:
 
-  https://azure.microsoft.com/de-de/free/
+  https://learn.microsoft.com/en-us/mem/intune/fundamentals/free-trial-sign-up
 
 - Microsoft Teams herunterladen:
 
