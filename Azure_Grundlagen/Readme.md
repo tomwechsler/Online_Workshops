@@ -16,7 +16,6 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 > Note: Jede Teilnehmerin und jeder Teilnehmer erhalten eine Bestätigung der Kursteilnahme!
 
 Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff "Anmeldung Workshop Azure Grundlagen".  
-Anmeldefrist bis: 23. Juni 2023
 
 ## Kursbeschreibung:
 Der Azure Grundlagen-Workshop ist ein interaktiver Online-Kurs, der Ihnen eine Einführung in die Grundlagen von Microsoft Azure bietet. 
