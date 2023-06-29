@@ -1,4 +1,4 @@
-# Azure Grundlagen - Cloudkonzepte, Architektur und Verwaltung
+# 📢 Azure Grundlagen - Cloudkonzepte, Architektur und Verwaltung! 📢
 Online Workshop zum Thema Azure Grundlagen!
 
 ## Workshop Azure Grundlagen
