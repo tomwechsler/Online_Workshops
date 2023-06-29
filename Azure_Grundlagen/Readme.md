@@ -6,12 +6,12 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
 
 ## Kurs Informationen:
-Datum: 18. August 2023  
-Zeit: 14.00 Uhr  
-Dauer: 3 Stunden  
-Preis pro TeilnehmerIn: Euro 120.-  
-Plattform: Microsoft Teams (Online Workshop)  
-**Anmeldefrist: 11. August 2023**  
+🗓️ Datum: 18. August 2023  
+⌚ Zeit: 14.00 Uhr  
+⌚ Dauer: 3 Stunden  
+💸 Preis pro TeilnehmerIn: Euro 120.-  
+📍 Plattform: Microsoft Teams (Online Workshop)  
+🗓️ **Anmeldefrist: 11. August 2023**  
 
 > Note: Jede Teilnehmerin und jeder Teilnehmer erhalten eine Bestätigung der Kursteilnahme!
 
