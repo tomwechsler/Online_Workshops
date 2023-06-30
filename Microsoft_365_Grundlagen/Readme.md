@@ -93,7 +93,8 @@ Ich wünsche Ihnen viel Spass mit dem Workshop. Wenn Sie Fragen haben, können S
   https://www.microsoft.com/de-ch/microsoft-teams/download-app
 
 ## Weitere Lerninhalte
-- Microsoft 365: Planen, Bereitstellen und Administrieren von Office 365
+- Microsoft 365: Planen, Bereitstellen und Administrieren von Office 365:
+
   https://de.linkedin.com/learning/microsoft-365-planen-bereitstellen-und-administrieren-von-office-365
 
 - Microsoft 365: Sicherheit:
