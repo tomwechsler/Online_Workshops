@@ -9,7 +9,7 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 🗓️ Datum: 04. August 2023  
 ⌚ Zeit: 14.00 Uhr  
 ⌚ Dauer: 3 Stunden  
-💸 Preis pro TeilnehmerIn: Euro 120.-  
+💸 Preis pro TeilnehmerIn: Euro 120.- (für Anmeldungen aus der Schweiz - CHF 120.- exkl. MwSt.)  
 📍 Plattform: Microsoft Teams (Online Workshop)  
 🗓️ **Anmeldefrist: 28. Juli 2023**  
 
@@ -22,29 +22,29 @@ Der Intune Grundlagen-Workshop ist ein interaktiver Online-Kurs, der Ihnen eine 
 Der Workshop findet über eine Dauer von 3 Stunden statt und wird über die Plattform Microsoft Teams durchgeführt.
 
 ## Hauptthemen:
-1. Einführung in Microsoft Intune (30 Minuten)  
+1. Einführung in Microsoft Intune  
     Was ist Microsoft Intune?  
     Warum Intune verwenden?  
-    Übersicht über die Funktionen und Möglichkeiten.  
+    Übersicht über die Funktionen und Möglichkeiten  
 
-2. Registrierung und Einrichtung von Intune (25 Minuten)  
-    Anmeldung und Navigation im Intune-Portal.  
-    Erste Schritte: Einrichtung und Konfiguration von Intune.  
+2. Registrierung und Einrichtung von Intune   
+    Anmeldung und Navigation im Intune-Portal   
+    Erste Schritte: Einrichtung und Konfiguration von Intune  
 
-3. Geräteverwaltung mit Intune (55 Stunde)  
-    Geräteregistrierung und -enrollment.  
-    Erstellen und Zuweisen von Gerätekonfigurationsprofilen.  
-    Geräte- und App-Konformitätsrichtlinien.  
-    Demonstration und Übung: Geräteverwaltung mit Intune.  
+3. Geräteverwaltung mit Intune   
+    Geräteregistrierung und -enrollment  
+    Erstellen und Zuweisen von Gerätekonfigurationsprofilen  
+    Geräte- und App-Konformitätsrichtlinien  
+    Demonstration und Übung: Geräteverwaltung mit Intune  
 
-4. Anwendungsmanagement mit Intune (40 Minuten)  
-    Anwendungspaket-Erstellung und -Bereitstellung.  
-    Verwaltung von Anwendungsberechtigungen und -Updates.  
-    Demonstration und Übung: Anwendungsmanagement mit Intune.  
+4. Anwendungsmanagement mit Intune   
+    Anwendungspaket-Erstellung und -Bereitstellung  
+    Verwaltung von Anwendungsberechtigungen und -Updates  
+    Demonstration und Übung: Anwendungsmanagement mit Intune  
 
-5. Überwachung und Berichterstattung (15 Minuten)  
-    Überblick über Überwachungs- und Berichtsfunktionen.  
-    Fehlerbehebung und Support.  
+5. Überwachung und Berichterstattung  
+    Überblick über Überwachungs- und Berichtsfunktionen  
+    Fehlerbehebung und Support  
 
 Der Workshop kombiniert theoretische Inhalte mit praktischen Übungen, um Ihnen einen umfassenden Einblick in die Intune-Plattform zu geben. Sie haben die Möglichkeit, Fragen zu stellen und in Echtzeit mit dem Kursleiter und anderen Teilnehmern zu interagieren.
 
@@ -52,10 +52,10 @@ Der Workshop kombiniert theoretische Inhalte mit praktischen Übungen, um Ihnen 
 Um an diesem Workshop teilzunehmen, sollten Sie über grundlegende IT-Kenntnisse verfügen und ein grundlegendes Verständnis von Cloud-Computing haben. 
 
 Weitere Voraussetzungen sind:  
-    - Grundlegende Kenntnisse von Microsoft 365 und Azure AD.  
-    - Grundlegende Kenntnisse der Windows 10 Verwaltung.  
-    - Ein Microsoft 365-Abonnement und Zugriff auf das Admin Center (während des Workshops).  
-    - Ein Laptop oder Desktop-Computer mit Internetzugang.  
+    - Grundlegende Kenntnisse von Microsoft 365 und Azure AD  
+    - Grundlegende Kenntnisse der Windows 10 Verwaltung  
+    - Ein Microsoft 365-Abonnement und Zugriff auf das Admin Center (während des Workshops)  
+    - Ein Laptop oder Desktop-Computer mit Internetzugang  
 
 **Empfehlung:**  
 Damit Sie dem Workshop bestens folgen können, sollten Sie Zugang haben zum Intune Portal.
