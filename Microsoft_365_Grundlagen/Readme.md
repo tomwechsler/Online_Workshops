@@ -23,33 +23,33 @@ In diesem interaktiven Workshop werden wir uns intensiv mit den Grundlagen von M
 Der Workshop findet über eine Dauer von 3 Stunden statt und wird über die Plattform Microsoft Teams durchgeführt.
 
 ## Hauptthemen:
-1. Einführung (30 Minuten)
-    Begrüßung und Vorstellung
+1. Einführung (30 Minuten)  
+    Begrüßung und Vorstellung  
     Übersicht über Microsoft 365 und seine Anwendungen
 
-2. Microsoft 365 Konto (30 Minuten)
-    Erstellen eines Microsoft 365-Kontos (falls nicht vorhanden)
+2. Microsoft 365 Konto (30 Minuten)  
+    Erstellen eines Microsoft 365-Kontos (falls nicht vorhanden)  
     Einführung in die Microsoft 365-Oberfläche und Einstellungen
 
-3. Outlook und E-Mail-Management (30 Minuten)
-    Grundlegende Funktionen von Outlook
+3. Outlook und E-Mail-Management (30 Minuten)  
+    Grundlegende Funktionen von Outlook  
     E-Mail-Management: Senden, Empfangen, Organisieren
 
-4. Microsoft Teams (30 Minuten)
-    Teams und Kanäle erstellen und verwalten
+4. Microsoft Teams (30 Minuten)  
+    Teams und Kanäle erstellen und verwalten  
     Chats, Meetings und Live-Events
 
-5. Arbeiten mit Word, Excel und PowerPoint in der Cloud (45 Minuten)
-    Grundlagen zu Word, Excel und PowerPoint
+5. Arbeiten mit Word, Excel und PowerPoint in der Cloud (45 Minuten)  
+    Grundlagen zu Word, Excel und PowerPoint  
     Gemeinsames Arbeiten an Dokumenten in Echtzeit
 
-6. SharePoint und OneDrive (30 Minuten)
-    Speichern und Teilen von Dokumenten
+6. SharePoint und OneDrive (30 Minuten)  
+    Speichern und Teilen von Dokumenten  
     Zusammenarbeit mit SharePoint und OneDrive
 
-7. Fragen und Abschluss (45 Minuten)
-    Offene Fragen klären
-    Tipps und Tricks für den effektiven Einsatz von Microsoft 365
+7. Fragen und Abschluss (45 Minuten)  
+    Offene Fragen klären  
+    Tipps und Tricks für den effektiven Einsatz von Microsoft 365  
     Abschluss und Feedback  
 
 Der Workshop kombiniert theoretische Inhalte mit praktischen Übungen, um Ihnen einen umfassenden Einblick in die Microsoft 365-Plattform zu geben. Sie haben die Möglichkeit, Fragen zu stellen und in Echtzeit mit dem Kursleiter und anderen Teilnehmern zu interagieren.
