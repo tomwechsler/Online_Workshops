@@ -5,5 +5,6 @@ Informationen zu den verschiedenen Online Workshops!
 - Azure Grundlagen
 - Intune Grundlagen
 - Microsoft 365 Grundlagen
-- Wireshark Grundlagen (in Bearbeitung)
+- Wireshark Grundlagen
+- Azure Infrastruktur Administrieren
 - (weitere werden folgen)
