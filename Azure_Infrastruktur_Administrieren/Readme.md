@@ -24,28 +24,28 @@ Der Workshop findet über eine Dauer von 3 Stunden statt und wird über die Plat
 
 ## Hauptthemen:
 1. Einführung in Microsoft Azure  
-    Überblick über Azure-Dienste und -Infrastruktur
-    Azure-Portale und -Tools
+    Überblick über Azure-Dienste und -Infrastruktur  
+    Azure-Portale und -Tools  
 
 2. Azure Netzwerkverwaltung  
-    Azure Virtual Networks und Subnetze
-    Netzwerksicherheitsgruppen und Firewall-Regeln
-    Praktische Übung: Erstellen und Verwalten eines Azure Virtual Network
+    Azure Virtual Networks und Subnetze  
+    Netzwerksicherheitsgruppen und Firewall-Regeln  
+    Praktische Übung: Erstellen und Verwalten eines Azure Virtual Network  
 
 3. Azure Identitäts- und Zugriffsmanagement  
-    Überblick über Azure Active Directory
-    Rollenbasierte Zugriffskontrolle (RBAC)
-    Praktische Übung: Verwalten von Zugriffsrechten in Azure Active Directory
+    Überblick über Azure Active Directory  
+    Rollenbasierte Zugriffskontrolle (RBAC)  
+    Praktische Übung: Verwalten von Zugriffsrechten in Azure Active Directory  
 
 4. Azure Speicher- und Datenverwaltung  
-    Azure Storage Accounts und Dienste
-    Datensicherheit und -wiederherstellung
-    Praktische Übung: Einrichten und Verwalten eines Azure Storage Account
+    Azure Storage Accounts und Dienste  
+    Datensicherheit und -wiederherstellung  
+    Praktische Übung: Einrichten und Verwalten eines Azure Storage Account  
 
 5. Verwaltung von Azure Virtual Machines  
-    Erstellen und Verwalten von virtuellen Maschinen
-    VM-Skalierungssets und Verwaltung von VM-Größen
-    Praktische Übung: Erstellen und Verwalten einer Azure VM
+    Erstellen und Verwalten von virtuellen Maschinen  
+    VM-Skalierungssets und Verwaltung von VM-Größen  
+    Praktische Übung: Erstellen und Verwalten einer Azure VM  
 
 6. Fragen und Antworten  
     Offene Diskussion und Klärung von Fragen und Unsicherheiten
