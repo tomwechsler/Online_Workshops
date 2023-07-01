@@ -59,7 +59,7 @@ Die Teilnehmer dieses Workshops sollten grundlegende Kenntnisse in Cloud-Konzept
 Damit Sie dem Workshop bestens folgen können, sollten Sie Zugang haben zum Azure Portal. Idealerweise richten Sie dazu eine kostenlose Testversion ein (Link siehe unten).
 
 ## Zielgruppe:
-Dieser Workshop eignet sich hervorragend für IT-Administrator:Innen, Systemingenieure und Techniker, die bereits in Umgebungen arbeiten, die Microsoft Azure verwenden oder die eine Zertifizierung in Microsoft Azure anstreben und ihre Kenntnisse in der Verwaltung der Azure-Infrastruktur erweitern möchten.
+Dieser Workshop eignet sich hervorragend für IT-Administrator:Innen, Systemengineers und Techniker:Innen, die bereits in Umgebungen arbeiten, die Microsoft Azure verwenden oder die eine Zertifizierung in Microsoft Azure anstreben und ihre Kenntnisse in der Verwaltung der Azure-Infrastruktur erweitern möchten.
 
 Nach Abschluss des Workshops haben Sie ein solides Verständnis der Azure-Architektur und der grundlegenden Verwaltung von Azure-Ressourcen. Sie sind in der Lage, Ihre Azure-Kenntnisse zu erweitern und erste Schritte in der Entwicklung und Verwaltung von Azure-Lösungen zu unternehmen.
 
