@@ -46,6 +46,9 @@ https://learn.microsoft.com/de-de/training/modules/describe-cloud-service-types/
 Azure-Geografien  
 https://azure.microsoft.com/de-de/explore/global-infrastructure/geographies/#choose-your-region
 
+Verfügbare Produkte nach Region  
+https://azure.microsoft.com/de-de/explore/global-infrastructure/products-by-region/
+
 Was sind Azure-Regionen und -Verfügbarkeitszonen?  
 https://learn.microsoft.com/de-de/azure/reliability/availability-zones-overview
 
@@ -81,8 +84,14 @@ https://learn.microsoft.com/de-de/training/modules/describe-cost-management-azur
 Sicherheit und Governance  
 https://learn.microsoft.com/de-de/azure/cloud-adoption-framework/scenarios/wvd/eslz-security-governance-and-compliance
 
+Azure-Rollen, Azure AD-Rollen und Administratorrollen für klassische Abonnements  
+https://learn.microsoft.com/de-de/azure/role-based-access-control/rbac-and-directory-admin-roles
+
 Beschreiben von Features und Tools zum Verwalten und Bereitstellen von Azure-Ressourcen  
 https://learn.microsoft.com/de-de/training/modules/describe-features-tools-manage-deploy-azure-resources/
+
+Azure Storage Explorer  
+https://azure.microsoft.com/en-us/products/storage/storage-explorer
 
 Grundlegendes zu Überwachungstools in Azure  
 https://learn.microsoft.com/de-de/training/modules/describe-monitoring-tools-azure/
