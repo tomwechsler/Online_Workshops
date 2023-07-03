@@ -18,20 +18,20 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff "Anmeldung Workshop Workflow Management Grundlagen".  
 
 ## Kursbeschreibung:
-In diesem 3-stündigen Workshop konzentrieren wir uns auf das Zusammenspiel und die Interaktion zwischen Github, Github Client, Visual Studio Code und PowerShell. Die Teilnehmer:Innen erhalten einen Überblick, wie diese Tools effizient zusammenarbeiten, um die Zusammenarbeit in Teams zu verbessern. Anhand von praktischen Übungen erfahren die Teilnehmer, wie man die Tools effizient miteinander verbindet und integriert, um einen effektiven Entwicklungs-Workflow zu schaffen.
+In diesem 3-stündigen Workshop konzentrieren wir uns auf das Zusammenspiel und die Interaktion zwischen Github, Git Client, Visual Studio Code und PowerShell. Die Teilnehmer:Innen erhalten einen Überblick, wie diese Tools effizient zusammenarbeiten, um die Zusammenarbeit in Teams zu verbessern. Anhand von praktischen Übungen erfahren die Teilnehmer, wie man die Tools effizient miteinander verbindet und integriert, um einen effektiven Entwicklungs-Workflow zu schaffen.
 
 ## Hauptthemen:
 1. Einführung und Überblick  
     Workshop-Ziele und -Format  
     Kurze Übersicht über jedes Tool und seine Funktion  
 
-2. Interaktion zwischen Github und Github Client  
-    Wie man Repositories in Github erstellt und verwaltet und diese mit dem Github Client synchronisiert  
-    Demonstration und Übung der Code-Überprüfung und -Zusammenarbeit mit Github und Github Client  
+2. Interaktion zwischen Github und Git Client  
+    Wie man Repositories in Github erstellt und verwaltet und diese mit dem Git Client synchronisiert  
+    Demonstration und Übung der Code-Überprüfung und -Zusammenarbeit mit Github und Git Client  
 
-3. Integration von Visual Studio Code mit Github und Github Client  
-    Wie man Code in Visual Studio Code schreibt und direkt in Github über den Github Client pusht  
-    Demonstration und Übung der Integration von Visual Studio Code mit Github und Github Client  
+3. Integration von Visual Studio Code mit Github und Git Client  
+    Wie man Code in Visual Studio Code schreibt und direkt in Github über den Git Client pusht  
+    Demonstration und Übung der Integration von Visual Studio Code mit Github und Git Client  
 
 4. Nutzung und Integration von PowerShell mit Visual Studio Code und Github  
     Wie man PowerShell-Skripte in Visual Studio Code erstellt und ausführt  
@@ -48,11 +48,11 @@ Um an diesem Workshop teilzunehmen sollten Sie über die folgenden Grundkenntnis
 
 1. Grundkenntnisse in der Softwareentwicklung
 
-2. Ein Laptop mit installierten Tools: Github Client, Visual Studio Code und PowerShell
+2. Ein Laptop mit installierten Tools: Git Client, Visual Studio Code und PowerShell
 
 3. Ein Github-Konto
 
-4. Grundlegendes Verständnis der Funktionsweise jedes Tools: Github, Github Client, Visual Studio Code und PowerShell
+4. Grundlegendes Verständnis der Funktionsweise jedes Tools: Github, Git Client, Visual Studio Code und PowerShell
 
 5. Bereitschaft zum Lernen: Die wichtigste Voraussetzung ist, dass Sie bereit sind, zu lernen und neue Fähigkeiten zu erwerben!  
 
