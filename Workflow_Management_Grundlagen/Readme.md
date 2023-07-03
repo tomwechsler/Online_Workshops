@@ -84,7 +84,7 @@ Ich wünsche Ihnen viel Spass mit dem Workshop. Wenn Sie Fragen haben, können S
 
   https://git-scm.com/downloads
 
-- Installing PowerShell on Windows
+- Installieren von PowerShell unter Windows  
 
   https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows   
 
