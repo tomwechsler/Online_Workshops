@@ -50,10 +50,10 @@ Der Workshop findet über eine Dauer von 3 Stunden statt und wird über die Plat
 6. Fragen und Antworten  
     Offene Diskussion und Klärung von Fragen und Unsicherheiten
 
-Der Workshop kombiniert theoretische Inhalte mit praktischen Übungen, um Ihnen einen umfassenden Einblick in die Azure-Plattform zu geben. Sie haben die Möglichkeit, Fragen zu stellen und in Echtzeit mit dem Kursleiter und anderen Teilnehmern zu interagieren.
+Der Workshop kombiniert theoretische Inhalte mit praktischen Übungen, um Ihnen einen umfassenden Einblick in die Azure-Plattform zu geben. Sie haben die Möglichkeit, Fragen zu stellen und in Echtzeit mit dem Kursleiter und anderen Teilnehmer:Innen zu interagieren.
 
 ## Voraussetzungen:
-Die Teilnehmer dieses Workshops sollten grundlegende Kenntnisse in Cloud-Konzepten, Netzwerk- und Serveradministration und Microsoft-Produkten wie Windows Server und Active Directory mitbringen. Ein vorhandenes Microsoft Azure-Konto ist erforderlich, um praktische Übungen durchzuführen.
+Die Teilnehmer:Innen dieses Workshops sollten grundlegende Kenntnisse in Cloud-Konzepten, Netzwerk- und Serveradministration und Microsoft-Produkten wie Windows Server und Active Directory mitbringen. Ein vorhandenes Microsoft Azure-Konto ist erforderlich, um praktische Übungen durchzuführen.
 
 **Empfehlung:**  
 Damit Sie dem Workshop bestens folgen können, sollten Sie Zugang haben zum Azure Portal. Idealerweise richten Sie dazu eine kostenlose Testversion ein (Link siehe unten).

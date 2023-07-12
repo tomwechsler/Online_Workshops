@@ -41,7 +41,7 @@ In diesem 3-stündigen Workshop konzentrieren wir uns auf das Zusammenspiel und 
     Gelegenheit für Fragen und Diskussionen  
     Zusammenfassung der gelernten Inhalte und nächste Schritte  
 
-Der Workshop besteht aus einer Mischung aus Vorträgen, Demonstrationen und Übungen. Die Teilnehmer haben auch die Möglichkeit, Fragen zu stellen und das Gelernte in Übungen anzuwenden.
+Der Workshop besteht aus einer Mischung aus Vorträgen, Demonstrationen und Übungen. Die Teilnehmer:Innen haben auch die Möglichkeit, Fragen zu stellen und das Gelernte in Übungen anzuwenden.
 
 ## Voraussetzungen:
 Um an diesem Workshop teilzunehmen sollten Sie über die folgenden Grundkenntnisse verfügen:
@@ -60,7 +60,7 @@ Um an diesem Workshop teilzunehmen sollten Sie über die folgenden Grundkenntnis
 Damit Sie dem Workshop bestens folgen können, sollten Sie ein eigenes Testsystem vorbereiten.
 
 ## Zielgruppe:
-Dieser Workshop ist ideal für IT Professionals, die eine bessere Verständigung der Zusammenarbeit dieser vier Tools erlangen möchten. Er ist auch nützlich für Projektmanager und Teamleiter, die nach Wegen suchen, ihre Teamkollaboration und Entwicklungsprozesse zu optimieren.
+Dieser Workshop ist ideal für IT Professionals, die eine bessere Verständigung der Zusammenarbeit dieser vier Tools erlangen möchten. Er ist auch nützlich für Projektmanager:Innen und Teamleiter:Innen, die nach Wegen suchen, ihre Teamkollaboration und Entwicklungsprozesse zu optimieren.
 
 ## Hinweis:
 Dieser Workshop bietet eine Einführung in Workflow Management Grundlagen und legt den Grundstein für weitere Vertiefungen in spezifischen Workflow Management bereichen. Es handelt sich nicht um einen umfassenden Kurs, der alle Aspekte des Workflow Managements abdeckt.
