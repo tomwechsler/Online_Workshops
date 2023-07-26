@@ -19,6 +19,12 @@ https://learn.microsoft.com/de-de/training/modules/describe-cloud-compute/6-desc
 
 ## Azure Netzwerkverwaltung
 
+**Azure networking services overview**  
+https://learn.microsoft.com/en-us/azure/networking/fundamentals/networking-overview
+
+**Azure Networking architecture documentation**  
+https://learn.microsoft.com/en-us/azure/networking/fundamentals/architecture-guides
+
 ## Azure Identitäts- und Zugriffsmanagement
 
 ## Azure Speicher- und Datenverwaltung
