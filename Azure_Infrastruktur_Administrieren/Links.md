@@ -25,6 +25,12 @@ https://learn.microsoft.com/en-us/azure/networking/fundamentals/networking-overv
 **Azure Networking architecture documentation**  
 https://learn.microsoft.com/en-us/azure/networking/fundamentals/architecture-guides
 
+**Quickstart: Use the Azure portal to create a virtual network**  
+https://learn.microsoft.com/en-us/azure/virtual-network/quick-create-portal
+
+**Azure Resource Graph sample queries for Azure networking**  
+https://learn.microsoft.com/en-us/azure/networking/fundamentals/resource-graph-samples
+
 ## Azure Identitäts- und Zugriffsmanagement
 
 ## Azure Speicher- und Datenverwaltung
