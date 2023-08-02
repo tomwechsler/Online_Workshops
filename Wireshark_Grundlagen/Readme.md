@@ -25,11 +25,11 @@ Der Workshop wird über die Plattform Microsoft Teams durchgeführt.
 ## Hauptthemen:
 1. Erlernen Sie, wie Sie Wireshark installieren und konfigurieren
 
-2. Verstehen Sie die Grundlagen des Netzwerkverkehrs und der Protokollanalyse
+2. Verstehen der Grundlagen des Netzwerkverkehrs und der Protokollanalyse
 
-3. Erfassen Sie Datenverkehr in Echtzeit und analysieren Sie ihn mit Wireshark
+3. Erfassen des Datenverkehrs in Echtzeit und analysieren Sie ihn mit Wireshark
 
-4. Nutzen Sie erweiterte Funktionen und Filter, um detaillierte Informationen über Ihr Netzwerk zu erhalten
+4. Nutzen der erweiterten Funktionen und Filter, um detaillierte Informationen über Ihr Netzwerk zu erhalten
 
 5. Praktische Übungen, um das Gelernte zu festigen und anzuwenden
 
