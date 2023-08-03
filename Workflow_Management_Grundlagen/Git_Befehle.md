@@ -29,7 +29,7 @@ git add .
 
 ```
 
-Commit the staged snapshot, but instead of launching a text editor, use <message> as the commit message.  
+Commit the staged snapshot, but instead of launching a text editor, use "<message>" as the commit message.  
 
 ```
 git commit -m "New lines added to the script"
@@ -41,3 +41,13 @@ List which files are staged, unstaged, and untracked.
 git status
 ```
 
+Display the entire commit history using the default format. For customization see additional options.  
+
+```
+git log
+
+or
+
+git log --oneline
+
+```
