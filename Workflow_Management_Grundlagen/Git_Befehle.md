@@ -49,11 +49,14 @@ git log
 or
 
 git log --oneline
-
 ```
 
 Show unstaged changes between your index and working directory.  
 
 ```
 git diff
+
+or
+
+git diff --cached
 ```
