@@ -14,13 +14,13 @@ Create empty Git repo in specified directory. Run with no arguments to initializ
 git init <directory>
 ```
 
-Clone repo located at <repo> onto local machine. Original repo can be located on the local filesystem or on a remote machine via HTTP or SSH.  
+Clone repo located at "repo" onto local machine. Original repo can be located on the local filesystem or on a remote machine via HTTP or SSH.  
 
 ```
 git clone <repo>
 ```
 
-Stage all changes in <directory> for the next commit. Replace <directory> with a <file> to change a specific file or use a dot for all files in the repo.  
+Stage all changes in "directory" for the next commit. Replace "directory" with a "file" to change a specific file or use a dot for all files in the repo.  
 
 ```
 git add example.txt
@@ -29,7 +29,7 @@ git add .
 
 ```
 
-Commit the staged snapshot, but instead of launching a text editor, use "<message>" as the commit message.  
+Commit the staged snapshot, but instead of launching a text editor, use "message" as the commit message.  
 
 ```
 git commit -m "New lines added to the script"
