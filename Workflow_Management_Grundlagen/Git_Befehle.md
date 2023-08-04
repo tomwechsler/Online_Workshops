@@ -60,3 +60,22 @@ or
 
 git diff --cached
 ```
+
+## UNDOING CHANGES
+Create new commit that undoes all of the changes made in "commit", then apply it to the current branch.  
+
+```
+git revert <commit>
+```
+
+Remove "file" from the staging area, but leave the working directory unchanged. This unstages a file without overwriting any changes.  
+
+```
+git reset <file>
+```
+
+Shows which files would be removed from working directory. Use the -f flag in place of the -n flag to execute the clean.  
+
+```
+git clean -n
+```

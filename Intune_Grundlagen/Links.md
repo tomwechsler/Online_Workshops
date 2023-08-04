@@ -1,8 +1,14 @@
 # Liste von Links - Microsoft Dokumentation
 
 ## Intune
-Try Microsoft Intune for free  
+Microsoft 365 Licensing  
+https://m365maps.com/
+
+Kostenlose Testversion    
 https://learn.microsoft.com/en-us/mem/intune/fundamentals/free-trial-sign-up
+
+Übersicht über den MDM-Lebenszyklus von Microsoft Intune (MDM = Mobile Device Management; mobile Geräteverwaltung)  
+https://learn.microsoft.com/de-de/mem/intune/fundamentals/device-lifecycle
 
 Microsoft Intune sicheres Verwalten von Identitäten, Verwalten von Apps und Verwalten von Geräten  
 https://learn.microsoft.com/de-de/mem/intune/fundamentals/what-is-intune
