@@ -25,9 +25,6 @@ https://learn.microsoft.com/de-de/mem/intune/fundamentals/what-is-intune#key-fea
 Einrichten von Microsoft Intune  
 https://learn.microsoft.com/de-de/mem/intune/fundamentals/deployment-plan-setup
 
-Registrierungsleitfaden: Microsoft Intune Registrierung  
-https://learn.microsoft.com/de-de/mem/intune/fundamentals/deployment-guide-enrollment
-
 Zuweisen von Richtlinien in Microsoft Intune  
 https://learn.microsoft.com/de-de/mem/intune/configuration/device-profile-assign
 
