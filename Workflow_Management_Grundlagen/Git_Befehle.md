@@ -1,7 +1,7 @@
 # Git Cheat Sheet
 
 ## GIT BASICS
-Define author name to be used for all commits in current repo. Devs commonly use --global flag to set config options for current user.  
+Define the author name to be used for all commits by the current user.  
 
 ```
 git config --global user.name "Tom Wechsler"
@@ -79,3 +79,23 @@ Shows which files would be removed from working directory. Use the -f flag in pl
 ```
 git clean -n
 ```
+
+## REWRITING GIT HISTORY
+Replace the last commit with the staged changes and last commit combined. Use with nothing staged to edit the last commit’s message.  
+
+```
+git commit --amend
+```
+
+Rebase the current branch onto "base". "base" can be a commit ID, branch name, a tag, or a relative reference to HEAD.  
+
+```
+git rebase <base>
+```
+
+Show a log of changes to the local repository’s HEAD. Add --relative-date flag to show date info or --all to show all refs.  
+
+```
+git reflog
+```
+
