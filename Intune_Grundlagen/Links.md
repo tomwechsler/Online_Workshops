@@ -30,3 +30,6 @@ https://learn.microsoft.com/de-de/mem/intune/fundamentals/deployment-guide-enrol
 
 Zuweisen von Richtlinien in Microsoft Intune  
 https://learn.microsoft.com/de-de/mem/intune/configuration/device-profile-assign
+
+Welche Informationen erhält meine Organisation, wenn ich mein Gerät registriere?  
+https://learn.microsoft.com/de-de/mem/intune/user-help/what-info-can-your-company-see-when-you-enroll-your-device-in-intune
