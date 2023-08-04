@@ -1,4 +1,4 @@
-# 📢 Wireshark Grundlagen - Einrichtung, Geräteverwaltung, Anwendungsmanagement und Überwachung! 📢
+# 📢 Wireshark Grundlagen - Einführung in die Netzwerkanalyse mit Wireshark! 📢
 Online Workshop zum Thema Wireshark Grundlagen!
 
 ## Workshop Wireshark Grundlagen
