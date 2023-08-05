@@ -8,4 +8,5 @@ Informationen zu den verschiedenen Online Workshops!
 - Wireshark Grundlagen
 - Workflow Management Grundlagen (Das Zusammenspiel von Github, Visual Studio Code und PowerShell)
 - Azure Infrastruktur Administrieren
+- Intune Windows Geräte Verwaltung
 - (weitere werden folgen)
