@@ -99,3 +99,22 @@ Show a log of changes to the local repository’s HEAD. Add --relative-date flag
 git reflog
 ```
 
+## GIT BRANCHES
+
+List all of the branches in your repo.  
+
+```
+git branch
+```
+
+Create and check out a new branch named bugfix. Drop the -b flag to checkout an existing branch.  
+
+```
+git checkout -b bugfix
+```
+
+Merge "branch" into the current branch.  
+
+```
+git merge bugfix
+```

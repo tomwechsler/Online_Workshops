@@ -35,12 +35,12 @@ Der Workshop findet über eine Dauer von 3 Stunden statt und wird über die Plat
     Geräteregistrierung und -enrollment  
     Erstellen und Zuweisen von Gerätekonfigurationsprofilen  
     Geräte- und App-Konformitätsrichtlinien  
-    Demonstration und Übung: Geräteverwaltung mit Intune  
+    Demonstration: Geräteverwaltung mit Intune  
 
 4. Anwendungsmanagement mit Intune   
     Anwendungspaket-Erstellung und -Bereitstellung  
     Verwaltung von Anwendungsberechtigungen und -Updates  
-    Demonstration und Übung: Anwendungsmanagement mit Intune  
+    Demonstration: Anwendungsmanagement mit Intune  
 
 5. Überwachung und Berichterstattung  
     Überblick über Überwachungs- und Berichtsfunktionen  
