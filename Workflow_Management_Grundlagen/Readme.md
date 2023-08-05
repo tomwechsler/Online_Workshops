@@ -1,11 +1,11 @@
 # 📢 Workflow Management Grundlagen: Das Zusammenspiel von Github, Visual Studio Code und PowerShell! 📢
 Online Workshop zum Thema Workflow Management!
 
-## Workshop Workflow Management
+## Workshop Workflow Management Grundlagen
 mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
 
-## Kurs Informationen:
+## Informationen:
 🗓️ Datum: 15. September 2023  
 ⌚ Zeit: 14.00 Uhr  
 ⌚ Dauer: 3 Stunden  

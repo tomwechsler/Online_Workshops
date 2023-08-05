@@ -4,7 +4,6 @@ Online Workshop zum Thema Azure Infrastruktur Administrieren!
 ## Workshop Microsoft Azure Infrastruktur Administrieren
 mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
-
 ## Informationen:
 🗓️ Datum: 08. September 2023  
 ⌚ Zeit: 14.00 Uhr  
@@ -57,7 +56,7 @@ Dieser Workshop eignet sich hervorragend für IT-Administrator:Innen, Systemengi
 Nach Abschluss des Workshops haben Sie ein solides Verständnis der Azure-Architektur und der grundlegenden Verwaltung von Azure-Ressourcen. Sie sind in der Lage, Ihre Azure-Kenntnisse zu erweitern und erste Schritte in der Entwicklung und Verwaltung von Azure-Lösungen zu unternehmen.
 
 ## Hinweis:
-Dieser Workshop bietet eine Einführung in Azure Infrastruktur Administrieren und legt den Grundstein für weitere Vertiefungen in spezifischen Azure-Bereichen. Es handelt sich nicht um einen umfassenden Kurs, der alle Aspekte von Azure abdeckt.
+Dieser Workshop bietet eine Einführung in Azure Infrastruktur Administrieren und legt den Grundstein für weitere Vertiefungen in spezifischen Azure-Bereichen. Es handelt sich nicht um einen umfassenden Workshop, der alle Aspekte von Azure abdeckt.
 
 
 ## Kontaktinformationen

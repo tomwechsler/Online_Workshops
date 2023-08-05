@@ -4,7 +4,6 @@ Online Workshop zum Thema Microsoft 365 Grundlagen!
 ## Workshop Microsoft 365 Grundlagen
 mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
-
 ## Informationen:
 🗓️ Datum: 13. Oktober 2023  
 ⌚ Zeit: 14.00 Uhr  
@@ -63,7 +62,8 @@ Dieser Workshop richtet sich an Einsteiger:Innen in Microsoft 365, Mitarbeiter:I
 Nach Abschluss des Workshops haben Sie ein solides Verständnis der der Microsoft 365-Architektur. Sie sind in der Lage, Ihre Microsoft 365-Kenntnisse zu erweitern und erste Schritte in der Entwicklung und Verwaltung von Microsoft 365-Lösungen zu unternehmen.
 
 ## Hinweis:
-Dieser Workshop bietet eine Einführung in Microsoft 365-Grundlagen und legt den Grundstein für weitere Vertiefungen in spezifischen Microsoft 365-Bereichen. Es handelt sich nicht um einen umfassenden Kurs, der alle Aspekte von Microsoft 365 abdeckt.
+Dieser Workshop bietet eine Einführung in Microsoft 365-Grundlagen und legt den Grundstein für weitere Vertiefungen in spezifischen Microsoft 365-Bereichen. Es handelt sich nicht um einen umfassenden Workshop, der alle Aspekte von Microsoft 365 abdeckt.
+
 
 ## Kontaktinformationen
 Ich wünsche Ihnen viel Spass mit dem Workshop. Wenn Sie Fragen haben, können Sie mich unter folgender Adresse erreichen:

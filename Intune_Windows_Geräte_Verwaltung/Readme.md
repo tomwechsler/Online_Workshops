@@ -53,7 +53,7 @@ Dieser Workshop richtet sich an IT-Profis, Entwickler:Innen und Entscheidungstr�
 Nach Abschluss des Workshops haben Sie ein solides Verständnis der Intune-Architektur und der grundlegenden Verwaltung von Windows-Geräten. Sie sind in der Lage, Ihre Intune-Kenntnisse zu erweitern und erste Schritte in Richtung Windows-Geräte Verwaltung zu unternehmen.
 
 ## Hinweis:
-Dieser Workshop bietet eine Einführung in Windows-Geräte Verwaltung und legt den Grundstein für weitere Vertiefungen in spezifischen Intune-Bereichen. Es handelt sich nicht um einen umfassenden Kurs, der alle Aspekte von Intune abdeckt.
+Dieser Workshop bietet eine Einführung in Windows-Geräte Verwaltung und legt den Grundstein für weitere Vertiefungen in spezifischen Intune-Bereichen. Es handelt sich nicht um einen umfassenden Workshop, der alle Aspekte von Intune abdeckt.
 
 ## Kontaktinformationen
 Ich wünsche Ihnen viel Spass mit dem Workshop. Wenn Sie Fragen haben, können Sie mich unter folgender Adresse erreichen:

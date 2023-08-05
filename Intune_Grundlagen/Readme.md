@@ -4,7 +4,6 @@ Online Workshop zum Thema Intune Grundlagen!
 ## Workshop Intune Grundlagen
 mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
-
 ## Informationen:
 🗓️ Datum: 06. Oktober 2023  
 ⌚ Zeit: 14.00 Uhr  
@@ -62,7 +61,8 @@ Dieser Workshop richtet sich an IT-Profis, Entwickler:Innen und Entscheidungstr�
 Nach Abschluss des Workshops haben Sie ein solides Verständnis der der Intune-Architektur und der grundlegenden Verwaltung von Intune-Ressourcen. Sie sind in der Lage, Ihre Intune-Kenntnisse zu erweitern und erste Schritte in der Entwicklung und Verwaltung von Intune-Lösungen zu unternehmen.
 
 ## Hinweis:
-Dieser Workshop bietet eine Einführung in Intune-Grundlagen und legt den Grundstein für weitere Vertiefungen in spezifischen Intune-Bereichen. Es handelt sich nicht um einen umfassenden Kurs, der alle Aspekte von Intune abdeckt.
+Dieser Workshop bietet eine Einführung in Intune-Grundlagen und legt den Grundstein für weitere Vertiefungen in spezifischen Intune-Bereichen. Es handelt sich nicht um einen umfassenden Workshop, der alle Aspekte von Intune abdeckt.
+
 
 ## Kontaktinformationen
 Ich wünsche Ihnen viel Spass mit dem Workshop. Wenn Sie Fragen haben, können Sie mich unter folgender Adresse erreichen:
