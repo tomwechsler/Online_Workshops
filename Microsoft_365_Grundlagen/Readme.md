@@ -5,31 +5,30 @@ Online Workshop zum Thema Microsoft 365 Grundlagen!
 mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
 
-## Kurs Informationen:
-🗓️ Datum: 11. August 2023  
+## Informationen:
+🗓️ Datum: 13. Oktober 2023  
 ⌚ Zeit: 14.00 Uhr  
 ⌚ Dauer: 3 Stunden  
 💸 Preis pro TeilnehmerIn: Euro 120.- (für Anmeldungen aus der Schweiz - CHF 120.- exkl. MwSt.)  
 📍 Plattform: Microsoft Teams (Online Workshop)  
-🗓️ **Anmeldefrist: 04. August 2023**  
+🗓️ **Anmeldefrist: 06. Oktober 2023**  
 
-> Note: Jede Teilnehmerin und jeder Teilnehmer erhalten eine Bestätigung der Kursteilnahme!
+> Note: Jede Teilnehmerin und jeder Teilnehmer erhalten eine Bestätigung der Workshop-Teilnahme!
 
 Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff "Anmeldung Workshop Microsoft 365 Grundlagen".  
 
-## Kursbeschreibung:
+## Beschreibung:
 In diesem interaktiven Workshop werden wir uns intensiv mit den Grundlagen von Microsoft 365 beschäftigen. Teilnehmer:Innen haben die Möglichkeit, sich mit den vielseitigen Funktionen und Anwendungen von Microsoft 365 vertraut zu machen. Der Workshop ist speziell auf Einsteiger:Innen zugeschnitten. Sie erlernen, wie man effektiv E-Mails verwaltet, Dateien teilt, Meetings plant und die vielseitigen Produktivitätstools nutzt, um die tägliche Arbeit zu erleichtern.
 
 Der Workshop findet über eine Dauer von 3 Stunden statt und wird über die Plattform Microsoft Teams durchgeführt.
 
 ## Hauptthemen:
 1. Einführung  
-    Begrüßung und Vorstellung  
+    Begrüssung und Vorstellung  
     Übersicht über Microsoft 365 und seine Anwendungen
 
 2. Microsoft 365 Konto  
-    Erstellen eines Microsoft 365-Kontos (falls nicht vorhanden)  
-    Einführung in die Microsoft 365-Oberfläche und Einstellungen
+    Einführung in die Microsoft 365-Oberfläche und Einstellungen  
 
 3. Outlook und E-Mail-Management  
     Grundlegende Funktionen von Outlook  
@@ -45,22 +44,15 @@ Der Workshop findet über eine Dauer von 3 Stunden statt und wird über die Plat
 
 6. SharePoint und OneDrive  
     Speichern und Teilen von Dokumenten  
-    Zusammenarbeit mit SharePoint und OneDrive
+    Zusammenarbeit mit SharePoint und OneDrive  
 
-7. Fragen und Abschluss  
-    Offene Fragen klären  
-    Tipps und Tricks für den effektiven Einsatz von Microsoft 365  
-    Abschluss und Feedback  
-
-Der Workshop kombiniert theoretische Inhalte mit praktischen Übungen, um Ihnen einen umfassenden Einblick in die Microsoft 365-Plattform zu geben. Sie haben die Möglichkeit, Fragen zu stellen und in Echtzeit mit dem Kursleiter und anderen Teilnehmern zu interagieren.
+Der Workshop kombiniert theoretische Inhalte mit Demo's, um Ihnen einen umfassenden Einblick in die Microsoft 365-Plattform zu geben. Sie haben die Möglichkeit, Fragen zu stellen und in Echtzeit mit dem Kursleiter und anderen Teilnehmern zu interagieren.
 
 ## Voraussetzungen:
 Um an diesem Workshop teilzunehmen, sollten Sie über grundlegende IT-Kenntnisse verfügen und ein grundlegendes Verständnis von Cloud-Computing haben. 
 
 Weitere Voraussetzungen sind:  
-    - Grundlegende Kenntnisse von Microsoft 365 und Azure AD  
-    - Ein Microsoft 365-Abonnement und Zugriff auf das Admin Center (während des Workshops)  
-    - Ein Laptop oder Desktop-Computer mit Internetzugang  
+    - Grundlegende Kenntnisse von Microsoft 365 und Azure AD   
 
 **Empfehlung:**  
 Damit Sie dem Workshop bestens folgen können, sollten Sie Zugang haben zum Microsoft 365 Portal.
