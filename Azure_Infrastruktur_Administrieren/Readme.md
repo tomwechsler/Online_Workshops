@@ -5,7 +5,7 @@ Online Workshop zum Thema Azure Infrastruktur Administrieren!
 mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
 
-## Kurs Informationen:
+## Informationen:
 🗓️ Datum: 08. September 2023  
 ⌚ Zeit: 14.00 Uhr  
 ⌚ Dauer: 3 Stunden  
@@ -13,12 +13,12 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 📍 Plattform: Microsoft Teams (Online Workshop)  
 🗓️ **Anmeldefrist: 01. September 2023**  
 
-> Note: Jede Teilnehmerin und jeder Teilnehmer erhalten eine Bestätigung der Kursteilnahme!
+> Note: Jede Teilnehmerin und jeder Teilnehmer erhalten eine Bestätigung der Workshop-Teilnahme!
 
 Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff "Anmeldung Workshop Microsoft Azure Infrastruktur Administrieren".  
 
-## Kursbeschreibung:
-Dieser intensive Workshop ist darauf ausgelegt, IT-Profis in die Grundlagen der Administration der Microsoft Azure Infrastruktur einzuführen. Der Workshop bietet eine detaillierte Übersicht über die Bereiche wie Netzwerkverwaltung, Identitäts- und Zugriffsmanagement, Speicherdienste, virtuelle Maschinen und mehr. Teilnehmer werden praktische Übungen zur Anwendung dieser Konzepte durchführen, um ihre Fähigkeiten zur Verwaltung und Optimierung der Azure-Infrastruktur zu stärken.
+## Beschreibung:
+Dieser intensive Workshop ist darauf ausgelegt, IT-Profis in die Grundlagen der Administration der Microsoft Azure Infrastruktur einzuführen. Der Workshop bietet eine detaillierte Übersicht über die Bereiche wie Netzwerkverwaltung, Identitäts- und Zugriffsmanagement, Speicherdienste, virtuelle Maschinen und mehr.
 
 Der Workshop findet über eine Dauer von 3 Stunden statt und wird über die Plattform Microsoft Teams durchgeführt.
 
@@ -29,31 +29,24 @@ Der Workshop findet über eine Dauer von 3 Stunden statt und wird über die Plat
 
 2. Azure Netzwerkverwaltung  
     Azure Virtual Networks und Subnetze  
-    Netzwerksicherheitsgruppen und Firewall-Regeln  
-    Praktische Übung: Erstellen und Verwalten eines Azure Virtual Network  
+    Netzwerksicherheitsgruppen und Firewall-Regeln    
 
 3. Azure Identitäts- und Zugriffsmanagement  
     Überblick über Azure Active Directory  
-    Rollenbasierte Zugriffskontrolle (RBAC)  
-    Praktische Übung: Verwalten von Zugriffsrechten in Azure Active Directory  
+    Rollenbasierte Zugriffskontrolle (RBAC)   
 
 4. Azure Speicher- und Datenverwaltung  
     Azure Storage Accounts und Dienste  
     Datensicherheit und -wiederherstellung  
-    Praktische Übung: Einrichten und Verwalten eines Azure Storage Account  
 
 5. Verwaltung von Azure Virtual Machines  
     Erstellen und Verwalten von virtuellen Maschinen  
     VM-Skalierungssets und Verwaltung von VM-Größen  
-    Praktische Übung: Erstellen und Verwalten einer Azure VM  
 
-6. Fragen und Antworten  
-    Offene Diskussion und Klärung von Fragen und Unsicherheiten
-
-Der Workshop kombiniert theoretische Inhalte mit praktischen Übungen, um Ihnen einen umfassenden Einblick in die Azure-Plattform zu geben. Sie haben die Möglichkeit, Fragen zu stellen und in Echtzeit mit dem Kursleiter und anderen Teilnehmer:Innen zu interagieren.
+Der Workshop kombiniert theoretische Inhalte mit Demo's, um Ihnen einen umfassenden Einblick in die Azure-Plattform zu geben. Sie haben die Möglichkeit, Fragen zu stellen und in Echtzeit mit dem Kursleiter und anderen Teilnehmer:Innen zu interagieren.
 
 ## Voraussetzungen:
-Die Teilnehmer:Innen dieses Workshops sollten grundlegende Kenntnisse in Cloud-Konzepten, Netzwerk- und Serveradministration und Microsoft-Produkten wie Windows Server und Active Directory mitbringen. Ein vorhandenes Microsoft Azure-Konto ist erforderlich, um praktische Übungen durchzuführen.
+Die Teilnehmer:Innen dieses Workshops sollten grundlegende Kenntnisse in Cloud-Konzepten, Netzwerk- und Serveradministration und Microsoft-Produkten wie Windows Server und Active Directory mitbringen.
 
 **Empfehlung:**  
 Damit Sie dem Workshop bestens folgen können, sollten Sie Zugang haben zum Azure Portal. Idealerweise richten Sie dazu eine kostenlose Testversion ein (Link siehe unten).

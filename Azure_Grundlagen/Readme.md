@@ -5,7 +5,7 @@ Online Workshop zum Thema Azure Grundlagen!
 mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
 
-## Kurs Informationen:
+## Informationen:
 🗓️ Datum: 18. August 2023  
 ⌚ Zeit: 14.00 Uhr  
 ⌚ Dauer: 3 Stunden  
@@ -13,12 +13,12 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 📍 Plattform: Microsoft Teams (Online Workshop)  
 🗓️ **Anmeldefrist: 11. August 2023**  
 
-> Note: Jede Teilnehmerin und jeder Teilnehmer erhalten eine Bestätigung der Kursteilnahme!
+> Note: Jede Teilnehmerin und jeder Teilnehmer erhalten eine Bestätigung der Workshop-Teilnahme!
 
 Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff "Anmeldung Workshop Azure Grundlagen".  
 
-## Kursbeschreibung:
-Der Azure Grundlagen-Workshop ist ein interaktiver Online-Kurs, der Ihnen eine Einführung in die Grundlagen von Microsoft Azure bietet. 
+## Beschreibung:
+Der Azure Grundlagen-Workshop ist ein interaktiver Online-Workshop, der Ihnen eine Einführung in die Grundlagen von Microsoft Azure bietet. 
 Der Workshop findet über eine Dauer von 3 Stunden statt und wird über die Plattform Microsoft Teams durchgeführt.
 
 ## Hauptthemen:
@@ -35,7 +35,7 @@ Der Workshop findet über eine Dauer von 3 Stunden statt und wird über die Plat
    - Zugriffssteuerung und Sicherheitsaspekte in Azure
    - Überwachung und Skalierung von Azure-Ressourcen
 
-Der Workshop kombiniert theoretische Inhalte mit praktischen Übungen, um Ihnen einen umfassenden Einblick in die Azure-Plattform zu geben. Sie haben die Möglichkeit, Fragen zu stellen und in Echtzeit mit dem Kursleiter und anderen Teilnehmern zu interagieren.
+Der Workshop kombiniert theoretische Inhalte mit Demo's, um Ihnen einen umfassenden Einblick in die Azure-Plattform zu geben. Sie haben die Möglichkeit, Fragen zu stellen und in Echtzeit mit dem Kursleiter und anderen Teilnehmern zu interagieren.
 
 ## Voraussetzungen:
 Um an diesem Workshop teilzunehmen, sollten Sie über grundlegende IT-Kenntnisse verfügen und ein grundlegendes Verständnis von Cloud-Computing haben. Es sind keine spezifischen Azure-Vorkenntnisse erforderlich.
