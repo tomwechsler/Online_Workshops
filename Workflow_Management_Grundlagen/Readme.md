@@ -1,4 +1,4 @@
-# 📢 Workflow Management Grundlagen: Das Zusammenspiel von Github, Visual Studio Code und PowerShell! 📢
+# 📢 Workflow Management Grundlagen: Das Zusammenspiel von GitHub, Visual Studio Code und PowerShell! 📢
 Online Workshop zum Thema Workflow Management!
 
 ## Workshop Workflow Management Grundlagen
@@ -13,48 +13,34 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 📍 Plattform: Microsoft Teams (Online Workshop)  
 🗓️ **Anmeldefrist: 08. September 2023**  
 
-> Note: Jede Teilnehmerin und jeder Teilnehmer erhalten eine Bestätigung der Kursteilnahme!
+> Note: Jede Teilnehmerin und jeder Teilnehmer erhalten eine Bestätigung der Workshop-Teilnahme!
 
 Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff "Anmeldung Workshop Workflow Management Grundlagen".  
 
-## Kursbeschreibung:
-In diesem 3-stündigen Workshop konzentrieren wir uns auf das Zusammenspiel und die Interaktion zwischen Github, Git Client, Visual Studio Code und PowerShell. Die Teilnehmer:Innen erhalten einen Überblick, wie diese Tools effizient zusammenarbeiten, um die Zusammenarbeit in Teams zu verbessern. Anhand von praktischen Übungen erfahren die Teilnehmer, wie man die Tools effizient miteinander verbindet und integriert, um einen effektiven Entwicklungs-Workflow zu schaffen.
+## Beschreibung:
+In diesem 3-stündigen Workshop konzentrieren wir uns auf das Zusammenspiel und die Interaktion zwischen GitHub, Git, Visual Studio Code und PowerShell. Die Teilnehmer:Innen erhalten einen Überblick, wie diese Tools effizient zusammenarbeiten, um die Zusammenarbeit in Teams zu verbessern. Anhand von Demo's erfahren die Teilnehmer:Innen, wie man die Tools effizient miteinander verbindet und integriert, um einen effektiven Mangement-Workflow zu schaffen.
 
 ## Hauptthemen:
 1. Einführung und Überblick  
     Workshop-Ziele und -Format  
     Kurze Übersicht über jedes Tool und seine Funktion  
 
-2. Interaktion zwischen Github und Git Client  
-    Wie man Repositories in Github erstellt und verwaltet und diese mit dem Git Client synchronisiert  
-    Demonstration und Übung der Code-Überprüfung und -Zusammenarbeit mit Github und Git Client  
+2. Interaktion zwischen GitHub und Git  
+    Wie man Repositories in GitHub erstellt und verwaltet und diese mit Git synchronisiert  
+    Zusammenarbeit mit GitHub und Git  
 
-3. Integration von Visual Studio Code mit Github und Git Client  
-    Wie man Code in Visual Studio Code schreibt und direkt in Github über den Git Client pusht  
-    Demonstration und Übung der Integration von Visual Studio Code mit Github und Git Client  
+3. Integration von Visual Studio Code mit GitHub und Git  
 
-4. Nutzung und Integration von PowerShell mit Visual Studio Code und Github  
+4. Nutzung und Integration von PowerShell mit Visual Studio Code und GitHub  
     Wie man PowerShell-Skripte in Visual Studio Code erstellt und ausführt  
-    Demonstration und Übung der Integration von PowerShell mit Visual Studio Code und Github  
+    Integration von PowerShell mit Visual Studio Code und GitHub  
 
-5. Fragen und Antworten, Zusammenfassung  
-    Gelegenheit für Fragen und Diskussionen  
-    Zusammenfassung der gelernten Inhalte und nächste Schritte  
-
-Der Workshop besteht aus einer Mischung aus Vorträgen, Demonstrationen und Übungen. Die Teilnehmer:Innen haben auch die Möglichkeit, Fragen zu stellen und das Gelernte in Übungen anzuwenden.
+Der Workshop besteht aus einer Mischung aus Vorträgen und Demo's. Sie haben die Möglichkeit, Fragen zu stellen und in Echtzeit mit dem Kursleiter und anderen Teilnehmern zu interagieren.
 
 ## Voraussetzungen:
 Um an diesem Workshop teilzunehmen sollten Sie über die folgenden Grundkenntnisse verfügen:
 
-1. Grundkenntnisse in der Softwareentwicklung
-
-2. Ein Laptop mit installierten Tools: Git Client, Visual Studio Code und PowerShell
-
-3. Ein Github-Konto
-
-4. Grundlegendes Verständnis der Funktionsweise jedes Tools: Github, Git Client, Visual Studio Code und PowerShell
-
-5. Bereitschaft zum Lernen: Die wichtigste Voraussetzung ist, dass Sie bereit sind, zu lernen und neue Fähigkeiten zu erwerben!  
+1. Verständnis der Funktionsweise jedes Tools: GitHub, Git, Visual Studio Code und PowerShell  
 
 **Empfehlung:**  
 Damit Sie dem Workshop bestens folgen können, sollten Sie ein eigenes Testsystem vorbereiten.
@@ -63,7 +49,7 @@ Damit Sie dem Workshop bestens folgen können, sollten Sie ein eigenes Testsyste
 Dieser Workshop ist ideal für IT Professionals, die eine bessere Verständigung der Zusammenarbeit dieser vier Tools erlangen möchten. Er ist auch nützlich für Projektmanager:Innen und Teamleiter:Innen, die nach Wegen suchen, ihre Teamkollaboration und Entwicklungsprozesse zu optimieren.
 
 ## Hinweis:
-Dieser Workshop bietet eine Einführung in Workflow Management Grundlagen und legt den Grundstein für weitere Vertiefungen in spezifischen Workflow Management bereichen. Es handelt sich nicht um einen umfassenden Kurs, der alle Aspekte des Workflow Managements abdeckt.
+Dieser Workshop bietet eine Einführung in Workflow Management Grundlagen und legt den Grundstein für weitere Vertiefungen in spezifischen Workflow Management Bereichen. Es handelt sich nicht um einen umfassenden Workshop, der alle Aspekte des Workflow Managements abdeckt.
 
 ## Kontaktinformationen
 Ich wünsche Ihnen viel Spass mit dem Workshop. Wenn Sie Fragen haben, können Sie mich unter folgender Adresse erreichen:
@@ -80,7 +66,7 @@ Ich wünsche Ihnen viel Spass mit dem Workshop. Wenn Sie Fragen haben, können S
 
   https://code.visualstudio.com/download
 
-- Herunterladen des Git Clients:
+- Herunterladen von Git:
 
   https://git-scm.com/downloads
 
@@ -89,6 +75,6 @@ Ich wünsche Ihnen viel Spass mit dem Workshop. Wenn Sie Fragen haben, können S
   https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows   
 
 ## Weitere Lerninhalte
-- GitHub und VSCode Tip: Visual Studio Code, Git Client und GitHub:
+- GitHub und VSCode Tip: Visual Studio Code, Git und GitHub:
 
   https://youtu.be/x4abSzImfeY

@@ -43,7 +43,7 @@ Um an diesem Workshop teilzunehmen sollten Sie über die folgenden Grundkenntnis
 Damit Sie dem Workshop bestens folgen können, sollten Sie ein eigenes Testsystem vorbereiten.
 
 ## Zielgruppe:
-Dieser Workshop richtet sich an IT-Professionals, Systemadministrator:Innen und Netzwerkadministrator:Innen, die ihre Fähigkeiten und Kenntnisse in der Netzwerkanalyse vertiefen möchten. Er ist auch wertvoll für IT-Trainer:Innen und Dozenten:Innen, die praktisches Wissen über Netzwerkdiagnosewerkzeuge erwerben und weitergeben möchten. Der Kurs ist für jeden geeignet, der eine Leidenschaft für Netzwerktechnologien hat und lernen möchte, wie er das Wireshark-Tool effektiv nutzen kann.
+Dieser Workshop richtet sich an IT-Professionals, Systemadministrator:Innen und Netzwerkadministrator:Innen, die ihre Fähigkeiten und Kenntnisse in der Netzwerkanalyse vertiefen möchten. Er ist auch wertvoll für IT-Trainer:Innen und Dozenten:Innen, die praktisches Wissen über Netzwerkdiagnosewerkzeuge erwerben und weitergeben möchten. Der Workshop ist für jeden geeignet, der eine Leidenschaft für Netzwerktechnologien hat und lernen möchte, wie er das Wireshark-Tool effektiv nutzen kann.
 
 ## Hinweis:
 Dieser Workshop bietet eine Einführung in Wireshark-Grundlagen und legt den Grundstein für weitere Vertiefungen in spezifischen Wireshark-Bereichen. Es handelt sich nicht um einen umfassenden Workshop, der alle Aspekte der Netzwerkanalyse abdeckt.
