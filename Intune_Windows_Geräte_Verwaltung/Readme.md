@@ -4,7 +4,6 @@ Online Workshop zum Thema Windows Geräte Verwaltung mit Intune!
 ## Workshop Verwaltung von Windows-Geräten mit Microsoft Intune
 mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
-
 ## Kurs Informationen:
 🗓️ Datum: 29. September 2023  
 ⌚ Zeit: 14.00 Uhr  
@@ -43,7 +42,7 @@ Um an diesem Workshop teilzunehmen, sollten Sie über grundlegende IT-Kenntnisse
 Weitere Voraussetzungen sind:  
     - Grundlegende Kenntnisse von Microsoft 365 und Azure AD  
     - Grundlegende Kenntnisse von Microsoft Intune  
-    - Grundlegende Kenntnisse der Windows 10 Verwaltung
+    - Grundlegende Kenntnisse der Windows 10/11 Verwaltung
 
 **Empfehlung:**  
 Damit Sie dem Workshop bestens folgen können, sollten Sie Zugang haben zum Intune Portal.
@@ -51,7 +50,7 @@ Damit Sie dem Workshop bestens folgen können, sollten Sie Zugang haben zum Intu
 ## Zielgruppe:
 Dieser Workshop richtet sich an IT-Profis, Entwickler:Innen und Entscheidungsträger:Innen, die ihr Wissen über Intune-Grundlagen erweitern möchten.  
 
-Nach Abschluss des Workshops haben Sie ein solides Verständnis der der Intune-Architektur und der grundlegenden Verwaltung von Windows-Geräten. Sie sind in der Lage, Ihre Intune-Kenntnisse zu erweitern und erste Schritte in Richtung Windows-Geräte Verwaltung zu unternehmen.
+Nach Abschluss des Workshops haben Sie ein solides Verständnis der Intune-Architektur und der grundlegenden Verwaltung von Windows-Geräten. Sie sind in der Lage, Ihre Intune-Kenntnisse zu erweitern und erste Schritte in Richtung Windows-Geräte Verwaltung zu unternehmen.
 
 ## Hinweis:
 Dieser Workshop bietet eine Einführung in Windows-Geräte Verwaltung und legt den Grundstein für weitere Vertiefungen in spezifischen Intune-Bereichen. Es handelt sich nicht um einen umfassenden Kurs, der alle Aspekte von Intune abdeckt.
