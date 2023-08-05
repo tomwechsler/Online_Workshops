@@ -18,7 +18,7 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff "Anmeldung Workshop Intune Geräte Verwaltung".  
 
 ## Kursbeschreibung:
-Dieser dreistündige Kurs bietet eine schnelle und konzentrierte Einführung in die Verwaltung von Windows-Geräten mit Microsoft Intune. Die Teilnehmer werden lernen, wie sie Geräte registrieren, grundlegende Konfigurationsrichtlinien erstellen und Apps verwalten können. Aufgrund des kompakten Formats dieses Kurses wird der Schwerpunkt auf praktischen Fähigkeiten liegen, die sofort angewendet werden können.
+Dieser dreistündige Kurs bietet eine schnelle und konzentrierte Einführung in die Verwaltung von Windows-Geräten mit Microsoft Intune. Die Teilnehmer werden lernen, wie sie Geräte registrieren, grundlegende Konfigurationsrichtlinien erstellen und Apps verwalten können.
 
 ## Hauptthemen:
 1. Registrierung Windows-Geräten mit Autopilot
