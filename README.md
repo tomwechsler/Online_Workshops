@@ -1,4 +1,4 @@
-[Azure_Grundlagen](README.md) | [Azure_Infrastruktur_Administrieren](README.md) | [Intune_Grundlagen](README.md) | [Intune_Windows_Geräte_Verwaltung](README.md) | [Microsoft_365_Grundlagen](README.md) | [Wireshark_Grundlagen](README.md) | [Workflow_Management_Grundlagen](README.md)
+[Azure_Grundlagen](Readme.md) | [Azure_Infrastruktur_Administrieren](README.md) | [Intune_Grundlagen](README.md) | [Intune_Windows_Geräte_Verwaltung](README.md) | [Microsoft_365_Grundlagen](README.md) | [Wireshark_Grundlagen](README.md) | [Workflow_Management_Grundlagen](README.md)
 
 # Online Workshops
 Informationen zu den verschiedenen Online Workshops!
