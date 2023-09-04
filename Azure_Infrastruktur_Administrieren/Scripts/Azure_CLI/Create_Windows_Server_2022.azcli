@@ -1,0 +1,41 @@
+# Create a resource group
+rgName="myResourceGroupCLI"
+location="westeurope"
+az group create --name $rgName --location $location
+
+# Create a virtual network and a subnet
+vnetName="myVnet"
+subnetName="mySubnet"
+az network vnet create --name $vnetName --resource-group $rgName --location $location --address-prefix "10.0.0.0/16" --subnet-name $subnetName --subnet-prefix "10.0.0.0/24"
+
+# Create a network security group and a rule to allow RDP
+nsgName="myNsg"
+az network nsg create --resource-group $rgName --name $nsgName
+az network nsg rule create --resource-group $rgName --nsg-name $nsgName --name "AllowRDP" --protocol tcp --direction inbound --priority 1000 --source-address-prefix "*" --source-port-range "*" --destination-address-prefix "*" --destination-port-range 3389 --access allow
+
+# Associate the network security group to the subnet
+az network vnet subnet update --vnet-name $vnetName --name $subnetName --resource-group $rgName --network-security-group $nsgName
+
+# Create a public IP address
+pipName="myPublicIp"
+az network public-ip create --name $pipName --resource-group $rgName
+
+# Create a network interface card
+nicName="myNic"
+az network nic create --resource-group $rgName --name $nicName --vnet-name $vnetName --subnet $subnetName --public-ip-address $pipName
+
+# Specify the image to use for the VM
+image="Win2022AzureEditionCore"
+
+# Specify the credentials for the VM
+username="azureuser"
+password="<your-password>"
+
+# Create the VM
+az vm create \
+    --resource-group $rgName \
+    --name "myVM" \
+    --image $image \
+    --admin-username $username \
+    --admin-password $password \
+    --nics $nicName

@@ -1,0 +1,6 @@
+az group create --name exampleRG --location westeurope
+
+az deployment group create --resource-group exampleRG --template-file Create_Windows_Server_2022.bicep --parameters adminUsername=<admin-username>
+
+#Review deployed resources
+az resource list --resource-group exampleRG
