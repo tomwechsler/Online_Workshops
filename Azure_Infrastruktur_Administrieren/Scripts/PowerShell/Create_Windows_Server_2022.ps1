@@ -1,44 +1,64 @@
+Set-Location c:\
+Clear-Host
+
+Get-ExecutionPolicy
+
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted
+
+# Install Powershell Modules
+Install-Module -Name Az -Verbose -Force -AllowClobber
+
+# Connect to azure
+Connect-AzAccount
+
+# Are we connected?
+Get-AzVM
+
+# Variables for common values
+$resourceGroup = "myResourceGroup"
+$location = "westeurope"
+$vmName = "myVM"
+
+# Create user object
+$cred = Get-Credential -Message "Enter a username and password for the virtual machine."
+
 # Create a resource group
-$rgName = "myResourceGroup"
-$location = "WestEurope"
-New-AzResourceGroup -Name $rgName -Location $location
+New-AzResourceGroup -Name $resourceGroup -Location $location
 
-# Create a virtual network and a subnet
-$vnetName = "myVnet"
-$subnetName = "mySubnet"
-$subnetConfig = New-AzVirtualNetworkSubnetConfig -Name $subnetName -AddressPrefix "10.0.0.0/24"
-New-AzVirtualNetwork -Name $vnetName -ResourceGroupName $rgName -Location $location -AddressPrefix "10.0.0.0/16" -Subnet $subnetConfig
+# Create a subnet configuration
+$subnetConfig = New-AzVirtualNetworkSubnetConfig -Name mySubnet -AddressPrefix 192.168.1.0/24
 
-# Create a network security group and a rule to allow RDP
-$nsgName = "myNsg"
-$rdpRule = New-AzNetworkSecurityRuleConfig -Name "AllowRDP" -Protocol Tcp -Direction Inbound -Priority 1000 -SourceAddressPrefix * -SourcePortRange * -DestinationAddressPrefix * -DestinationPortRange 3389 -Access Allow
-$nsg = New-AzNetworkSecurityGroup -ResourceGroupName $rgName -Location $location -Name $nsgName -SecurityRules $rdpRule
+# Create a virtual network
+$vnet = New-AzVirtualNetwork -ResourceGroupName $resourceGroup -Location $location `
+  -Name MYvNET -AddressPrefix 192.168.0.0/16 -Subnet $subnetConfig
 
-# Associate the network security group to the subnet
-Set-AzVirtualNetworkSubnetConfig -VirtualNetwork $vnet -Name $subnetName -NetworkSecurityGroup $nsg
+# Create a public IP address and specify a DNS name
+$pip = New-AzPublicIpAddress -ResourceGroupName $resourceGroup -Location $location `
+  -Name "mypublicdns$(Get-Random)" -AllocationMethod Static -IdleTimeoutInMinutes 4
 
-# Create a public IP address
-$pipName = "myPublicIp"
-$pip = New-AzPublicIpAddress -ResourceGroupName $rgName -Location $location -AllocationMethod Static -IdleTimeoutInMinutes 4 -Name $pipName
+# Create an inbound network security group rule for port 3389
+$nsgRuleRDP = New-AzNetworkSecurityRuleConfig -Name myNetworkSecurityGroupRuleRDP  -Protocol Tcp `
+  -Direction Inbound -Priority 1000 -SourceAddressPrefix * -SourcePortRange * -DestinationAddressPrefix * `
+  -DestinationPortRange 3389 -Access Allow
 
-# Create a network interface card
-$nicName = "myNic"
-$nic = New-AzNetworkInterface -Name $nicName -ResourceGroupName $rgName -Location $location -SubnetId $vnet.Subnets[0].Id -PublicIpAddressId $pip.Id
+# Create a network security group
+$nsg = New-AzNetworkSecurityGroup -ResourceGroupName $resourceGroup -Location $location `
+  -Name myNetworkSecurityGroup -SecurityRules $nsgRuleRDP
 
-# Specify the image to use for the VM
-$image = Get-AzVMImagePublisher | Where-Object {$_.PublisherName.Contains("MicrosoftWindowsServer")} | Get-AzVMImageOffer | Where-Object {$_.Offer.Contains("WindowsServer")} | Get-AzVMImageSku | Where-Object {$_.Sku.Contains("2022-datacenter-azure-edition")}
+# Create a virtual network card and associate with public IP address and NSG
+$nic = New-AzNetworkInterface -Name myNic -ResourceGroupName $resourceGroup -Location $location `
+  -SubnetId $vnet.Subnets[0].Id -PublicIpAddressId $pip.Id -NetworkSecurityGroupId $nsg.Id
 
-# Specify the credentials for the VM
-$cred = Get-Credential
+# Create a virtual machine configuration
+$vmConfig = New-AzVMConfig -VMName $vmName -VMSize Standard_D2s_v3 | `
+Set-AzVMOperatingSystem -Windows -ComputerName $vmName -Credential $cred | `
+Set-AzVMSourceImage -PublisherName MicrosoftWindowsServer -Offer WindowsServer -Skus 2019-Datacenter -Version latest | `
+Add-AzVMNetworkInterface -Id $nic.Id
 
-# Create the VM configuration
-$vmConfig = New-AzVMConfig -VMName "myVM" -VMSize "Standard_D2s_v3" | Set-AzVMOperatingSystem -Windows -ComputerName "myVM" -Credential $cred | Set-AzVMSourceImage -PublisherName $image.PublisherName `
--Offer $image.Offer `
--Skus $image.Skus `
--Version "latest" | Add-AzVMNetworkInterface `
--Id $nic.Id
+# Create a virtual machine
+New-AzVM -ResourceGroupName $resourceGroup -Location $location -VM $vmConfig -AsJob
 
-# Create the VM
-New-AzVM -ResourceGroupName $rgName `
--Location $location `
--VM $vmConfig
+Get-Job
+
+# Check TCP port
+Test-NetConnection -ComputerName 13.94.247.1 -CommonTCPPort RDP
