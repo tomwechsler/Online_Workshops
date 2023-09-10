@@ -12,4 +12,4 @@ Informationen zu den verschiedenen Online Workshops!
 - (weitere werden folgen)
 
 
-Informationen zur Datenschutzerklärung finden Sie [hier](www.winsolution.ch).
+Informationen zur Datenschutzerklärung finden Sie [hier](http://www.winsolution.ch).
