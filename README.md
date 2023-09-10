@@ -10,3 +10,6 @@ Informationen zu den verschiedenen Online Workshops!
 - Azure Infrastruktur Administrieren
 - Intune Windows Geräte Verwaltung
 - (weitere werden folgen)
+
+
+Informationen zur Datenschutzerklärung finden Sie [hier](www.winsolution.ch).
