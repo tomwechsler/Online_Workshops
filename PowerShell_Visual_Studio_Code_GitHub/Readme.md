@@ -1,20 +1,20 @@
-# 📢 Workflow Management Grundlagen: Das Zusammenspiel von GitHub, Visual Studio Code und PowerShell! 📢
-Online Workshop zum Thema Workflow Management!
+# 📢 PowerShell, Visual Studio Code und GitHub Grundlagen: Das Zusammenspiel von GitHub, Visual Studio Code und PowerShell! 📢
+Online Workshop zum Thema PowerShell, Visual Studio Code und GitHub Grundlagen!
 
 ## Workshop Workflow Management Grundlagen
 mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
 ## Informationen:
-🗓️ Datum: 15. September 2023  
+🗓️ Datum: 27. Oktober 2023  
 ⌚ Zeit: 14.00 Uhr  
 ⌚ Dauer: 3 Stunden  
 💸 Preis pro TeilnehmerIn: Euro 120.- (für Anmeldungen aus der Schweiz - CHF 120.- exkl. MwSt.)  
 📍 Plattform: Microsoft Teams (Online Workshop)  
-🗓️ **Anmeldefrist: 08. September 2023**  
+🗓️ **Anmeldefrist: 20. Oktober 2023**  
 
 > Note: Jede Teilnehmerin und jeder Teilnehmer erhalten eine Bestätigung der Workshop-Teilnahme!
 
-Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff "Anmeldung Workshop Workflow Management Grundlagen".  
+Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff "Anmeldung Workshop PowerShell, Visual Studio Code und GitHub Grundlagen".  
 
 ## Beschreibung:
 In diesem 3-stündigen Workshop konzentrieren wir uns auf das Zusammenspiel und die Interaktion zwischen GitHub, Git, Visual Studio Code und PowerShell. Die Teilnehmer:Innen erhalten einen Überblick, wie diese Tools effizient zusammenarbeiten, um die Zusammenarbeit in Teams zu verbessern. Anhand von Demo's erfahren die Teilnehmer:Innen, wie man die Tools effizient miteinander verbindet und integriert, um einen effektiven Mangement-Workflow zu schaffen.
