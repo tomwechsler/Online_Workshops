@@ -48,7 +48,7 @@ Damit Sie dem Workshop bestens folgen können, sollten Sie ein eigenes Testsyste
 Dieser Workshop ist ideal für IT Professionals, die eine bessere Verständigung der Zusammenarbeit dieser vier Tools erlangen möchten. Er ist auch nützlich für Projektmanager:Innen und Teamleiter:Innen, die nach Wegen suchen, ihre Teamkollaboration und Entwicklungsprozesse zu optimieren.
 
 ## Hinweis:
-Dieser Workshop bietet eine Einführung in Workflow Management Grundlagen und legt den Grundstein für weitere Vertiefungen in spezifischen Workflow Management Bereichen. Es handelt sich nicht um einen umfassenden Workshop, der alle Aspekte des Workflow Managements abdeckt.
+Dieser Workshop bietet eine Einführung in PowerShell, Visual Studio Code und GitHub und legt den Grundstein für weitere Vertiefungen in spezifischen PowerShell, Visual Studio Code und GitHub Bereichen. Es handelt sich nicht um einen umfassenden Workshop, der alle Aspekte der verschiedenen Tools abdeckt.
 
 ## Kontaktinformationen
 Ich wünsche Ihnen viel Spass mit dem Workshop. Wenn Sie Fragen haben, können Sie mich unter folgender Adresse erreichen:
