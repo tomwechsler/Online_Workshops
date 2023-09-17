@@ -1,7 +1,7 @@
 # 📢 PowerShell, Visual Studio Code und GitHub Grundlagen: Das Zusammenspiel von GitHub, Visual Studio Code und PowerShell! 📢
 Online Workshop zum Thema PowerShell, Visual Studio Code und GitHub Grundlagen!
 
-## Workshop Workflow Management Grundlagen
+## Workshop PowerShell, Visual Studio Code und GitHub Grundlagen
 mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
 ## Informationen:
