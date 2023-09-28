@@ -1,0 +1,7 @@
+Windows-App (Win32)
+IntuneWinAppUtil.exe -c C:\Apps\NotepadPP -s C:\Apps\NotepadPP\npp.7.9.5.Installer.exe -o C:\Apps\NotepadPP_Packed -q
+
+Create a dynamic group in entra id
+Syntax:
+(device.devicePhysicalIDs -any (_ -contains "[ZTDId]"))
+
