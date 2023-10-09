@@ -44,7 +44,7 @@ Die Prüfung wird von Microsoft durchgeführt. Sie können die Prüfung in einem
 https://docs.microsoft.com/de-de/learn/certifications/exams/md-102
 
 ## Kontaktinformationen
-Ich wünsche Ihnen viel Spass mit dem Workshop. Wenn Sie Fragen haben, können Sie mich unter folgender Adresse erreichen:
+Ich wünsche Ihnen viel Spass mit dem Kurs. Wenn Sie Fragen haben, können Sie mich unter folgender Adresse erreichen:
 
 - Email: training@videotrainer.ch
 
