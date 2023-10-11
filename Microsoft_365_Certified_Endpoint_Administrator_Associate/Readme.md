@@ -17,7 +17,7 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff "Prüfungsvorbereitung zur MD-102".  
 
 ## Beschreibung:
-Diese Prüfungsvorbereitung dient als Vorbereitung auf die Prüfung MD-102. Die Teilnehmer werden lernen, wie sie Windows 10-Desktops und -Geräte verwalten, einschließlich der Konfiguration von Richtlinien, Geräten und Netzwerken, sowie der Verwendung von Microsoft Intune zur Verwaltung von modernen Desktops und Geräten. Die Teilnehmer werden auch lernen, wie sie die Windows 10/11-Bereitstellung mit Methoden wie Windows Autopilot, Wipe-and-Load und Windows Imaging and Configuration Designer (ICD) verwalten können. Die Teilnehmer werden auch lernen, wie sie die Verwaltung und Wartung von Windows 10/11 und Nicht-Windows-Geräten verwalten, einschliesslich der Verwaltung von Updates, der Überwachung von Geräten und der Wiederherstellung von Geräten. Die Teilnehmer werden auch lernen, wie sie Anwendungen verwalten und schützen und die Compliance in der gesamten Organisation durch die Verwendung von Intune überwachen können.
+Diese Prüfungsvorbereitung dient als Vorbereitung auf die Prüfung MD-102. Sie werden lernen, wie sie Windows 10/11-Desktops und -Geräte verwalten, einschliesslich der Konfiguration von Richtlinien, Geräten und Netzwerken, sowie der Verwendung von Microsoft Intune zur Verwaltung von modernen Desktops und Geräten. Zudem werden Sie auch lernen, wie Sie die Windows 10/11-Bereitstellung mit Methoden wie Windows Autopilot, Wipe-and-Load und Windows Imaging and Configuration Designer (ICD) verwalten können. Die Verwaltung und Wartung von Windows 10/11 und Nicht-Windows-Geräten verwalten, einschliesslich der Verwaltung von Updates, der Überwachung von Geräten und der Wiederherstellung von Geräten werden Sie ebenfalls erlernen. Sie werden auch lernen, wie Sie Anwendungen verwalten und schützen und die Compliance in der gesamten Organisation durch die Verwendung von Intune überwachen können.
 
 ## Bewertete Qualifikationen:
 - Bereitstellen des Windows-Clients
@@ -29,7 +29,7 @@ Diese Prüfungsvorbereitung dient als Vorbereitung auf die Prüfung MD-102. Die 
 - Verwalten von Anwendungen
 
 ## Voraussetzungen (gemäss Microsoft):
-Sie benötigen Erfahrung mit Entra ID- und Microsoft 365-Technologien, einschließlich Intune, und sollten fundierte Kenntnisse und Erfahrungen beim Bereitstellen, Konfigurieren und Verwalten von Windows-Client- und Nicht-Windows-Geräten vorweisen können.
+Sie benötigen Erfahrung mit Entra ID- und Microsoft 365-Technologien, einschliesslich Intune, und sollten fundierte Kenntnisse und Erfahrungen beim Bereitstellen, Konfigurieren und Verwalten von Windows-Client- und Nicht-Windows-Geräten vorweisen können.
 
 **Empfehlung:**  
 Damit Sie dem Workshop bestens folgen können, sollten Sie Zugang haben zum Intune Portal.
@@ -48,7 +48,7 @@ Ich wünsche Ihnen viel Spass mit dem Kurs. Wenn Sie Fragen haben, können Sie m
 
 - Email: training@videotrainer.ch
 
-- Twitter: @tomvideo2brain
+- X: @tomvideo2brain
 
 - LinkedIn und Xing
 
@@ -69,6 +69,14 @@ Ich wünsche Ihnen viel Spass mit dem Kurs. Wenn Sie Fragen haben, können Sie m
 - Microsoft Endpoint Manager: Aufbau einer Intune-Infrastruktur:
 
   https://de.linkedin.com/learning/microsoft-endpoint-manager-aufbau-einer-intune-infrastruktur
+
+- Microsoft Intune: Verwaltung von Windows-Geräten und Windows 365 Enterprise  
+
+  https://de.linkedin.com/learning/microsoft-intune-verwaltung-von-windows-geraten-und-windows-365-enterprise
+
+- Microsoft Intune: Sicherheit und Compliance für Windows-Systeme
+
+  https://de.linkedin.com/learning/microsoft-intune-sicherheit-und-compliance-fur-windows-systeme
 
 - Microsoft Intune YouTube Playlist:
   
