@@ -37,14 +37,14 @@ Damit Sie dem Workshop bestens folgen können, sollten Sie Zugang haben zum Intu
 ## Zielgruppe:
 Dieser Workshop richtet sich an IT-Profis, Entwickler:Innen und Entscheidungsträger:Innen, die ihr Wissen über Modern Desktop erweitern möchten.  
 
-Nach Abschluss des Kurses haben Sie ein verfügen Sie über die notwendigen Kenntnisse (**plus dem eigenen Selbststudium**), um die Prüfung MD-102 abzulegen.
+Nach Abschluss des Kurses verfügen Sie über die notwendigen Kenntnisse (**plus dem eigenen Selbststudium**), um die Prüfung MD-102 abzulegen.
 
 ## Ablegen der Prüfung:
 Die Prüfung wird von Microsoft durchgeführt. Sie können die Prüfung in einem Prüfungszentrum oder online ablegen. Weitere Informationen finden Sie unter: 
 https://docs.microsoft.com/de-de/learn/certifications/exams/md-102
 
 ## Kontaktinformationen
-Ich wünsche Ihnen viel Spass mit dem Kurs. Wenn Sie Fragen haben, können Sie mich unter folgender Adresse erreichen:
+Wenn Sie Fragen haben, können Sie mich unter folgender Adresse erreichen:
 
 - Email: training@videotrainer.ch
 
