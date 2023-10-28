@@ -1,0 +1,16 @@
+echo $PID
+
+Get-Process -Name *power*
+
+Git:
+winget install --id Git.Git
+
+Git Config:
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+
+PowerShell:
+winget install --id Microsoft.Powershell --source winget
+
+Visual Studio Code:
+winget install --id Microsoft.VisualStudioCode --source winget
