@@ -1,0 +1,4 @@
+scanstate \\file01\migration /i:miguser.xml /i:migapp.xml /o
+
+
+loadstate \\file01\migration /i:miguser.xml /i:migapp.xml
