@@ -11,5 +11,9 @@ Informationen zu den verschiedenen Online Workshops!
 - Intune Windows Geräte Verwaltung
 - (weitere werden folgen)
 
+## Zertifizierungs-Vorbereitungskurse:  
+- Microsoft 365 Certified: Endpoint Administrator Associate (MD-102)  
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
+
 
 Informationen zur Datenschutzerklärung finden Sie [hier](http://www.winsolution.ch).

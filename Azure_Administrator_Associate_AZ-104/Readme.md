@@ -17,7 +17,7 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff "Prüfungsvorbereitung zur AZ-104".  
 
 ## Beschreibung:
-Die Zertifizierung "Microsoft Certified: Azure Administrator Associate" ist für IT-Profis konzipiert, die sich auf die Verwaltung und Überwachung von Azure-Diensten spezialisieren möchten. In diesem Kurs erwerben Teilnehmer:Innen umfassendes Wissen über die Implementierung, das Management und die Überwachung der Identität, der Governance, des Speichers, der virtuellen Rechenleistung und der Netzwerklösungen in einer Cloud-Umgebung. Die Teilnehmer lernen, wie sie diese Dienste effizient für ihre Organisationen einsetzen können. Diese Zertifizierung bestätigt, dass der Inhaber in der Lage ist, eine Azure-Umgebung zuverlässig zu verwalten und anzupassen, und stellt einen wichtigen Meilenstein in der Karriere als Azure-Administrator dar.
+Die Zertifizierung "Microsoft Certified: Azure Administrator Associate" ist für IT-Profis konzipiert, die sich auf die Verwaltung und Überwachung von Azure-Diensten spezialisieren möchten. In diesem Kurs erwerben Teilnehmer:Innen umfassendes Wissen über die Implementierung, das Management und die Überwachung der Identität, der Governance, des Speichers, der virtuellen Rechenleistung und der Netzwerklösungen in einer Cloud-Umgebung. Die Teilnehmer:Innen lernen, wie sie diese Dienste effizient für ihre Organisationen einsetzen können. Diese Zertifizierung bestätigt, dass die Inhaber:Innen in der Lage sind, eine Azure-Umgebung zuverlässig zu verwalten und anzupassen, und stellt einen wichtigen Meilenstein in der Karriere als Azure-Administrator:In dar.
 
 ## Bewertete Qualifikationen:
 - Verwalten von Azure-Identitäten und Governance  
@@ -38,7 +38,7 @@ Dieser Workshop richtet sich an IT-Profis, Entwickler:Innen und Entscheidungstr�
 Nach Abschluss des Kurses verfügen Sie über die notwendigen Kenntnisse (**plus dem eigenen Selbststudium**), um die Prüfung AZ-104 abzulegen.
 
 ## Ablegen der Prüfung:
-Die Prüfung wird von Microsoft durchgeführt. Sie können die Prüfung in einem Prüfungszentrum oder online ablegen. Weitere Informationen finden Sie unter: 
+Die Prüfung wird von Microsoft durchgeführt. Sie können die Prüfung in einem Prüfungszentrum oder online ablegen. Weitere Informationen finden Sie unter:  
 https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/
 
 ## Kontaktinformationen
@@ -66,4 +66,4 @@ Wenn Sie Fragen haben, können Sie mich unter folgender Adresse erreichen:
 ## Weitere Lerninhalte
 - Microsoft Azure YouTube Playlist:
   
- https://youtube.com/playlist?list=PLi0MTIjZai_w3XzmNKEtmHH9podU_r3sh&si=VSxDiD_0QyUn7Mjd
+  https://youtube.com/playlist?list=PLi0MTIjZai_w3XzmNKEtmHH9podU_r3sh&si=VSxDiD_0QyUn7Mjd
