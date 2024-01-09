@@ -51,7 +51,7 @@ Wenn Sie Fragen haben, können Sie mich unter folgender Adresse erreichen:
 - LinkedIn
 
 ## Ressourcen
-- Anmelden einer kostenlosen Azure Testversion:
+- Anmelden einer kostenlosen Azure Testversion (WICHTIG: Mit einem privat Microsoft Konto anmelden, nicht mit einem Firmen Konto!):
 
   https://azure.microsoft.com/de-de/free
 
