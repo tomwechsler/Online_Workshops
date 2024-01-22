@@ -9,6 +9,7 @@ Informationen zu den verschiedenen Online Workshops!
 - PowerShell, Visual Studio Code und GitHub Grundlagen
 - Azure Infrastruktur Administrieren
 - Intune Windows Geräte Verwaltung
+- Aufbau einer Microsoft Intune Infrastruktur
 - (weitere werden folgen)
 
 ## Zertifizierungs-Vorbereitungskurse:  
