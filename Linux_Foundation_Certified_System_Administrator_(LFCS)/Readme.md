@@ -17,7 +17,7 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff "Prüfungsvorbereitung zum LFCS".  
 
 ## Beschreibung:  
-Dieser Kurs ist speziell darauf ausgerichtet, angehende Systemadministratoren auf die LFCS-Prüfung vorzubereiten. Er bietet ein tiefgreifendes Verständnis und praktische Fähigkeiten in den Schlüsselbereichen, die für die Zertifizierung notwendig sind..
+Dieser Kurs ist speziell darauf ausgerichtet, angehende Systemadministrator:Innen auf die LFCS-Prüfung vorzubereiten. Er bietet ein tiefgreifendes Verständnis und praktische Fähigkeiten in den Schlüsselbereichen, die für die Zertifizierung notwendig sind.
 
 ## Bewertete Qualifikationen:  
 - Operations Deployment:  
@@ -49,7 +49,7 @@ Dieser Kurs ist speziell darauf ausgerichtet, angehende Systemadministratoren au
 Damit Sie dem Workshop bestens folgen können, sollten Sie zwei Systeme (am Besten virtuell) vorbereiten. Einmal mit Ubuntu (z.B. Ubuntu 20.04) und einmal Rocky Linux (Rocky Linux 9).
 
 ## Zielgruppe:  
-Der LFCS-Vorbereitungskurs richtet sich hauptsächlich an IT-Professionals und Karrierewechsler, die ihre Fähigkeiten in der Linux-Systemadministration erweitern und durch eine anerkannte Zertifizierung bestätigen möchten. Er ist ideal für Systemadministratoren, Netzwerktechniker, Sicherheitsexperten, IT-Studenten sowie Linux-Enthusiasten, die sowohl theoretisches Wissen als auch praktische Erfahrung in Linux-Umgebungen erlangen wollen.  
+Der LFCS-Vorbereitungskurs richtet sich hauptsächlich an IT-Professionals und Karrierewechsler, die ihre Fähigkeiten in der Linux-Systemadministration erweitern und durch eine anerkannte Zertifizierung bestätigen möchten. Er ist ideal für Systemadministrator:Innen, Netzwerktechniker:Innen, Sicherheitsexpert:Innen, IT-Student:Innen sowie Linux-Enthusiasten, die sowohl theoretisches Wissen als auch praktische Erfahrung in Linux-Umgebungen erlangen wollen.  
 
 Nach Abschluss des Kurses verfügen Sie über die notwendigen Kenntnisse (**plus dem eigenen Selbststudium**), um die LFCS Prüfung abzulegen.
 
