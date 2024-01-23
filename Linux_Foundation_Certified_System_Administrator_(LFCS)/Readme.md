@@ -54,7 +54,7 @@ Der LFCS-Vorbereitungskurs richtet sich hauptsächlich an IT-Professionals und K
 Nach Abschluss des Kurses verfügen Sie über die notwendigen Kenntnisse (**plus dem eigenen Selbststudium**), um die LFCS Prüfung abzulegen.
 
 ## Ablegen der Prüfung:  
-Die Prüfung wird von PSI durchgeführt. Weitere Informationen finden Sie unter: 
+Die Prüfung wird von PSI durchgeführt. Weitere Informationen finden Sie unter:  
 https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2/exam-registration
 
 ## Kontaktinformationen  
