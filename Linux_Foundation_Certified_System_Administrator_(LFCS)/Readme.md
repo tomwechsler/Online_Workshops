@@ -46,7 +46,7 @@ Dieser Kurs ist speziell darauf ausgerichtet, angehende Systemadministrator:Inne
   Die Bereitschaft, sich mit neuen Techniken und Konzepten vertraut zu machen.
 
 **Empfehlung:**  
-Damit Sie dem Workshop bestens folgen können, sollten Sie zwei Systeme (am Besten virtuell) vorbereiten. Einmal mit Ubuntu (z.B. Ubuntu 20.04) und einmal Rocky Linux (Rocky Linux 9).
+Damit Sie dem Workshop bestens folgen können, sollten Sie zwei Systeme (am besten virtuell) vorbereiten. Einmal mit Ubuntu (z.B. Ubuntu 20.04) und einmal Rocky Linux (Rocky Linux 9).
 
 ## Zielgruppe:  
 Der LFCS-Vorbereitungskurs richtet sich hauptsächlich an IT-Professionals und Karriereumsteiger:Innen, die ihre Fähigkeiten in der Linux-Systemadministration erweitern und durch eine anerkannte Zertifizierung bestätigen möchten. Er ist ideal für Systemadministrator:Innen, Netzwerktechniker:Innen, Sicherheitsexpert:Innen, IT-Student:Innen sowie Linux-Enthusiasten, die sowohl theoretisches Wissen als auch praktische Erfahrung in Linux-Umgebungen erlangen wollen.  
