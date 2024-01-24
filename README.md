@@ -15,6 +15,7 @@ Informationen zu den verschiedenen Online Workshops!
 ## Zertifizierungs-Vorbereitungskurse:  
 - Microsoft 365 Certified: Endpoint Administrator Associate (MD-102)  
 - Microsoft Certified: Azure Administrator Associate (AZ-104)
+- Linux Foundation Certified System Administrator (LFCS)
 
 
 Informationen zur Datenschutzerklärung finden Sie [hier](http://www.winsolution.ch).
