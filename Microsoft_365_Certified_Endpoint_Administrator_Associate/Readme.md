@@ -10,6 +10,7 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 🗓️ Enddatum: Freitag 02. Februar 2024  
 💸 Preis pro TeilnehmerIn: Euro 900.- (für Anmeldungen aus der Schweiz - CHF 900.- exkl. MwSt.)  
 📍 Plattform: Microsoft Teams (Online Kurs)  
+➡️ Alle Kursnachmittage werden aufgezeichnet und stehen den TeilnehmerInnen Online zur Verfügung  
 🗓️ **Anmeldefrist: 18. Dezember 2023**  
 
 > Note: Jede Teilnehmerin und jeder Teilnehmer erhalten eine Bestätigung der Kurs-Teilnahme.
