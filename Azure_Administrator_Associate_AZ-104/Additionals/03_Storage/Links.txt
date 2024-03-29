@@ -1,0 +1,53 @@
+Introduction to Azure Storage
+https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction
+
+Storage account overview
+https://learn.microsoft.com/en-us/azure/storage/common/storage-account-overview
+
+Azure Storage redundancy
+https://learn.microsoft.com/en-us/azure/storage/common/storage-redundancy
+
+What is Bicep?
+https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview
+
+Install Bicep tools
+https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/install
+
+Create and manage encryption scopes
+https://learn.microsoft.com/en-us/azure/storage/blobs/encryption-scope-manage
+
+Azure Storage-Explorer
+https://azure.microsoft.com/de-de/products/storage/storage-explorer
+
+What is a private endpoint?
+https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview
+
+Azure control plane and data plane
+https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/control-plane-and-data-plane
+
+Introduction to Azure Blob Storage
+https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction
+
+Access tiers for blob data
+https://learn.microsoft.com/en-us/azure/storage/blobs/access-tiers-overview
+
+What is Azure Import/Export service?
+https://learn.microsoft.com/en-us/azure/import-export/storage-import-export-service
+
+What is Azure Data Box?
+https://learn.microsoft.com/en-us/azure/databox/data-box-overview
+
+Blob versioning
+https://learn.microsoft.com/en-us/azure/storage/blobs/versioning-overview
+
+Deploy Azure File Sync
+https://learn.microsoft.com/en-us/azure/storage/file-sync/file-sync-deployment-guide
+
+Windows Server 2022: Speicher- und Dateidienste (AZ-800 Teil 5)
+https://de.linkedin.com/learning/windows-server-2022-speicher-und-dateidienste-az-800-teil-5
+
+
+
+
+
+

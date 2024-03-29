@@ -1,0 +1,46 @@
+Shared responsibility in the cloud
+https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility
+
+What are availability zones?
+https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview?
+
+Availability sets overview
+https://learn.microsoft.com/en-us/azure/virtual-machines/availability-set-overview
+
+What are Virtual Machine Scale Sets?
+https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview
+
+About Azure confidential VMs
+https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-vm-overview
+
+Trusted launch for Azure virtual machines
+https://learn.microsoft.com/en-us/azure/virtual-machines/trusted-launch
+
+What is Azure Resource Manager?
+https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview
+
+Decompiling ARM template JSON to Bicep
+https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/decompile?tabs=azure-cli#decompile-from-json-to-bicep
+
+Containers vs. virtual machines
+https://learn.microsoft.com/en-us/virtualization/windowscontainers/about/containers-vs-vm
+
+Docker Hub
+https://hub.docker.com/
+
+Azure App Service
+https://azure.github.io/AppService/2020/07/07/zero_to_hero_pt3.html
+
+Add and manage TLS/SSL certificates in Azure App Service
+https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-certificate?tabs=apex
+
+Back up and restore your app in Azure App Service
+https://learn.microsoft.com/en-us/azure/app-service/manage-backup
+
+
+
+
+
+
+
+

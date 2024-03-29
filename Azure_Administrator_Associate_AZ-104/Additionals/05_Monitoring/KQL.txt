@@ -1,0 +1,16 @@
+Event | where EventLevelName == "Error"
+
+Event | summarize count() by Source
+
+Event | where EventLevelName == "Error" | summarize count() by Source
+
+
+SigninLogs
+| project UserDisplayName, Identity,UserPrincipalName,  AppDisplayName, AppId, ResourceDisplayName
+
+
+
+
+
+
+

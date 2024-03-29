@@ -1,0 +1,34 @@
+Microsoft Entra Plans & Pricing
+https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing
+
+Tutorial: Enable Microsoft Entra self-service password reset writeback to an on-premises environment
+https://learn.microsoft.com/en-us/entra/identity/authentication/tutorial-enable-sspr-writeback
+
+Azure roles, Microsoft Entra roles, and classic subscription administrator roles
+https://learn.microsoft.com/en-us/azure/role-based-access-control/rbac-and-directory-admin-roles
+
+Understand Azure role definitions
+https://learn.microsoft.com/en-us/azure/role-based-access-control/role-definitions
+
+What are Azure management groups?
+https://learn.microsoft.com/en-us/azure/governance/management-groups/overview
+
+Organize your Azure resources effectively
+https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/organize-resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

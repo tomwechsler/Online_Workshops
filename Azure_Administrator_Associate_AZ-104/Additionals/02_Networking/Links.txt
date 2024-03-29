@@ -1,0 +1,55 @@
+Cloudentwicklung dank kostenlosem Azure-Konto
+https://azure.microsoft.com/de-de/free
+
+How to install the Azure CLI
+https://learn.microsoft.com/en-us/cli/azure/install-azure-cli
+
+What is Azure Virtual Network?
+https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview
+
+Hub-spoke network topology in Azure
+https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke?tabs=cli
+
+Virtual network peering
+https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview
+
+Virtual Network service endpoints
+https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoints-overview
+
+Use private endpoints for Azure Storage
+https://learn.microsoft.com/en-us/azure/storage/common/storage-private-endpoints
+
+What is Azure Bastion?
+https://learn.microsoft.com/en-us/azure/bastion/bastion-overview
+
+Load-balancing options
+https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/load-balancing-overview
+
+What is Azure Load Balancer?
+https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-overview
+
+Quickstart: Create a public load balancer to load balance VMs using the Azure portal
+https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal
+
+Quickstart: Direct web traffic with Azure Application Gateway - ARM template
+https://learn.microsoft.com/en-us/azure/application-gateway/quick-create-template
+
+What is IP address 168.63.129.16?
+https://learn.microsoft.com/en-us/azure/virtual-network/what-is-ip-address-168-63-129-16
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
