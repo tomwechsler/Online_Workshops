@@ -6,12 +6,12 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
 ## Informationen:
 ⏰ Dauer: 4 Nachmittage (jeweils 13.00 - 17.45 Uhr) einmal pro Woche  
-🗓️ Startdatum: Freitag 12. Januar 2024  
-🗓️ Enddatum: Freitag 02. Februar 2024  
-💸 Preis pro TeilnehmerIn: Euro 900.- (für Anmeldungen aus der Schweiz - CHF 900.- exkl. MwSt.)  
+🗓️ Startdatum: Freitag 06. Septemder 2024  
+🗓️ Enddatum: Freitag 27. September 2024  
+💸 Preis pro TeilnehmerIn: Euro 1'000.- (für Anmeldungen aus der Schweiz - CHF 1'000.- exkl. MwSt.)  
 📍 Plattform: Microsoft Teams (Online Kurs)  
 ➡️ Alle Kursnachmittage werden aufgezeichnet und stehen den TeilnehmerInnen Online zur Verfügung  
-🗓️ **Anmeldefrist: 18. Dezember 2023**  
+🗓️ **Anmeldefrist: 30. August 2024**  
 
 > Note: Jede Teilnehmerin und jeder Teilnehmer erhalten eine Bestätigung der Kurs-Teilnahme.
 
@@ -51,7 +51,7 @@ Wenn Sie Fragen haben, können Sie mich unter folgender Adresse erreichen:
 
 - X: @tomvideo2brain
 
-- LinkedIn und Xing
+- LinkedIn
 
 ## Ressourcen
 - Anmelden einer kostenlosen Intune Testversion:
