@@ -13,7 +13,7 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 ➡️ Alle Kursnachmittage werden aufgezeichnet und stehen den TeilnehmerInnen Online zur Verfügung  
 🗓️ **Anmeldefrist: 01. November 2024**  
 
-> Note: Jede Teilnehmerin und jeder Teilnehmer erhalten eine Bestätigung der Workshop-Teilnahme.
+> Note: Jede Teilnehmerin und jeder Teilnehmer erhalten eine Bestätigung der Masterclass-Teilnahme.
 
 Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff "Masterclass - Windows 10 und Windows 11 mit Microsoft Intune verwalten".  
 
@@ -110,16 +110,16 @@ Weitere Voraussetzungen sind:
 Damit Sie der Masterclass bestens folgen können, sollten Sie Zugang haben zum Intune Portal. Zudem empfehlen wir Ihnen, ein Testgerät (Windows 10 oder Windows 11) bereitzustellen, welches in Intune registriert werden kann.
 
 ## Zielgruppe:
-Dieser Workshop richtet sich an IT-Profis, Entwickler:Innen und Entscheidungsträger:Innen, die ihr Wissen über Intune-Grundlagen erweitern möchten.  
+Dieser Masterclass richtet sich an IT-Profis, Entwickler:Innen und Entscheidungsträger:Innen, die ihr Wissen über Intune-Grundlagen erweitern möchten.  
 
 Nach Abschluss der Masterclass haben Sie ein solides Verständnis der Intune-Architektur und der grundlegenden Verwaltung von Windows-Geräten. Sie sind in der Lage, Intune-Richtlinien zu konfigurieren, Anwendungen bereitzustellen und die Sicherheit von Windows 10 und Windows 11 Geräten zu gewährleisten.
 
 ## Hinweis:
-Diese Masterclass bietet eine Einführung in Windows-Geräte Verwaltung und mit Microsoft Intune. Der Workshop ist praxisorientiert und bietet viele Übungen und Beispiele, um das Gelernte zu vertiefen.
+Diese Masterclass bietet eine Einführung in Windows-Geräte Verwaltung und mit Microsoft Intune. Der Masterclass ist praxisorientiert und bietet viele Übungen und Beispiele, um das Gelernte zu vertiefen.
 IpadOS, Android und MacOS Geräteverwaltung sind nicht Bestandteil dieser Masterclass.
 
 ## Kontaktinformationen
-Ich wünsche Ihnen viel Spass mit dem Workshop. Wenn Sie Fragen haben, können Sie mich unter folgender Adresse erreichen:
+Ich wünsche Ihnen viel Spass mit der Masterclass. Wenn Sie Fragen haben, können Sie mich unter folgender Adresse erreichen:
 
 - Email: training@videotrainer.ch
 
