@@ -8,7 +8,7 @@ Informationen zu den verschiedenen Online Workshops!
 - Wireshark Grundlagen
 - PowerShell, Visual Studio Code und GitHub Grundlagen
 - Azure Infrastruktur Administrieren
-- Intune Windows Geräte Verwaltung
+- Masterclass - Verwaltung von Windows 10 und Windows 11 mit Microsoft Intune
 - Aufbau einer Microsoft Intune Infrastruktur
 - (weitere werden folgen)
 
