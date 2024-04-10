@@ -141,6 +141,14 @@ Ich wünsche Ihnen viel Spass mit dem Workshop. Wenn Sie Fragen haben, können S
 
   https://de.linkedin.com/learning/microsoft-endpoint-manager-aufbau-einer-intune-infrastruktur
 
+- Microsoft Intune: Verwaltung von Windows-Geräten und Windows 365 Enterprise
+ 
+  https://de.linkedin.com/learning/microsoft-intune-verwaltung-von-windows-geraten-und-windows-365-enterprise
+
+- Microsoft Intune: Sicherheit und Compliance für Windows-Systeme
+
+  https://de.linkedin.com/learning/microsoft-intune-sicherheit-und-compliance-fur-windows-systeme
+
 - Microsoft Intune YouTube Playlist:
   
   https://www.youtube.com/playlist?list=PLi0MTIjZai_zOvhPeDMJqys8FLfXTNRV0
