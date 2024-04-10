@@ -18,7 +18,7 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff "Masterclass - Windows 10 und Windows 11 mit Microsoft Intune verwalten".  
 
 ## Beschreibung:
-In der "Masterclass - Windows 10 und Windows 11 mit Microsoft Intune verwalten" lernen Teilnehmer, wie sie mithilfe von Microsoft Intune die Verwaltung von Windows 10 und Windows 11 Geräten optimieren können. Der Kurs bietet praxisnahe Anleitungen zur Konfiguration von Richtlinien, zur Bereitstellung von Anwendungen und zur Sicherstellung der Compliance in gemischten Windows-Umgebungen. Teilnehmer lernen, ihre Fähigkeiten in der modernen Geräteverwaltung zu vertiefen und effizientere IT-Infrastrukturen aufzubauen.
+In der "Masterclass: Windows 10 und Windows 11 mit Microsoft Intune verwalten" lernen Teilnehmer, wie sie mithilfe von Microsoft Intune die Verwaltung von Windows 10 und Windows 11 Geräten optimieren können. Der Kurs bietet praxisnahe Anleitungen zur Konfiguration von Richtlinien, zur Bereitstellung von Anwendungen und zur Sicherstellung der Compliance in gemischten Windows-Umgebungen. Teilnehmer lernen, ihre Fähigkeiten in der modernen Geräteverwaltung zu vertiefen und effizientere IT-Infrastrukturen aufzubauen.
 
 ## Hauptthemen:
 **Modul 1: Einführung in Microsoft Intune**  
