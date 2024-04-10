@@ -5,7 +5,7 @@ Online Prüfungsvorbereitung zur MD-102!
 mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
 ## Informationen:
-⏰ Dauer: 4 Nachmittage (jeweils 13.00 - 17.45 Uhr) einmal pro Woche  
+⏰ Dauer: 4 Nachmittage (jeweils 13.00 - 17.00 Uhr) einmal pro Woche  
 🗓️ Startdatum: Freitag 06. Septemder 2024  
 🗓️ Enddatum: Freitag 27. September 2024  
 💸 Preis pro TeilnehmerIn: Euro 1'000.- (für Anmeldungen aus der Schweiz - CHF 1'000.- exkl. MwSt.)  
