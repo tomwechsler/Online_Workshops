@@ -1,5 +1,5 @@
 # 📢 Masterclass - Windows 10 und Windows 11 mit Microsoft Intune verwalten! 📢
-Online Workshop - Masterclass - Windows 10 und Windows 11 mit Microsoft Intune verwalten!
+Online Workshop: Masterclass - Windows 10 und Windows 11 mit Microsoft Intune verwalten!
 
 ## Workshop: Masterclass - Windows 10 und Windows 11 mit Microsoft Intune verwalten
 mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
