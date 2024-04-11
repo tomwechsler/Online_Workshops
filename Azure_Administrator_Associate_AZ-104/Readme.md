@@ -6,12 +6,12 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
 ## Informationen:
 ⏰ Dauer: 5 Nachmittage (jeweils 13.00 - 17.45 Uhr) einmal pro Woche  
-🗓️ Startdatum: Freitag 05. April 2024  
-🗓️ Enddatum: Freitag 03. Mai 2024  
+🗓️ Startdatum: Freitag 02. August 2024  
+🗓️ Enddatum: Freitag 30. August 2024  
 💸 Preis pro TeilnehmerIn: Euro 1200.- (für Anmeldungen aus der Schweiz - CHF 1200.- exkl. MwSt.)  
 📍 Plattform: Microsoft Teams (Online Kurs)  
 ➡️ Alle Kursnachmittage werden aufgezeichnet und stehen den TeilnehmerInnen Online zur Verfügung  
-🗓️ **Anmeldefrist: 29. März 2024**  
+🗓️ **Anmeldefrist: 26. Juli 2024**  
 
 > Note: Jede Teilnehmerin und jeder Teilnehmer erhalten eine Bestätigung der Kurs-Teilnahme.
 
