@@ -5,7 +5,7 @@ Online Prüfungsvorbereitung zur AZ-104!
 mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
 ## Informationen:
-⏰ Dauer: 5 Nachmittage (jeweils 13.00 - 17.45 Uhr) einmal pro Woche  
+⏰ Dauer: 5 Nachmittage (jeweils 13.00 - 17.00 Uhr) einmal pro Woche  
 🗓️ Startdatum: Freitag 02. August 2024  
 🗓️ Enddatum: Freitag 30. August 2024  
 💸 Preis pro TeilnehmerIn: Euro 1200.- (für Anmeldungen aus der Schweiz - CHF 1200.- exkl. MwSt.)  
