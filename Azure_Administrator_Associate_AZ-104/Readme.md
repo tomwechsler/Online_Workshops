@@ -65,6 +65,18 @@ Wenn Sie Fragen haben, können Sie mich unter folgender Adresse erreichen:
   https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/
 
 ## Weitere Lerninhalte
+- Azure-Administration: Identitäten und Governance (AZ-104 Teil 1)
+
+  https://de.linkedin.com/learning/azure-administration-identitaten-und-governance-az-104-teil-1
+
+- Azure-Administration: Virtuelle Netzwerke konfigurieren und verwalten (AZ-104 Teil 2) (2024)
+
+  https://de.linkedin.com/learning/azure-administration-virtuelle-netzwerke-konfigurieren-und-verwalten-az-104-teil-2-2024
+
+- Azure-Administration: Speicherplatz implementieren und verwalten (AZ-104 Teil 3)
+
+  https://de.linkedin.com/learning/azure-administration-speicherplatz-implementieren-und-verwalten-az-104-teil-3
+
 - Microsoft Azure YouTube Playlist:
   
   https://youtube.com/playlist?list=PLi0MTIjZai_w3XzmNKEtmHH9podU_r3sh&si=VSxDiD_0QyUn7Mjd
