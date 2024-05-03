@@ -29,3 +29,9 @@ Count of virtual machines by power state
 Resources
 | where type == 'microsoft.compute/virtualmachines'
 | summarize count() by PowerState = tostring(properties.extended.instanceView.powerState.code)
+
+
+Count virtual machines by OS type
+Resources
+| where type =~ 'Microsoft.Compute/virtualMachines'
+| summarize count() by tostring(properties.storageProfile.osDisk.osType)
