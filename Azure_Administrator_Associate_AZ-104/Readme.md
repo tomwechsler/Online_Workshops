@@ -77,6 +77,18 @@ Wenn Sie Fragen haben, können Sie mich unter folgender Adresse erreichen:
 
   https://de.linkedin.com/learning/azure-administration-speicherplatz-implementieren-und-verwalten-az-104-teil-3
 
+- Azure-Administration: Azure-Computeressourcen bereitstellen und verwalten (AZ-104 Teil 4) (2024)
+
+  https://de.linkedin.com/learning/azure-administration-azure-computeressourcen-bereitstellen-und-verwalten-az-104-teil-4-2024
+
+- Azure-Administration: Überwachen und Verwalten von Azure (AZ-104 Teil 5) (2024)
+
+  https://de.linkedin.com/learning/azure-administration-uberwachen-und-verwalten-von-azure-az-104-teil-5-2024
+
+- Lernpfad: Bereiten Sie sich auf die Microsoft Azure Administrator-Prüfung AZ-104 vor!
+
+  https://www.linkedin.com/learning/paths/bereiten-sie-sich-auf-die-microsoft-azure-administrator-prufung-az-104-vor
+
 - Microsoft Azure YouTube Playlist:
   
   https://youtube.com/playlist?list=PLi0MTIjZai_w3XzmNKEtmHH9podU_r3sh&si=VSxDiD_0QyUn7Mjd
