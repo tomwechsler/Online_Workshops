@@ -32,6 +32,9 @@ az bicep decompile --file main.json
 
 New-AzResourceGroupDeployment -Name Storage -ResourceGroupName ctt-prod-sta-rg -TemplateFile vm-arm-template.bicep
 
+create index.html
+
+create Dockerfile
 
 docker build -t myweb .
 
