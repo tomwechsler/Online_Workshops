@@ -9,8 +9,23 @@ SigninLogs
 | project UserDisplayName, Identity,UserPrincipalName,  AppDisplayName, AppId, ResourceDisplayName
 
 
+Count of OS update installation done
+PatchAssessmentResources
+| where type !has 'softwarepatches'
+| extend machineName = tostring(split(id, '/', 8)), resourceType = tostring(split(type, '/', 0)), tostring(rgName = split(id, '/', 4))
+| extend prop = parse_json(properties)
+| extend lTime = todatetime(prop.lastModifiedDateTime), OS = tostring(prop.osType), installedPatchCount = tostring(prop.installedPatchCount), failedPatchCount = tostring(prop.failedPatchCount), pendingPatchCount = tostring(prop.pendingPatchCount), excludedPatchCount = tostring(prop.excludedPatchCount), notSelectedPatchCount = tostring(prop.notSelectedPatchCount)
+| where lTime > ago(7d)
+| project lTime, RunID=name,machineName, rgName, resourceType, OS, installedPatchCount, failedPatchCount, pendingPatchCount, excludedPatchCount, notSelectedPatchCount
 
 
+Count of virtual machines by availability state and Subscription Id
+HealthResources
+| where type =~ 'microsoft.resourcehealth/availabilitystatuses'
+| summarize count() by subscriptionId, AvailabilityState = tostring(properties.availabilityState)
 
 
-
+Count of virtual machines by power state
+Resources
+| where type == 'microsoft.compute/virtualmachines'
+| summarize count() by PowerState = tostring(properties.extended.instanceView.powerState.code)

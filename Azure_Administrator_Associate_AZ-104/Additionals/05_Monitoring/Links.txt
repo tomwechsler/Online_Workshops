@@ -1,44 +1,17 @@
 Azure Monitor overview
 https://learn.microsoft.com/en-us/azure/azure-monitor/overview
 
+What is the Azure Backup service?
+https://learn.microsoft.com/en-us/azure/backup/backup-overview
 
 
+About Site Recovery
+https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-overview
 
 
+Application Insights overview
+https://learn.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+About Azure Migrate
+https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview
