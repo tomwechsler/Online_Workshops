@@ -14,6 +14,7 @@ Informationen zu den verschiedenen Online Workshops!
 
 ## Zertifizierungs-Vorbereitungskurse:  
 - Microsoft 365 Certified: Endpoint Administrator Associate (MD-102)  
+- Microsoft Certified: Identity and Access Administrator Associate (SC-300)
 - Microsoft Certified: Azure Administrator Associate (AZ-104)
 - Microsoft Certified: Azure Virtual Desktop Specialty (AZ-140)
 - Linux Foundation Certified System Administrator (LFCS)
