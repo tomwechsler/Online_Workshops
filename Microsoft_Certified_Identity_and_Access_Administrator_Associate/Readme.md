@@ -6,7 +6,7 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
 ## Informationen:
 ⏰ Dauer: 4 Nachmittage (jeweils 13.00 - 17.00 Uhr) einmal pro Woche  
-🗓️ Startdatum:   
+🗓️ Startdatum:  
 🗓️ Enddatum: 
 💸 Preis pro TeilnehmerIn: Euro 1'000.- (für Anmeldungen aus der Schweiz - CHF 1'000.- exkl. MwSt.)  
 📍 Plattform: Microsoft Teams (Online Kurs)  
