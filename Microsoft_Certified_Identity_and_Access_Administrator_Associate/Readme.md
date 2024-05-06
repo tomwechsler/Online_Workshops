@@ -18,7 +18,7 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff "Prüfungsvorbereitung zur SC-300".  
 
 ## Beschreibung:
-Diese Prüfungsvorbereitung dient als Vorbereitung auf die Prüfung SC-300. In diesem umfassenden Kurs werden Teilnehmer:Innen auf die Prüfung zum "Microsoft Certified: Identity and Access Administrator Associate" vorbereitet. Sie lernen, wie man Benutzeridentitäten effektiv implementiert und verwaltet, wobei ein besonderer Fokus auf realen Anwendungsszenarien liegt. Der Kurs deckt auch wichtige Aspekte der Authentifizierung und Zugriffsverwaltung ab, um sicherzustellen, dass nur autorisierte Benutzer:Innen Zugang zu sensiblen Systemen und Daten erhalten. Darüber hinaus wird die Planung und Implementierung von Workloadidentitäten behandelt, was für die Sicherung von Cloud-Diensten und Anwendungen essentiell ist. Abschliessend erwerben die Teilnehmer:Innen Kenntnisse in der Identitätsgovernance, um Compliance-Anforderungen zu erfüllen und eine durchgängige Sicherheitsstrategie zu unterstützen. Dieser Kurs bietet die idealen Voraussetzungen, um als IT-Fachkraft im Bereich der Identitäts- und Zugriffsverwaltung erfolgreich zu sein.
+Diese Prüfungsvorbereitung dient der Vorbereitung auf die Prüfung SC-300. In diesem umfassenden Kurs werden die Teilnehmenden auf die Prüfung zum "Microsoft Certified: Identity and Access Administrator Associate" vorbereitet. Sie lernen, wie Benutzeridentitäten effektiv implementiert und verwaltet werden, wobei der Schwerpunkt auf realen Anwendungsszenarien liegt. Der Kurs deckt auch wichtige Aspekte der Authentifizierung und des Zugriffsmanagements ab, um sicherzustellen, dass nur autorisierte Benutzerinnen und Benutzer Zugriff auf sensible Systeme und Daten erhalten. Darüber hinaus wird die Planung und Implementierung von Workload-Identitäten behandelt, die für die Absicherung von Cloud-Diensten und -Anwendungen essentiell sind. Schließlich erwerben die Teilnehmer:Innen Kenntnisse in der Identity Governance, um Compliance-Anforderungen zu erfüllen und eine durchgängige Sicherheitsstrategie zu unterstützen. Dieser Kurs bietet ideale Voraussetzungen, um als IT-Professional im Bereich Identity und Access Management erfolgreich zu sein.
 
 ## Bewertete Qualifikationen:
 - Implementieren und Verwalten von Benutzeridentitäten
@@ -36,7 +36,7 @@ Um an diesem Kurs teilnehmen zu können, sollten die Teilnehmenden über Grundke
 Damit Sie dem Workshop bestens folgen können, sollten Sie Zugang haben zum Entra Admin Center.
 
 ## Zielgruppe:
-Die Zielgruppe für den Kurs umfasst IT-Profis, die sich auf die Verwaltung von Identitäts- und Zugriffslösungen in Azure-Umgebungen spezialisieren möchten. Dazu gehören Systemadministrator:Innen, Sicherheitsingenieure und Netzwerkadministrator:Innen, die ihre Kenntnisse vertiefen und eine offizielle Zertifizierung erlangen möchten.  
+Der Kurs richtet sich an IT-Fachkräfte, die sich auf die Verwaltung von Identitäts- und Zugriffslösungen in Azure-Umgebungen spezialisieren möchten. Dazu gehören Systemadministratoren, Sicherheitsingenieure und Netzwerkadministratoren, die ihre Kenntnisse vertiefen und eine offizielle Zertifizierung erlangen möchten.  
 
 Nach Abschluss des Kurses verfügen Sie über die notwendigen Kenntnisse (**plus dem eigenen Selbststudium**), um die Prüfung SC-300 abzulegen.
 
