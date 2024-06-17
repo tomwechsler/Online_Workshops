@@ -84,3 +84,11 @@ Wenn Sie Fragen haben, können Sie mich unter folgender Adresse erreichen:
 - Linux Administration: Benutzer und Gruppen
 
   https://www.udemy.com/course/linux-administration-benutzer-und-gruppen/
+
+- Linux Administration: Networking
+
+  https://www.udemy.com/course/linux-administration-networking
+
+- Linux Administration: Speicherverwaltung
+
+  https://www.udemy.com/course/linux-administration-speicherverwaltung
