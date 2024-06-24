@@ -8,7 +8,7 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 ⏰ Dauer: 4 Nachmittage (jeweils 13.00 - 17.00 Uhr) einmal pro Woche  
 🗓️ Startdatum: Freitag 06. September 2024  
 🗓️ Enddatum: Freitag 27. September 2024  
-💸 Preis pro TeilnehmerIn: Euro 1'000.- (für Anmeldungen aus der Schweiz - CHF 1'000.- exkl. MwSt.)  
+💸 Preis pro TeilnehmerIn: Euro 1'200.- (für Anmeldungen aus der Schweiz - CHF 1'200.- exkl. MwSt.)  
 📍 Plattform: Microsoft Teams (Online Kurs)  
 ➡️ Alle Kursnachmittage werden aufgezeichnet und stehen den TeilnehmerInnen Online zur Verfügung  
 🗓️ **Anmeldefrist: 30. August 2024**  
