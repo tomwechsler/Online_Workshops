@@ -10,6 +10,7 @@ Informationen zu den verschiedenen Online Workshops!
 - Azure Infrastruktur Administrieren
 - Masterclass - Verwaltung von Windows 10 und Windows 11 mit Microsoft Intune
 - Aufbau einer Microsoft Intune Infrastruktur
+- Einführung in Ethical Hacking und Penetration Testing
 - (weitere werden folgen)
 
 ## Zertifizierungs-Vorbereitungskurse:  
