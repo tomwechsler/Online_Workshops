@@ -18,7 +18,7 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff "Ethical Hacking und Penetration Testing".  
 
 ## Beschreibung:
-In diesem Workshop lernen die Teilnehmenden die Grundlagen des Ethical Hacking und Penetration Testing kennen. Sie erfahren, wie Hacker vorgehen, um in Systeme einzudringen und wie sie sich davor schützen können. Der Kurs vermittelt die notwendigen Kenntnisse, um Schwachstellen in Systemen zu erkennen und zu beheben. Die Teilnehmenden lernen, wie sie Penetration Tests durchführen und Sicherheitslücken schliessen können. Der Workshop bietet eine praxisnahe Einführung in die Welt des Ethical Hacking und Penetration Testing und ist ideal für alle, die sich für IT-Sicherheit interessieren.
+In diesem Workshop lernen die Teilnehmenden die Grundlagen des Ethical Hacking und Penetration Testing kennen. Sie erfahren, wie Hacker vorgehen, um in Systeme einzudringen und wie sie sich davor schützen können. Der Kurs vermittelt die notwendigen Kenntnisse, um Schwachstellen in Systemen zu erkennen und zu beheben. Die Teilnehmenden lernen, wie sie Penetration Tests durchführen und Sicherheitslücken schliessen können. Es wird aber auch thematisiert, wie man Vorgehen muss, wenn man selber Opfer eines Hackerangriffs wurde. Auch die rechtlichen Aspekte des Ethical Hacking werden behandelt. Der Workshop bietet eine praxisnahe Einführung in die Welt des Ethical Hacking und Penetration Testing und ist ideal für alle, die sich für IT-Sicherheit interessieren.
 
 ## Hauptthemen:
 - Einführung in Ethical Hacking und Aufbau der Testumgebung
@@ -27,7 +27,6 @@ In diesem Workshop lernen die Teilnehmenden die Grundlagen des Ethical Hacking u
 - Angriffstechniken (Footprinting and Reconnaissance, Scanning Networks, Enumeration, System Hacking, etc.)
 - Social Engineering (Phishing, Spear Phishing, etc.)
 - Web Application Security (OWASP Top 10, SQL Injection, Cross-Site Scripting, etc.)
-
 
 ## Voraussetzungen:
 - IT-Sicherheit Grundkenntnisse
