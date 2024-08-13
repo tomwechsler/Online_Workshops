@@ -23,7 +23,7 @@ In diesem Workshop lernen die Teilnehmenden die Grundlagen des Ethical Hacking u
 ## Hauptthemen:
 - Einführung in Ethical Hacking und Aufbau der Testumgebung
 - Einführung in Penetration Testing
-- Einführung in Kali Linux (Metasploit, Nmap, Nessus, etc.)
+- Einführung in Kali Linux (Metasploit, Nmap, Nessus, GVM, etc.)
 - Angriffstechniken (Footprinting and Reconnaissance, Scanning Networks, Enumeration, System Hacking, etc.)
 - Social Engineering (Phishing, Spear Phishing, etc.)
 - Web Application Security (OWASP Top 10, SQL Injection, Cross-Site Scripting, etc.)
