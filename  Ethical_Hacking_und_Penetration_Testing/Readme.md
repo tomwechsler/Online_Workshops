@@ -27,6 +27,8 @@ In diesem Workshop lernen die Teilnehmenden die Grundlagen des Ethical Hacking u
 - Angriffstechniken (Footprinting and Reconnaissance, Scanning Networks, Enumeration, System Hacking, etc.)
 - Social Engineering (Phishing, Spear Phishing, etc.)
 - Web Application Security (OWASP Top 10, SQL Injection, Cross-Site Scripting, etc.)
+- Wireless Network Security (WEP, WPA, WPA2, WPA3, etc.)
+- Cloud Security (AWS, Azure, Google Cloud, etc.)
 
 ## Voraussetzungen:
 - IT-Sicherheit Grundkenntnisse
