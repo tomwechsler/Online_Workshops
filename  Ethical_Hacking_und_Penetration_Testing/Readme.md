@@ -44,7 +44,7 @@ Damit Sie dem Workshop bestens folgen können, sollten Sie über ein Hostsystem 
 aufgebaut mit VMware Workstation (Pro oder Player). Wenn Sie über eine andere Virtualisierungssoftware verfügen, können Sie diese ebenfalls verwenden. Sie müssen dann aber in der Lage sein, virtuelle Maschinen zu erstellen und zu verwalten. Folgende virtuelle Maschinen werden benötigt:
 - Kali Linux
 - Kali Purple
-- Windows Server 2022 oder Windows 11
+- Windows Server 2022 oder Windows 11 (Evaluation Version)
 - Metasploitable 2
 - Rocky Linux
 
