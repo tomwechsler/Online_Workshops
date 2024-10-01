@@ -18,7 +18,9 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff "Ethical Hacking und Penetration Testing".  
 
 ## Beschreibung:
-In diesem Workshop lernen die Teilnehmenden die Grundlagen des Ethical Hacking und Penetration Testing kennen. Sie erfahren, wie Hacker vorgehen, um in Systeme einzudringen und wie sie sich davor schützen können. Der Kurs vermittelt die notwendigen Kenntnisse, um Schwachstellen in Systemen zu erkennen und zu beheben. Die Teilnehmenden lernen, wie sie Penetration Tests durchführen und Sicherheitslücken schliessen können. Es wird aber auch thematisiert, wie man Vorgehen muss, wenn man selber Opfer eines Hackerangriffs wurde. Auch die rechtlichen Aspekte des Ethical Hacking werden behandelt. Der Workshop bietet eine praxisnahe Einführung in die Welt des Ethical Hacking und Penetration Testing und ist ideal für alle, die sich für IT-Sicherheit interessieren.
+In diesem Workshop lernen die Teilnehmenden die Grundlagen von Ethical Hacking und Penetration Testing kennen. Sie erfahren, wie Hacker vorgehen, um in Systeme einzudringen und wie sie sich davor schützen können. Der Kurs vermittelt die notwendigen Kenntnisse, um Schwachstellen in Systemen zu erkennen und zu beheben. Die Teilnehmenden lernen, wie sie Penetrationstests durchführen und Sicherheitslücken schließen können. Aber auch das Vorgehen, wenn man selbst Opfer eines Hackerangriffs geworden ist, wird thematisiert. Rechtliche Aspekte des Ethical Hacking werden ebenfalls behandelt. Der Workshop bezieht sich nicht nur auf klassische IT-Systeme, sondern auch auf Cloud-Systeme und -Architekturen.
+
+Der Workshop bietet eine praktische Einführung in die Welt des Ethical Hacking und Penetration Testing und ist ideal für alle, die sich für IT-Sicherheit interessieren.
 
 ## Hauptthemen:
 - Einführung in Ethical Hacking und Aufbau der Testumgebung
@@ -49,9 +51,9 @@ aufgebaut mit VMware Workstation (Pro oder Player). Wenn Sie über eine andere V
 - Rocky Linux
 
 ## Zielgruppe:
-Dieser Workshop richtet sich an IT-Fachkräfte, die sich für IT-Sicherheit interessieren und die Grundlagen des Ethical Hacking und Penetration Testing kennenlernen möchten. Dazu gehören Systemadministratoren, Sicherheitsingenieure und Netzwerkadministratoren, die ihre Kenntnisse vertiefen und eine praxisnahe Einführung in die Welt des Ethical Hacking und Penetration Testing erhalten möchten.
+Dieser Workshop richtet sich an IT-Fachleute, die sich für IT-Sicherheit interessieren und die Grundlagen des Ethical Hacking und Penetration Testing kennenlernen möchten. Dazu gehören Systemadministratoren, Sicherheitsingenieure und Netzwerkadministratoren, die ihre Kenntnisse vertiefen und eine praktische Einführung in die Welt des Ethical Hacking und Penetration Testing erhalten möchten. Der Workshop eignet sich auch für IT-Manager und IT-Entscheider, die sich einen Überblick über das Thema verschaffen möchten.
 
-Nach Abschluss des Workshops verfügen Sie über die notwendigen Kenntnisse, um die Grundlagen des Ethical Hacking und Penetration Testing zu verstehen und anzuwenden.
+Nach Abschluss des Workshops verfügen Sie über das notwendige Wissen, um die Grundlagen des Ethical Hacking und Penetration Testing zu verstehen und anzuwenden.
 
 ## Kontaktinformationen
 Wenn Sie Fragen haben, können Sie mich unter folgender Adresse erreichen:
@@ -60,7 +62,7 @@ Wenn Sie Fragen haben, können Sie mich unter folgender Adresse erreichen:
 
 - X: @tomvideo2brain
 
-- LinkedIn
+- LinkedIn (https://www.linkedin.com/in/tom-wechsler)
 
 ## Ressourcen
 - Microsoft Teams herunterladen:
