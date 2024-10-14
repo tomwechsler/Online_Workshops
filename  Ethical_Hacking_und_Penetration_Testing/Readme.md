@@ -28,8 +28,8 @@ Der Workshop bietet eine praktische Einführung in die Welt des Ethical Hacking 
 
 ## Was ist das Ziel dieses Workshops?
 Ziel des Workshops ist es, die Sichtbarkeit Ihrer IT-Umgebung zu erhöhen und ein tieferes Verständnis für potenzielle Angriffe zu erlangen. Sie lernen, wie Sie Sicherheitslücken 
-in On-Premise- und Cloud-Infrastrukturen erkennen und vermeiden können. Gleichzeitig erfahren Sie, wie Sie bestehende Prozesse überdenken und die IT-Sicherheit kritisch hinterfragen 
-können, um Ihre Systeme und Netzwerke besser abzusichern. Ziel ist es, Sicherheitsmaßnahmen zu implementieren, die potenziellen Bedrohungen voraus sind und eine robuste 
+in On-Premises- und Cloud-Infrastrukturen erkennen und vermeiden können. Gleichzeitig erfahren Sie, wie Sie bestehende Prozesse überdenken und die IT-Sicherheit kritisch hinterfragen 
+können, um Ihre Systeme und Netzwerke besser abzusichern. Ziel ist es, Sicherheitsmassnahmen zu implementieren, die potenziellen Bedrohungen voraus sind und eine robuste 
 IT-Sicherheitsstrategie zu entwickeln.
 
 ## Hauptthemen:
