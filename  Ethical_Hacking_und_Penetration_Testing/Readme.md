@@ -18,9 +18,19 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff "Ethical Hacking und Penetration Testing".  
 
 ## Beschreibung:
-In diesem Workshop lernen die Teilnehmenden die Grundlagen von Ethical Hacking und Penetration Testing kennen. Sie erfahren, wie Hacker vorgehen, um in Systeme einzudringen und wie sie sich davor schützen können. Der Kurs vermittelt die notwendigen Kenntnisse, um Schwachstellen in Systemen zu erkennen und zu beheben. Die Teilnehmenden lernen, wie sie Penetrationstests durchführen und Sicherheitslücken schließen können. Aber auch das Vorgehen, wenn man selbst Opfer eines Hackerangriffs geworden ist, wird thematisiert. Rechtliche Aspekte des Ethical Hacking werden ebenfalls behandelt. Der Workshop bezieht sich nicht nur auf klassische IT-Systeme, sondern auch auf Cloud-Systeme und -Architekturen.
+In diesem Workshop lernen die Teilnehmenden die Grundlagen von Ethical Hacking und Penetration Testing kennen. Sie erfahren, wie Hacker vorgehen, um in 
+Systeme einzudringen und wie sie sich davor schützen können. Der Kurs vermittelt die notwendigen Kenntnisse, um Schwachstellen in Systemen zu erkennen und zu beheben. 
+Die Teilnehmenden lernen, wie sie Penetrationstests durchführen und Sicherheitslücken schließen können. Aber auch das Vorgehen, wenn man selbst Opfer eines Hackerangriffs 
+geworden ist, wird thematisiert. Rechtliche Aspekte des Ethical Hacking werden ebenfalls behandelt. Der Workshop bezieht sich nicht nur auf klassische IT-Systeme, 
+sondern auch auf Cloud-Systeme und -Architekturen.
 
 Der Workshop bietet eine praktische Einführung in die Welt des Ethical Hacking und Penetration Testing und ist ideal für alle, die sich für IT-Sicherheit interessieren.
+
+## Was ist das Ziel dieses Workshops?
+Ziel des Workshops ist es, die Sichtbarkeit Ihrer IT-Umgebung zu erhöhen und ein tieferes Verständnis für potenzielle Angriffe zu erlangen. Sie lernen, wie Sie Sicherheitslücken 
+in On-Premise- und Cloud-Infrastrukturen erkennen und vermeiden können. Gleichzeitig erfahren Sie, wie Sie bestehende Prozesse überdenken und die IT-Sicherheit kritisch hinterfragen 
+können, um Ihre Systeme und Netzwerke besser abzusichern. Ziel ist es, Sicherheitsmaßnahmen zu implementieren, die potenziellen Bedrohungen voraus sind und eine robuste 
+IT-Sicherheitsstrategie zu entwickeln.
 
 ## Hauptthemen:
 - Einführung in Ethical Hacking und Aufbau der Testumgebung
