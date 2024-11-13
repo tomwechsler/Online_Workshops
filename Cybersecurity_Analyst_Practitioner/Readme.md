@@ -1,7 +1,7 @@
-# 📢  Workshop: Cybersecurity Analyst Practitioner! 📢
-Online Workshop zum Cybersecurity Analyst Practitioner!
+# 📢  Workshop: Cybersecurity Analyst - Ein praktischer Ansatz! 📢
+Online Workshop zum Cybersecurity Analyst - Ein praktischer Ansatz!
 
-## Online Workshop zum Cybersecurity Analyst Practitioner!
+## Online Workshop zum Cybersecurity Analyst - Ein praktischer Ansatz!
 mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
 ## Informationen:
@@ -15,7 +15,7 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
 > Note: Jede Teilnehmerin und jeder Teilnehmer erhalten eine Bestätigung der Kurs-Teilnahme.
 
-Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff "Cybersecurity Analyst Practitioner".  
+Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff "Cybersecurity Analyst - Ein praktischer Ansatz".  
 
 ## Beschreibung:
 In diesem Workshop lernen die Teilnehmer die grundlegenden Fähigkeiten und Methoden eines Cybersecurity Analysten kennen und anwenden. Der Kurs vermittelt praxisorientierte Kenntnisse, 
