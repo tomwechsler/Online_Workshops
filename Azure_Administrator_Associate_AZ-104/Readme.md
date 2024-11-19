@@ -31,7 +31,7 @@ Die Zertifizierung "Microsoft Certified: Azure Administrator Associate" ist für
 Um den Kurs für die "Microsoft Certified: Azure Administrator Associate" Zertifizierung zu besuchen, sollten Sie idealerweise Grundkenntnisse in Netzwerktechnologien und Betriebssystemen sowie ein grundlegendes Verständnis von Cloud-Services und Azure-Diensten mitbringen. Praktische Erfahrung in der Verwaltung von Azure-Ressourcen und der Nutzung von Tools wie PowerShell und Azure CLI ist ebenfalls hilfreich, um den Kursinhalt effektiv nachvollziehen und anwenden zu können.
 
 **Empfehlung:**  
-Damit Sie dem Workshop bestens folgen können, sollten Sie Zugang haben zum Azure Portal.
+Damit Sie dem Workshop bestens folgen können, sollten Sie Zugang haben zum Azure Portal. Unten finden Sie einen Link, um eine kostenlose Testversion von Azure zu erhalten.
 
 ## Zielgruppe:
 Dieser Workshop richtet sich an IT-Profis, Entwickler:Innen und Entscheidungsträger:Innen, die ihr Wissen über Microsoft Azure erweitern möchten.  
