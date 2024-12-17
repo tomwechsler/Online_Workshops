@@ -56,9 +56,11 @@ Damit Sie dem Workshop bestens folgen können, sollten Sie über ein Hostsystem 
 aufgebaut mit VMware Workstation (Pro oder Player). Wenn Sie über eine andere Virtualisierungssoftware verfügen, können Sie diese ebenfalls verwenden. Sie müssen dann aber in der Lage sein, virtuelle Maschinen zu erstellen und zu verwalten. Folgende virtuelle Maschinen werden benötigt:
 - Kali Linux
 - Kali Purple
-- Windows Server 2022 oder Windows 11 (Evaluation Version)
+- Windows Server 2022 (Evaluation Version)
 - Metasploitable 2
-- Rocky Linux
+- Rocky Linux (Optional)
+
+> Note: Für die Bereitstellung der virtuellen Maschinen sollten Sie genügend Arbeitsspeicher (mind. 16 GB) und Festplattenspeicher (min. 50 GB) zur Verfügung haben.
 
 ## Zielgruppe:
 Dieser Workshop richtet sich an IT-Fachleute, die sich für IT-Sicherheit interessieren und die Grundlagen des Ethical Hacking und Penetration Testing kennenlernen möchten. Dazu gehören Systemadministratoren, Sicherheitsingenieure und Netzwerkadministratoren, die ihre Kenntnisse vertiefen und eine praktische Einführung in die Welt des Ethical Hacking und Penetration Testing erhalten möchten. Der Workshop eignet sich auch für IT-Manager und IT-Entscheider, die sich einen Überblick über das Thema verschaffen möchten.
