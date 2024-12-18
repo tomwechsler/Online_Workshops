@@ -7,7 +7,7 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 ## Informationen:
 ⏰ Dauer: 6 Nachmittage (jeweils 13.00 - 17.00 Uhr) einmal pro Woche  
 🗓️ Startdatum: Freitag 24. Oktober 2025  
-🗓️ Enddatum: Dienstag 28. November 2025  
+🗓️ Enddatum: Freitag 28. November 2025  
 💸 Preis pro TeilnehmerIn: Euro 1'600.- (für Anmeldungen aus der Schweiz - CHF 1'600.- exkl. MwSt.)  
 📍 Plattform: Microsoft Teams (Online Kurs)  
 ➡️ Alle Kursnachmittage werden aufgezeichnet und stehen den TeilnehmerInnen Online zur Verfügung  
