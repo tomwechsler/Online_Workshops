@@ -12,6 +12,7 @@ Informationen zu den verschiedenen Online Workshops!
 - Aufbau einer Microsoft Intune Infrastruktur
 - Einführung in Ethical Hacking und Penetration Testing
 - Cybersecurity Analyst - Ein praktischer Ansatz! **(Start: Freitag 25.April 2025)**
+- Microsoft Cloud Architect - Design und Architektur in der Praxis **(Start: Freitag 24. Oktober 2025)**
 - (weitere werden folgen)
 
 ## Zertifizierungs-Vorbereitungskurse:  
