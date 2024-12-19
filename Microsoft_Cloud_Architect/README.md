@@ -25,7 +25,7 @@ Tauchen Sie ein in die Welt der Microsoft Cloud mit unserem praxisorientierten W
 
 - **Themen:** Vertiefen Sie Ihr Wissen in Microsoft Azure (speziell IaaS), Intune, Microsoft Defender und Sicherheit.
 - **Praktische Übungen:** Stellen Sie Ressourcen in Azure bereit, konfigurieren Sie Microsoft Defender, registrieren und verwalten Sie Geräte in Intune und erhalten Sie wertvolle Einblicke in Sicherheitsaspekte.
-- **Voraussetzungen:** Kenntnisse auf dem Niveau von AZ-900, MS-900 und SC-900 sowie Grundkenntnisse von Windows-Betriebssystemen und allgemeine Cloud-Kenntnisse sind von Vorteil.
+- **Voraussetzungen:** Kenntnisse auf dem Niveau von AZ-104, MS-102 und SC-900 sowie Grundkenntnisse von Windows-Betriebssystemen und allgemeine Cloud-Kenntnisse sind von Vorteil.
 - **Highlights:** Profitieren Sie von praktischen Beispielen, umfangreichen zusätzlichen Materialien (Skripte, ARM- und Bicep-Vorlagen, PPTs, etc.) und ausreichend Zeit für Ihre Fragen. Alle Sessions werden aufgezeichnet und stehen Ihnen zur späteren Ansicht zur Verfügung.
 
 **Die Themen im Detail:**  
