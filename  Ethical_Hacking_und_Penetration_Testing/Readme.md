@@ -52,8 +52,8 @@ IT-Sicherheitsstrategie zu entwickeln.
 - Programmier-Grundkenntnisse
 
 **Empfehlung:**  
-Damit Sie dem Workshop bestens folgen können, sollten Sie über ein Hostsystem verfügen, auf dem Sie virtuelle Maschinen installieren können. In diesem Workshop wird eine Testumgebung
-aufgebaut mit VMware Workstation (Pro oder Player). Wenn Sie über eine andere Virtualisierungssoftware verfügen, können Sie diese ebenfalls verwenden. Sie müssen dann aber in der Lage sein, virtuelle Maschinen zu erstellen und zu verwalten. Folgende virtuelle Maschinen werden benötigt:
+Damit Sie dem Workshop bestens folgen können, sollten Sie über ein Hostsystem verfügen, auf dem Sie virtuelle Maschinen installieren können. In diesem Workshop wird **gemeinsam** eine Testumgebung
+aufgebaut (die .iso-Dateien vorab herunterladen) mit VMware Workstation (Pro - for Personal Use). Wenn Sie über eine andere Virtualisierungssoftware verfügen, können Sie diese ebenfalls verwenden. Sie müssen jedoch in der Lage sein, virtuelle Maschinen zu erstellen und zu verwalten. Folgende virtuelle Maschinen werden benötigt:
 - Kali Linux
 - Kali Purple
 - Windows Server 2022 (Evaluation Version)

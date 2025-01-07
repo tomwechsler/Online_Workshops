@@ -18,24 +18,20 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff "Cybersecurity Analyst - Ein praktischer Ansatz".  
 
 ## Beschreibung:
-In diesem Workshop lernen die Teilnehmer die grundlegenden Fähigkeiten und Methoden eines Cybersecurity Analysten kennen und anwenden. Der Kurs vermittelt praxisorientierte Kenntnisse, 
-um Bedrohungen zu identifizieren, Sicherheitsvorfälle zu analysieren und angemessen darauf zu reagieren. Zu Beginn wird eine Einführung in die Cybersecurity-Landschaft gegeben, 
-die Bedrohungsakteure, typische Angriffsvektoren und aktuelle Bedrohungstrends beleuchtet. Anschliessend lernen die Teilnehmer, wie sie Sicherheitsprotokolle interpretieren, 
-Angriffsindikatoren erkennen und Sicherheitsvorfälle mithilfe von Überwachungstools und Sicherheitsinformations- und Ereignismanagement (SIEM)-Systemen untersuchen.
+In diesem Workshop lernen die Teilnehmer die grundlegenden Fähigkeiten und Methoden eines Cybersecurity-Analysten kennen und anwenden. Der Kurs vermittelt praxisorientierte Kenntnisse, um Bedrohungen in der gesamten IT-Infrastruktur zu identifizieren, Sicherheitsvorfälle zu analysieren und angemessen darauf zu reagieren – unabhängig davon, ob die Infrastruktur in der Cloud, On-Premises oder in einer hybriden Umgebung betrieben wird. Zu Beginn wird eine Einführung in die Cybersecurity-Landschaft gegeben, die Bedrohungsakteure, typische Angriffsvektoren und aktuelle Bedrohungstrends beleuchtet.
 
-Praktische Übungen mit gängigen Tools wie Metasplot und NMAP geben den Teilnehmern die Möglichkeit, Bedrohungen in simulierten Szenarien zu erkennen und darauf zu reagieren. 
-Es wird ausserdem auf grundlegende Techniken zur Schwachstellenanalyse eingegangen, um Sicherheitslücken in Systemen frühzeitig zu identifizieren und zu beheben. 
-Die Teilnehmer erfahren, wie sie mit Incident Response-Plänen arbeiten und erste Schritte zur Schadensbegrenzung und Wiederherstellung der Sicherheit durchführen.
+Die Teilnehmer lernen, wie sie Sicherheitsprotokolle interpretieren, Angriffsindikatoren erkennen und Sicherheitsvorfälle mithilfe von Überwachungstools sowie Sicherheitsinformations- und Ereignismanagement (SIEM)-Systemen untersuchen. Praktische Übungen mit gängigen Tools wie Metasploit und NMAP geben ihnen die Möglichkeit, Bedrohungen in simulierten Szenarien zu erkennen und darauf zu reagieren – unabhängig von der zugrunde liegenden Infrastruktur.
+
+Zusätzlich wird auf grundlegende Techniken zur Schwachstellenanalyse eingegangen, um Sicherheitslücken in Systemen frühzeitig zu identifizieren und zu beheben. Die Teilnehmer erfahren, wie sie mit Incident-Response-Plänen arbeiten und erste Schritte zur Schadensbegrenzung sowie zur Wiederherstellung der Sicherheit in IT-Umgebungen durchführen können, um eine robuste und widerstandsfähige Infrastruktur zu gewährleisten.
 
 Abschliessend besprechen wir Best Practices für den sicheren Umgang mit Daten, das Erstellen von Sicherheitsreports und die kontinuierliche Verbesserung der Sicherheitsarchitektur. 
 
 Der Workshop richtet sich an IT-Einsteiger und Fachkräfte, die ihre Kenntnisse im Bereich der Cybersecurity erweitern und in einer Sicherheitsoperation arbeiten möchten. 
 
 ## Was ist das Ziel dieses Workshops?
-Das Ziel des Workshops ist es, den Teilnehmern die wesentlichen Fähigkeiten und Techniken eines Cybersecurity Analysten zu vermitteln, um Bedrohungen in IT-Systemen 
-frühzeitig zu erkennen, zu analysieren und effektiv darauf zu reagieren. Die Teilnehmer lernen praxisorientierte Ansätze und Tools kennen, um Sicherheitsvorfälle zu 
-identifizieren und die Sicherheit der IT-Umgebung aktiv zu verbessern. Durch den Workshop werden sie befähigt, eigenständig Sicherheitslücken zu erkennen, 
-Incident-Response-Prozesse anzuwenden und Sicherheitsstrategien in ihren Organisationen zu stärken.
+Der Workshop hat das Ziel, den Teilnehmern die grundlegenden Fähigkeiten und Techniken eines Cybersecurity-Analysten zu vermitteln, um Bedrohungen in IT-Infrastrukturen frühzeitig zu erkennen, zu analysieren und gezielt darauf zu reagieren. Dabei erwerben die Teilnehmer praxisorientierte Kenntnisse sowie den Umgang mit bewährten Tools, um Sicherheitsvorfälle effektiv zu identifizieren und die Resilienz ihrer IT-Umgebungen – ob Cloud, On-Premises oder hybrid – aktiv zu stärken.
+
+Durch den Workshop werden sie in die Lage versetzt, eigenständig Schwachstellen zu analysieren, Incident-Response-Prozesse erfolgreich umzusetzen und umfassende Sicherheitsstrategien zur Verbesserung der IT-Sicherheit in ihren Organisationen zu etablieren.
 
 ## Hauptthemen:
 - Sicherheitsgrundsätze
@@ -71,20 +67,21 @@ Incident-Response-Prozesse anzuwenden und Sicherheitsstrategien in ihren Organis
 - Programmier-Grundkenntnisse (von Vorteil)
 
 **Empfehlung:**  
-Damit Sie dem Workshop bestens folgen können, sollten Sie über ein Hostsystem verfügen, auf dem Sie virtuelle Maschinen installieren können. In diesem Workshop wird eine Testumgebung
-aufgebaut mit VMware Workstation (Pro oder Player). Wenn Sie über eine andere Virtualisierungssoftware verfügen, können Sie diese ebenfalls verwenden. Sie müssen dann aber in der Lage sein, 
-virtuelle Maschinen zu erstellen und zu verwalten. Folgende virtuelle Maschinen werden benötigt:
+Damit Sie dem Workshop bestens folgen können, sollten Sie über ein Hostsystem verfügen, auf dem Sie virtuelle Maschinen installieren können. In diesem Workshop wird **gemeinsam** eine Testumgebung
+aufgebaut (die .iso-Dateien vorab herunterladen) mit VMware Workstation (Pro - for Personal Use). Wenn Sie über eine andere Virtualisierungssoftware verfügen, können Sie diese ebenfalls verwenden. Sie müssen jedoch in der Lage sein, virtuelle Maschinen zu erstellen und zu verwalten. Folgende virtuelle Maschinen werden benötigt:
 
 - Kali Linux
 - Kali Purple
-- Windows Server 2022 oder Windows 11 (Evaluation Version)
+- Windows Server 2022 (Evaluation Version)
 - Metasploitable 2
-- Rocky Linux
+- Rocky Linux (Optional)
+
+> Note: Für die Bereitstellung der virtuellen Maschinen sollten Sie genügend Arbeitsspeicher (mind. 16 GB) und Festplattenspeicher (min. 50 GB) zur Verfügung haben.
+
+Ideal wäre ausserdem, wenn Sie Zugang haben zum Azure-, Microsoft 365- und Microsoft Defender Portal. 
 
 ## Zielgruppe:
-Der Workshop richtet sich an IT-Einsteiger, die ein solides Fundament in der Cybersecurity aufbauen möchten, sowie an IT-Fachkräfte, die ihre Kenntnisse im Bereich Bedrohungsanalyse 
-und Incident Response vertiefen wollen. Angesprochen sind Personen, die eine Karriere als Cybersecurity Analyst anstreben oder ihre bestehenden IT-Sicherheitskompetenzen erweitern 
-möchten, um in Sicherheitsoperationsteams zu arbeiten und die Sicherheit ihrer Organisation zu stärken.
+Der Workshop richtet sich sowohl an IT-Einsteiger, die ein solides Grundlagenwissen im Bereich Cybersecurity aufbauen möchten, als auch an IT-Profis, die ihre Fähigkeiten in der Bedrohungsanalyse und Incident Response vertiefen wollen. Er spricht Personen an, die eine Karriere als Cybersecurity-Analyst anstreben oder ihre bestehenden Kompetenzen in der IT-Sicherheit erweitern möchten, um effektiv in Security-Operations-Teams zu arbeiten und zur Stärkung der Sicherheitsmassnahmen in ihrer Organisation beizutragen.
 
 ## Kontaktinformationen
 Wenn Sie Fragen haben, können Sie mich unter folgender Adresse erreichen:
