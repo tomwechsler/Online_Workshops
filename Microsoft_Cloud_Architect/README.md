@@ -19,14 +19,16 @@ Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff 
 
 ## Beschreibung:
 
-Tauchen Sie ein in die Welt der Microsoft Cloud mit unserem praxisorientierten Workshop **"Microsoft Cloud Architect - Design und Architektur in der Praxis"**. Dieser Workshop richtet sich an System Administrator:innen, Cloud Engineers, Desktop Administrator:innen und alle, die sich für Microsoft Cloud-Technologien wie Microsoft 365, Intune und Azure interessieren.
+Tauchen Sie ein in die Welt der Microsoft Cloud mit unserem praxisorientierten Workshop **"Microsoft Cloud Architect - Design und Architektur in der Praxis"**. In diesem Workshop lernen Sie, wie Sie komplexe Cloud-Infrastrukturen entwerfen und implementieren, um die Anforderungen Ihrer Organisation zu erfüllen. Sie erhalten einen umfassenden Einblick in die Microsoft Cloud-Technologien und lernen, wie Sie diese effektiv einsetzen, um eine sichere, skalierbare und zuverlässige Cloud-Umgebung zu schaffen. Der Workshop vermittelt Ihnen praxisorientierte Kenntnisse und Best Practices, um Ihre Fähigkeiten als Microsoft Cloud Architect zu erweitern und Ihre Karriere auf die nächste Stufe zu heben.
 
 ### Was Sie erwartet:
 
-- **Themen:** Vertiefen Sie Ihr Wissen in Microsoft Azure (speziell IaaS), Intune, Microsoft Defender und Sicherheit.
-- **Praktische Übungen:** Stellen Sie Ressourcen in Azure bereit, konfigurieren Sie Microsoft Defender, registrieren und verwalten Sie Geräte in Intune und erhalten Sie wertvolle Einblicke in Sicherheitsaspekte.
-- **Voraussetzungen:** Kenntnisse auf dem Niveau von AZ-104, MS-102 und SC-900 sowie Grundkenntnisse von Windows-Betriebssystemen und allgemeine Cloud-Kenntnisse sind von Vorteil.
-- **Highlights:** Profitieren Sie von praktischen Beispielen, umfangreichen zusätzlichen Materialien (Skripte, ARM- und Bicep-Vorlagen, PPTs, etc.) und ausreichend Zeit für Ihre Fragen. Alle Sessions werden aufgezeichnet und stehen Ihnen zur späteren Ansicht zur Verfügung.
+Im Workshop „Microsoft Cloud Architect“ erwartet Sie ein intensives und praxisorientiertes Lernerlebnis, das Ihnen hilft, Ihr Fachwissen in der Microsoft Cloud zu vertiefen. Sie lernen fortgeschrittene Konzepte und Best Practices in Microsoft Azure, insbesondere im Bereich Infrastructure as a Service (IaaS), sowie in Intune, Microsoft Defender und Sicherheitslösungen. Dabei stehen praktische Übungen im Vordergrund. Sie werden Ressourcen in Azure bereitstellen, Microsoft Defender konfigurieren und Geräte in Intune registrieren sowie verwalten. Zudem erhalten Sie fundierte Einblicke in die Sicherheitsarchitektur.
+
+Ein besonderes Highlight des Workshops sind praxisorientierte Beispiele und umfangreiche Zusatzmaterialien wie Skripte, ARM- und Bicep-Vorlagen sowie Präsentationen. Darüber hinaus wird ausreichend Zeit eingeplant, um auf Ihre individuellen Fragen einzugehen. Alle Sitzungen werden aufgezeichnet und stehen Ihnen im Anschluss zur Verfügung, damit Sie jederzeit darauf zurückgreifen können. Dieser Workshop bietet die perfekte Kombination aus Theorie und Praxis, um Sie optimal auf die Herausforderungen als Microsoft Cloud Architect vorzubereiten.
+
+### Voraussetzungen:
+Kenntnisse auf dem Niveau von AZ-104, MS-102 und SC-900 sowie Grundkenntnisse von Windows-Betriebssystemen und allgemeine Cloud-Kenntnisse sind von Vorteil.
 
 **Die Themen im Detail:**  
 - Modern Workplace: Mit Azure Virtual Desktop, Windows 365 und Microsoft Intune
@@ -39,8 +41,10 @@ Tauchen Sie ein in die Welt der Microsoft Cloud mit unserem praxisorientierten W
 - Azure-Verwaltung: Mit Azure Monitor, Log Analytics und Update Management
 
 **Empfehlung:**  
-Damit Sie dem Workshop bestens folgen können, sollten Sie Zugang haben zum Azure-, Microsoft 365- und Microsoft Defender Portal. 
-Unten finden Sie einen Link, um eine kostenlose Testversion von Azure zu erhalten.
+Damit Sie dem Workshop bestens folgen können, sollten Sie Zugang haben zum Azure-, Microsoft 365- und Microsoft Defender Portal. Unten finden Sie einen Link, um eine kostenlose Testversion von Azure zu erhalten.
+
+**Zielgruppe:**
+Dieser Workshop richtet sich an System Administrator:innen, Cloud Engineers, Desktop Administrator:innen und alle, die sich für Microsoft Cloud-Technologien wie Microsoft 365, Intune und Azure interessieren.
 
 **Verpassen Sie nicht diese Gelegenheit, Ihre Fähigkeiten zu erweitern und sich auf die nächste Stufe Ihrer Karriere im Bereich der Microsoft Cloud vorzubereiten!**  
 
