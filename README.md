@@ -16,6 +16,7 @@ Informationen zu den verschiedenen Online Workshops!
 - (weitere werden folgen)
 
 ## Zertifizierungs-Vorbereitungskurse:  
+- CompTIA PenTest+ **(Start: Freitag 17. Oktober 2025)**  
 - Microsoft 365 Certified: Endpoint Administrator Associate (MD-102)  
 - Microsoft Certified: Identity and Access Administrator Associate (SC-300)
 - Microsoft Certified: Azure Administrator Associate (AZ-104) **(Start: Dienstag 29. April 2025)**
