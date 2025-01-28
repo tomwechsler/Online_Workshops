@@ -33,6 +33,16 @@ Der Workshop hat das Ziel, den Teilnehmern die grundlegenden Fähigkeiten und Te
 
 Durch den Workshop werden sie in die Lage versetzt, eigenständig Schwachstellen zu analysieren, Incident-Response-Prozesse erfolgreich umzusetzen und umfassende Sicherheitsstrategien zur Verbesserung der IT-Sicherheit in ihren Organisationen zu etablieren.
 
+### Verschiedene Lösungsansätze und Techniken werden unter anderem vorgestellt:
+- Microsoft Sentinel und Defender for Cloud
+- Lynis und CIS-CAT Lite für die Prüfung der Konformität und Härtung von Systemen
+- Nessus und OpenVAS für die Schwachstellenanalyse
+- Wireshark für die Netzwerkanalyse
+- Microsoft Defender for Endpoint für die Endpunktsicherheit
+- Group Policy Objects (GPOs) analysieren mit dem Microsoft Security Compliance Toolkit
+- Microsoft Purview für die Datenklassifizierung
+- und vieles mehr!
+
 ## Hauptthemen:
 - Sicherheitsgrundsätze
 - Geschäftskontinuität (BC), Notfallwiederherstellung (DR) und Konzepte für die Reaktion auf Vorfälle
@@ -50,6 +60,7 @@ Durch den Workshop werden sie in die Lage versetzt, eigenständig Schwachstellen
 - Aktive Aufklärung, Aufzählung und Scannen
 - Ausnutzen von Systemen und Anwendungen
 - Techniken und Berichterstattung nach der Ausnutzung
+- Härtung von Systemen und Anwendungen
 - Konzepte für die Cloud-Sicherheit
 - DevSecOps
 - IoT-Sicherheit
