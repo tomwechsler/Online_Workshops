@@ -41,6 +41,8 @@ Durch den Workshop werden sie in die Lage versetzt, eigenständig Schwachstellen
 - Microsoft Defender for Endpoint für die Endpunktsicherheit
 - Group Policy Objects (GPOs) analysieren mit dem Microsoft Security Compliance Toolkit
 - Microsoft Purview für die Datenklassifizierung
+- Verteidigung in der Tiefe (Defense in Depth) und Zero Trust
+- KI und Cybersecurity
 - und vieles mehr!
 
 ## Hauptthemen:
