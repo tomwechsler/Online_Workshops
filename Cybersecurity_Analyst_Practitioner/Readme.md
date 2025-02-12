@@ -80,12 +80,12 @@ Durch den Workshop werden sie in die Lage versetzt, eigenständig Schwachstellen
 - Programmier-Grundkenntnisse (von Vorteil)
 
 **Empfehlung:**  
-Damit Sie dem Workshop bestens folgen können, sollten Sie über ein Hostsystem verfügen, auf dem Sie virtuelle Maschinen installieren können. In diesem Workshop wird **gemeinsam** eine Testumgebung
-aufgebaut (die .iso-Dateien vorab herunterladen) mit VMware Workstation (Pro - for Personal Use). Wenn Sie über eine andere Virtualisierungssoftware verfügen, können Sie diese ebenfalls verwenden. Sie müssen jedoch in der Lage sein, virtuelle Maschinen zu erstellen und zu verwalten. Folgende virtuelle Maschinen werden benötigt:
+Damit Sie dem Workshop bestens folgen können, sollten Sie über ein Hostsystem verfügen, auf dem Sie virtuelle Maschinen installieren können. Bauen Sie sich eine eigene Testumgebung auf, um die Übungen und Beispiele nachvollziehen zu können. Sie können VMware Workstation oder VirtualBox verwenden (oder eine andere Virtualisierungssoftware Ihrer Wahl), um die virtuellen Maschinen zu erstellen. Folgende virtuelle Maschinen werden benötigt:
 
 - Kali Linux
-- Kali Purple
+- Kali Purple (Optional)
 - Windows Server 2022 (Evaluation Version)
+- Windows 10/11 (Evaluation Version)
 - Metasploitable 2
 - Rocky Linux (Optional)
 
