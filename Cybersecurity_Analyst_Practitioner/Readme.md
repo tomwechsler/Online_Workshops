@@ -91,7 +91,7 @@ Damit Sie dem Workshop bestens folgen können, sollten Sie über ein Hostsystem 
 
 > Note: Für die Bereitstellung der virtuellen Maschinen sollten Sie genügend Arbeitsspeicher (mind. 16 GB) und Festplattenspeicher (min. 50 GB) zur Verfügung haben.
 
-Ideal wäre ausserdem, wenn Sie Zugang haben zum Azure-, Microsoft 365- und Microsoft Defender Portal. 
+Ideal wäre ausserdem, wenn Sie Zugang haben zum Azure-, Microsoft 365- und Microsoft Defender Portal (eine Testumgebung - keine Produktionsumgebung).  
 
 ## Zielgruppe:
 Der Workshop richtet sich sowohl an IT-Einsteiger, die ein solides Grundlagenwissen im Bereich Cybersecurity aufbauen möchten, als auch an IT-Profis, die ihre Fähigkeiten in der Bedrohungsanalyse und Incident Response vertiefen wollen. Er spricht Personen an, die eine Karriere als Cybersecurity-Analyst anstreben oder ihre bestehenden Kompetenzen in der IT-Sicherheit erweitern möchten, um effektiv in Security-Operations-Teams zu arbeiten und zur Stärkung der Sicherheitsmassnahmen in ihrer Organisation beizutragen.
