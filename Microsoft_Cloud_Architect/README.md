@@ -21,6 +21,9 @@ Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff 
 
 Tauchen Sie ein in die Welt der Microsoft Cloud mit unserem praxisorientierten Workshop **"Microsoft Cloud Architect - Design und Architektur in der Praxis"**. In diesem Workshop lernen Sie, wie Sie komplexe Cloud-Infrastrukturen entwerfen und implementieren, um die Anforderungen Ihrer Organisation zu erfüllen. Sie erhalten einen umfassenden Einblick in die Microsoft Cloud-Technologien und lernen, wie Sie diese effektiv einsetzen, um eine sichere, skalierbare und zuverlässige Cloud-Umgebung zu schaffen. Der Workshop vermittelt Ihnen praxisorientierte Kenntnisse und Best Practices, um Ihre Fähigkeiten als Microsoft Cloud Architect zu erweitern und Ihre Karriere auf die nächste Stufe zu heben.
 
+## Was ist das Ziel dieses Workshops?
+Eine solide Infrastruktur in der Cloud (inklusive Hybrid) zu entwerfen und zu implementieren, ist eine der wichtigsten Aufgaben eines Microsoft Cloud Architects. In diesem Workshop lernen Sie, wie Sie die Microsoft Cloud-Technologien optimal nutzen, um eine sichere, skalierbare und zuverlässige Cloud-Umgebung zu schaffen. Sie erhalten praxisorientierte Kenntnisse und Best Practices, um komplexe Cloud-Infrastrukturen zu entwerfen und zu implementieren, die den Anforderungen Ihrer Organisation gerecht werden. Der Workshop bietet Ihnen die perfekte Kombination aus Theorie und Praxis, um Sie optimal auf die Herausforderungen als Microsoft Cloud Architect vorzubereiten.
+
 ### Was Sie erwartet:
 
 Im Workshop „Microsoft Cloud Architect“ erwartet Sie ein intensives und praxisorientiertes Lernerlebnis, das Ihnen hilft, Ihr Fachwissen in der Microsoft Cloud zu vertiefen. Sie lernen fortgeschrittene Konzepte und Best Practices in Microsoft Azure, insbesondere im Bereich Infrastructure as a Service (IaaS), sowie in Intune, Microsoft Defender und Sicherheitslösungen. Dabei stehen praktische Übungen im Vordergrund. Sie werden Ressourcen in Azure bereitstellen, Microsoft Defender konfigurieren und Geräte in Intune registrieren sowie verwalten. Zudem erhalten Sie fundierte Einblicke in die Sicherheitsarchitektur.
@@ -39,6 +42,8 @@ Kenntnisse auf dem Niveau von AZ-104, MS-102 und SC-900 sowie Grundkenntnisse vo
 - Azure-Sicherheit: Microsoft Defender for Cloud und Microsoft Sentinel
 - Microsoft Purview: Schützen der vertraulichen Daten und Datenklassifizierung
 - Azure-Verwaltung: Mit Azure Monitor, Log Analytics und Update Management
+- Azure-Identitäten: Mit Entra ID Identity Protection und Conditional Access
+- Azure-Netzwerke: Mit VPN-Gateways, ExpressRoute und Azure Firewall
 
 **Empfehlung:**  
 Damit Sie dem Workshop bestens folgen können, sollten Sie Zugang haben zum Azure-, Microsoft 365- und Microsoft Defender Portal. Unten finden Sie einen Link, um eine kostenlose Testversion von Azure zu erhalten.

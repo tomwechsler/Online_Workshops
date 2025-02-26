@@ -37,12 +37,14 @@ Durch den Workshop werden sie in die Lage versetzt, eigenständig Schwachstellen
 - Microsoft Sentinel und Defender for Cloud
 - Lynis und CIS-CAT Lite für die Prüfung der Konformität und Härtung von Systemen
 - Nessus und OpenVAS für die Schwachstellenanalyse
+- Conditional Access und Entra ID Identity Protection für die Zugriffskontrolle
 - Wireshark für die Netzwerkanalyse
 - Microsoft Defender for Endpoint für die Endpunktsicherheit
 - Group Policy Objects (GPOs) analysieren mit dem Microsoft Security Compliance Toolkit
 - Microsoft Purview für die Datenklassifizierung
-- Verteidigung in der Tiefe (Defense in Depth) und Zero Trust
-- KI und Cybersecurity
+- Verteidigung in der Tiefe (Defense in Depth) und Zero Trust Architektur
+- Active Directory-Sicherheit und Überwachung mit Microsoft Defender for Identity
+- KI in Cybersecurity
 - und vieles mehr!
 
 ## Hauptthemen:
