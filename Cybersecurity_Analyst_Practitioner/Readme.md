@@ -91,7 +91,7 @@ Damit Sie dem Workshop bestens folgen können, sollten Sie über ein Hostsystem 
 - Metasploitable 2
 - Rocky Linux (Optional)
 
-> Note: Für die Bereitstellung der virtuellen Maschinen sollten Sie genügend Arbeitsspeicher (mind. 16 GB) und Festplattenspeicher (min. 50 GB) zur Verfügung haben.
+> Note: Für die Bereitstellung der virtuellen Maschinen sollten Sie genügend Arbeitsspeicher (mind. 16 GB) und Festplattenspeicher (min. 50 GB) zur Verfügung haben. Falls Sie Unterstützung benötigen finden Sie bei **Weitere Lerninhalte** ein Video-Training zum Thema "Aufbau einer Cybersicherheits-Heimlaborumgebung".
 
 Ideal wäre ausserdem, wenn Sie Zugang haben zum Azure-, Microsoft 365- und Microsoft Defender Portal (eine Testumgebung - keine Produktionsumgebung).  
 
@@ -133,6 +133,10 @@ Wenn Sie Fragen haben, können Sie mich unter folgender Adresse erreichen:
   https://rockylinux.org/download/
 
 ## Weitere Lerninhalte
+- Aufbau einer Cybersicherheits-Heimlaborumgebung!
+
+  https://de.linkedin.com/learning/aufbau-einer-cybersicherheits-heimlaborumgebung
+
 - GitHub Repository: Ethical Hacking und Penetration Testing
 
   https://github.com/tomwechsler/Ethical_Hacking_and_Penetration_Testing

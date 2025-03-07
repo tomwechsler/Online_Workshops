@@ -60,7 +60,7 @@ aufgebaut (die .iso-Dateien vorab herunterladen) mit VMware Workstation (Pro - f
 - Metasploitable 2
 - Rocky Linux (Optional)
 
-> Note: Für die Bereitstellung der virtuellen Maschinen sollten Sie genügend Arbeitsspeicher (mind. 16 GB) und Festplattenspeicher (min. 50 GB) zur Verfügung haben.
+> Note: Für die Bereitstellung der virtuellen Maschinen sollten Sie genügend Arbeitsspeicher (mind. 16 GB) und Festplattenspeicher (min. 50 GB) zur Verfügung haben. Falls Sie Unterstützung benötigen finden Sie bei **Weitere Lerninhalte** ein Video-Training zum Thema "Aufbau einer Cybersicherheits-Heimlaborumgebung".
 
 ## Zielgruppe:
 Dieser Workshop richtet sich an IT-Fachleute, die sich für IT-Sicherheit interessieren und die Grundlagen des Ethical Hacking und Penetration Testing kennenlernen möchten. Dazu gehören Systemadministratoren, Sicherheitsingenieure und Netzwerkadministratoren, die ihre Kenntnisse vertiefen und eine praktische Einführung in die Welt des Ethical Hacking und Penetration Testing erhalten möchten. Der Workshop eignet sich auch für IT-Manager und IT-Entscheider, die sich einen Überblick über das Thema verschaffen möchten.
@@ -102,6 +102,10 @@ Wenn Sie Fragen haben, können Sie mich unter folgender Adresse erreichen:
   https://rockylinux.org/download/
 
 ## Weitere Lerninhalte
+- Aufbau einer Cybersicherheits-Heimlaborumgebung!
+
+  https://de.linkedin.com/learning/aufbau-einer-cybersicherheits-heimlaborumgebung
+  
 - GitHub Repository: Ethical Hacking und Penetration Testing
 
   https://github.com/tomwechsler/Ethical_Hacking_and_Penetration_Testing
