@@ -31,4 +31,12 @@ Informationen zu den verschiedenen Online Workshops!
 - Microsoft Certified: Windows Server Hybrid Administrator Associate (Az-800 und AZ-801) (coming soon)
 
 
-Informationen zur Datenschutzerklärung finden Sie [hier](http://www.winsolution.ch).
+**Informationen zur Datenschutzerklärung** finden Sie [hier](http://www.winsolution.ch).
+
+## Über mich:  
+
+Seit dem Jahr 2000 bin ich in der IT-Branche tätig und habe mich auf Cloud- und Cybersecurity-Lösungen spezialisiert. Seit 2007 arbeite ich als selbstständiger Cloud (Azure) Solution Architect, Cyber Security Architect und Trainer.
+
+Ich bin Microsoft Most Valuable Professional (MVP) in Azure sowie Cloud und Datacenter Management und verfüge über eine breite Palette an Fachzertifizierungen. Dazu zählen unter anderem Microsoft Cybersecurity Architect, Microsoft Certified: Windows Server Hybrid Administrator Associate, Microsoft Certified: Azure Solutions Architect Expert, EC-Council Certified Ethical Hacker (CEH), Cisco CCNA (Routing & Switching, Security und Cyber Ops) sowie zahlreiche Linux- und Virtualisierungszertifikate (LPIC-1, LPIC-2, LPIC-3, SUSE Certified Linux Administrator und Red Hat Certified System Administrator - RHCSA).
+
+Als Microsoft Certified Trainer (MCT) vermittle ich mein Wissen mit Leidenschaft und unterstütze Unternehmen sowie IT-Fachkräfte dabei, sich im Bereich Cloud-Architektur, Cyber- und Netzwerksicherheit und hybride Infrastrukturen weiterzuentwickeln. Mein Ziel ist es, praxisnahe und zukunftssichere Lösungen zu schaffen und das Bewusstsein für IT-Sicherheit und moderne Cloud-Technologien nachhaltig zu stärken.
