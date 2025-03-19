@@ -12,11 +12,11 @@ Informationen zu den verschiedenen Online Workshops!
 - Aufbau einer Microsoft Intune Infrastruktur
 - Einführung in Ethical Hacking und Penetration Testing **(Start: Dienstag 21. Oktober 2025)**
 - Cybersecurity Analyst - Ein praktischer Ansatz! **(Start: Freitag 25. April 2025)**
-- Microsoft Cloud Architect - Design und Architektur in der Praxis **(Start: Freitag 24. Oktober 2025)**
+- Microsoft Cloud Architect - Design und Architektur in der Praxis **(Start: Freitag 31. Oktober 2025)**
 - (weitere werden folgen)
 
 ## Zertifizierungs-Vorbereitungskurse:  
-- CompTIA PenTest+ **(Start: Freitag 19. September 2025)**  
+- CompTIA PenTest+ **(Start: Dienstag 13. Januar 2026)**  
 - Microsoft 365 Certified: Endpoint Administrator Associate (MD-102)  
 - Microsoft Certified: Identity and Access Administrator Associate (SC-300)
 - Microsoft Certified: Azure Administrator Associate (AZ-104) **(Start: Dienstag 29. April 2025)**
