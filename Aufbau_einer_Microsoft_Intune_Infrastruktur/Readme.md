@@ -5,7 +5,7 @@ Online Workshop zum Thema Aufbau einer Microsoft Intune Infrastruktur!
 mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
 ## Informationen:
-⏰ Dauer: 3 Nachmittage (jeweils 13.30 - 16.30 Uhr) einmal pro Woche  
+⏰ Dauer: 3 Nachmittage (jeweils 13.00 - 17.00 Uhr) einmal pro Woche  
 🗓️ Startdatum: Freitag 07. Juni 2024  
 🗓️ Enddatum: Freitag 21. Juni 2024    
 💸 Preis pro TeilnehmerIn: Euro 800.- (für Anmeldungen aus der Schweiz - CHF 800.- exkl. MwSt.)  
