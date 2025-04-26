@@ -45,7 +45,7 @@ Dieser Workshop bietet eine konzentrierte Einführung in den Aufbau einer Micros
 Um an diesem Workshop teilzunehmen, sollten Sie über grundlegende IT-Kenntnisse verfügen und ein grundlegendes Verständnis von Cloud-Computing haben. 
 
 Weitere Voraussetzungen sind:  
-    - Grundlegende Kenntnisse von Microsoft 365 und Azure AD  
+    - Grundlegende Kenntnisse von Microsoft 365 und Entra ID  
     - Grundlegende Kenntnisse von Microsoft Intune  
     - Grundlegende Kenntnisse der Windows 10/11 Verwaltung
 
