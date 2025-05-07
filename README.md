@@ -8,7 +8,7 @@ Informationen zu den verschiedenen Online Workshops!
 - Wireshark Grundlagen
 - PowerShell, Visual Studio Code und GitHub Grundlagen
 - Azure Infrastruktur Administrieren
-- Masterclass - Verwaltung von Windows 10 und Windows 11 mit Microsoft Intune
+- Microsoft Intune Masterclass: Windows 10 und Windows 11 mit Intune verwalten **(Start: Freitag 16. Januar 2026)**
 - Aufbau einer Microsoft Intune Infrastruktur
 - Einführung in Ethical Hacking und Penetration Testing **(Start: Dienstag 21. Oktober 2025)**
 - Cybersecurity Analyst - Ein praktischer Ansatz! **(Start: Freitag 19. September 2025)**

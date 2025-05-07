@@ -1,26 +1,27 @@
-# 📢 Masterclass: Windows 10 und Windows 11 mit Microsoft Intune verwalten! 📢
-Online Masterclass: Windows 10 und Windows 11 mit Microsoft Intune verwalten!
+# 📢 Microsoft Intune Masterclass: Windows 10 und Windows 11 mit Intune verwalten! 📢
+Online Microsoft Intune Masterclass: Windows 10 und Windows 11 mit Intune verwalten!
 
-## Masterclass: Windows 10 und Windows 11 mit Microsoft Intune verwalten
+## Microsoft Intune Masterclass: Windows 10 und Windows 11 mit Intune verwalten!
 mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
 ## Informationen:
 ⏰ Dauer: 6 Nachmittage (jeweils 13.00 - 17.00 Uhr) einmal pro Woche  
-🗓️ Startdatum:   
-🗓️ Enddatum:   
+🗓️ Startdatum: Freitag 16. Januar 2026  
+🗓️ Enddatum: Freitag 20. Februar 2026
 💸 Preis pro TeilnehmerIn: Euro 1'600.- (für Anmeldungen aus der Schweiz - CHF 1'600.- exkl. MwSt.)  
 📍 Plattform: Microsoft Teams (Online Kurs)  
 ➡️ Alle Kursnachmittage werden aufgezeichnet und stehen den TeilnehmerInnen Online zur Verfügung  
-🗓️ **Anmeldefrist:**  
+🗓️ **Anmeldefrist:** Freitag 09. Januar 2026  
 
 > Note: Jede Teilnehmerin und jeder Teilnehmer erhalten eine Bestätigung der Masterclass-Teilnahme.
 
-Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff "Masterclass - Windows 10 und Windows 11 mit Microsoft Intune verwalten".  
+Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff "Microsoft Intune Masterclass".  
 
 ## Beschreibung:
-In der "Masterclass: Windows 10 und Windows 11 mit Microsoft Intune verwalten" lernen Teilnehmer, wie sie mithilfe von Microsoft Intune die Verwaltung von Windows 10 und Windows 11 Geräten optimieren können. Der Kurs bietet praxisnahe Anleitungen zur Konfiguration von Richtlinien, zur Bereitstellung von Anwendungen und zur Sicherstellung der Compliance in gemischten Windows-Umgebungen. Teilnehmer lernen, ihre Fähigkeiten in der modernen Geräteverwaltung zu vertiefen und effizientere IT-Infrastrukturen aufzubauen.
+In der "Microsoft Intune Masterclass: Windows 10 und Windows 11 mit Intune verwalten" lernen Teilnehmer, wie sie mithilfe von Microsoft Intune die Verwaltung von Windows 10 und Windows 11 Geräten optimieren können. Der Kurs bietet praxisnahe Anleitungen zur Konfiguration von Richtlinien, zur Bereitstellung von Anwendungen und zur Sicherstellung der Compliance in gemischten Windows-Umgebungen. Teilnehmer lernen, ihre Fähigkeiten in der modernen Geräteverwaltung zu vertiefen und effizientere IT-Infrastrukturen aufzubauen.
 
 ## Hauptthemen:
+
 **Modul 1: Einführung in Microsoft Intune**  
 
 - Grundlagen für Windows 10 und Windows 11 mit Microsoft Intune verwalten
@@ -53,7 +54,6 @@ In der "Masterclass: Windows 10 und Windows 11 mit Microsoft Intune verwalten" l
 - Arbeiten mit Gerätekonfigurationsprofilen, Vorlagen und dem Einstellungskatalog
 - Überlegungen zu ADMX-gestützten Richtlinien
 - Verwalten lokaler Administratoren mit Entra ID und Intune
-- Always On VPN-Bereitstellung für Windows 10 und Windows 11
 - Konfigurieren von Microsoft Edge 
 - Einrichten der rollenbasierten Verwaltung für die Zugriffsdelegation
 - Erstellen und Zuweisen von benutzerdefinierten Rollen
@@ -116,7 +116,7 @@ Nach Abschluss der Masterclass haben Sie ein solides Verständnis der Intune-Arc
 
 ## Hinweis:
 Diese Masterclass bietet eine Einführung in Windows-Geräte Verwaltung und mit Microsoft Intune. Der Masterclass ist praxisorientiert und bietet viele Übungen und Beispiele, um das Gelernte zu vertiefen.
-IpadOS, Android und MacOS Geräteverwaltung sind nicht Bestandteil dieser Masterclass.
+IPadOS, Android und macOS Geräteverwaltung sind nicht Bestandteil dieser Masterclass.
 
 ## Kontaktinformationen
 Ich wünsche Ihnen viel Spass mit der Masterclass. Wenn Sie Fragen haben, können Sie mich unter folgender Adresse erreichen:
