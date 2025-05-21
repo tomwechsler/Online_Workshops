@@ -13,6 +13,7 @@ Informationen zu den verschiedenen Online Workshops!
 - Einführung in Ethical Hacking und Penetration Testing **(Start: Dienstag 21. Oktober 2025)**
 - Cybersecurity Analyst - Ein praktischer Ansatz! **(Start: Freitag 19. September 2025)**
 - Microsoft Cloud Architect - Design und Architektur in der Praxis **(Start: Freitag 31. Oktober 2025)**
+- Masterclass: Microsoft Cloud Cybersecurity Architect **(Comming Soon)**
 - (weitere werden folgen)
 
 ## Zertifizierungs-Vorbereitungskurse:  
