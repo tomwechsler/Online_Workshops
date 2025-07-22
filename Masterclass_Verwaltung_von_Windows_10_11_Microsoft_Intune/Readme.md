@@ -18,7 +18,7 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff "Microsoft Intune Masterclass".  
 
 ## Beschreibung:
-In der "Microsoft Intune Masterclass: Windows 10 und Windows 11 mit Intune verwalten" lernen Teilnehmer, wie sie mithilfe von Microsoft Intune die Verwaltung von Windows 10 und Windows 11 Geräten optimieren können. Der Kurs bietet praxisnahe Anleitungen zur Konfiguration von Richtlinien, zur Bereitstellung von Anwendungen und zur Sicherstellung der Compliance in gemischten Windows-Umgebungen. Teilnehmer lernen, ihre Fähigkeiten in der modernen Geräteverwaltung zu vertiefen und effizientere IT-Infrastrukturen aufzubauen.
+In der "Microsoft Intune Masterclass: Windows 10 und Windows 11 mit Intune verwalten" lernen Teilnehmer, wie sie mithilfe von Microsoft Intune die Verwaltung von Windows 10 und Windows 11 Geräten optimieren können. Der Kurs bietet praxisnahe Anleitungen zur Konfiguration von Richtlinien, zur Bereitstellung von Anwendungen und zur Sicherstellung der Compliance in gemischten Windows-Umgebungen. Teilnehmer lernen, ihre Fähigkeiten in der modernen Geräteverwaltung zu vertiefen und effizientere IT-Infrastrukturen aufzubauen. Ziel ist unter anderem die Implementierung einer „Modern-Workplace“-Lösung, die Sicherheit und Benutzerfreundlichkeit vereint.
 
 ## Hauptthemen:
 
@@ -32,7 +32,7 @@ In der "Microsoft Intune Masterclass: Windows 10 und Windows 11 mit Intune verwa
 - Entra ID Join vs. Entra ID Registration vs. Hybrid Entra ID Join
 - Verstehen von Azure und Intune-Sicherheit
 - Workload Nr. 1: Bereitstellen von Updates, Anwendungen und Skripten 
-- Woekload Nr. 2: Konfigurieren von Profilen und bedingtem Zugriff
+- Workload Nr. 2: Konfigurieren von Profilen und bedingtem Zugriff
 
 
 **Modul 2: Bereitstellen von Anwendungen und PowerShell-Skripten in Intune**  
@@ -53,11 +53,11 @@ In der "Microsoft Intune Masterclass: Windows 10 und Windows 11 mit Intune verwa
 - Konfigurieren von Antivirus- und Firewall-Richtlinien
 - Arbeiten mit Gerätekonfigurationsprofilen, Vorlagen und dem Einstellungskatalog
 - Überlegungen zu ADMX-gestützten Richtlinien
-- Verwalten lokaler Administratoren mit Entra ID und Intune
-- Konfigurieren von Microsoft Edge 
+- Verwalten lokaler Administratoren mit Entra ID und Intune 
 - Einrichten der rollenbasierten Verwaltung für die Zugriffsdelegation
 - Erstellen und Zuweisen von benutzerdefinierten Rollen
 - Integrieren mit Entra ID Privileged Identity Management
+- Onboarding von Windows 10 und Windows 11 Geräten in Microsoft Defender for Endpoint
 
 
 **Modul 4: Implementieren von Windows Autopilot**  
