@@ -8,7 +8,7 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 🗓️ Datum: 27. Oktober 2023  
 ⌚ Zeit: 13.00 Uhr  
 ⌚ Dauer: 4 Stunden  
-💸 Preis pro TeilnehmerIn: Euro 250.- (für Anmeldungen aus der Schweiz - CHF 120.- exkl. MwSt.)  
+💸 Preis pro TeilnehmerIn: Euro 250.- (für Anmeldungen aus der Schweiz - CHF 250.- exkl. MwSt.)  
 📍 Plattform: Microsoft Teams (Online Workshop)  
 🗓️ **Anmeldefrist: 20. Oktober 2023**  
 
