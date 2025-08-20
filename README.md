@@ -11,7 +11,7 @@ Informationen zu den verschiedenen Online Workshops!
 - Microsoft Intune Masterclass: Windows 10 und Windows 11 mit Intune verwalten **(Start: Freitag 16. Januar 2026)**
 - Aufbau einer Microsoft Intune Infrastruktur
 - Einführung in Ethical Hacking und Penetration Testing **(Start: Dienstag 21. Oktober 2025)**
-- Cybersecurity Analyst - Ein praktischer Ansatz! **(Start: Freitag 19. September 2025)**
+- Cybersecurity Analyst - Ein praktischer Ansatz!
 - Microsoft Cloud Architect - Design und Architektur in der Praxis **(Start: Freitag 31. Oktober 2025)**
 - Masterclass: Microsoft Cloud Cybersecurity Architect - Design und Architektur in der Praxis **(Start: Freitag 27. Februar 2026)**
 - (weitere werden folgen)
