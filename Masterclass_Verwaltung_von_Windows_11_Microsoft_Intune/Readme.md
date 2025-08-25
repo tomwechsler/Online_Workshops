@@ -1,7 +1,7 @@
-# 📢 Microsoft Intune Masterclass: Windows 10 und Windows 11 mit Intune verwalten! 📢
-Online Microsoft Intune Masterclass: Windows 10 und Windows 11 mit Intune verwalten!
+# 📢 Microsoft Intune Masterclass: Windows 11 mit Intune verwalten! 📢
+Online Microsoft Intune Masterclass: Windows 11 mit Intune verwalten!
 
-## Microsoft Intune Masterclass: Windows 10 und Windows 11 mit Intune verwalten!
+## Microsoft Intune Masterclass: Windows 11 mit Intune verwalten!
 mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
 ## Informationen:
@@ -18,13 +18,13 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff "Microsoft Intune Masterclass".  
 
 ## Beschreibung:
-In der "Microsoft Intune Masterclass: Windows 10 und Windows 11 mit Intune verwalten" lernen Teilnehmer, wie sie mithilfe von Microsoft Intune die Verwaltung von Windows 10 und Windows 11 Geräten optimieren können. Der Kurs bietet praxisnahe Anleitungen zur Konfiguration von Richtlinien, zur Bereitstellung von Anwendungen und zur Sicherstellung der Compliance in gemischten Windows-Umgebungen. Teilnehmer lernen, ihre Fähigkeiten in der modernen Geräteverwaltung zu vertiefen und effizientere IT-Infrastrukturen aufzubauen. Ziel ist unter anderem die Implementierung einer „Modern-Workplace“-Lösung, die Sicherheit und Benutzerfreundlichkeit vereint.
+In der "Microsoft Intune Masterclass: Windows 11 mit Intune verwalten" lernen Teilnehmer, wie sie mithilfe von Microsoft Intune die Verwaltung von Windows 11 Geräten optimieren können. Der Kurs bietet praxisnahe Anleitungen zur Konfiguration von Richtlinien, zur Bereitstellung von Anwendungen und zur Sicherstellung der Compliance in gemischten Windows-Umgebungen. Teilnehmer lernen, ihre Fähigkeiten in der modernen Geräteverwaltung zu vertiefen und effizientere IT-Infrastrukturen aufzubauen. Ziel ist unter anderem die Implementierung einer „Modern-Workplace“-Lösung, die Sicherheit und Benutzerfreundlichkeit vereint.
 
 ## Hauptthemen:
 
 **Modul 1: Einführung in Microsoft Intune**  
 
-- Grundlagen für Windows 10 und Windows 11 mit Microsoft Intune verwalten
+- Grundlagen für Windows 11 mit Microsoft Intune verwalten
 - Integration mit ConfigMgr (Co-Management und Tenant Attach)
 - Einrichten von Entra ID, DNS und benutzerdefinierten Domänen
 - Erstellen von Benutzern und Gruppen und Zuweisen von Lizenzen
@@ -57,13 +57,13 @@ In der "Microsoft Intune Masterclass: Windows 10 und Windows 11 mit Intune verwa
 - Einrichten der rollenbasierten Verwaltung für die Zugriffsdelegation
 - Erstellen und Zuweisen von benutzerdefinierten Rollen
 - Integrieren mit Entra ID Privileged Identity Management
-- Onboarding von Windows 10 und Windows 11 Geräten in Microsoft Defender for Endpoint
+- Onboarding von Windows 11 Geräten in Microsoft Defender for Endpoint
 
 
 **Modul 4: Implementieren von Windows Autopilot**  
 
 - Konfigurieren von Windows Autopilot Voraussetzungen
-- Windows 10 und Windows 11 Geräte verwalten
+- Windows 11 Geräte verwalten
 - Windows Autopilot-Bereitstellungsszenarien
 - Unterstützung von OEM-Anbietern
 - Verstehen von Autopilot-Bereitstellungsprofilen 
@@ -77,10 +77,10 @@ In der "Microsoft Intune Masterclass: Windows 10 und Windows 11 mit Intune verwa
 
 **Modul 5: Verwaltung von Software-Updates und Windows-Wartung mit Intune**  
 
-- Verwalten von Software-Updates für Windows 10 und Windows 11 Geräte
+- Verwalten von Software-Updates für Windows 11 Geräte
 - Erstellen von Windows Update-Richtlinien
 - Konfigurieren der Einstellungen für die Benutzerfreundlichkeit
-- Verwalten von Windows 10 und Windows 11 Funktionsupdates
+- Verwalten von Windows 11 Funktionsupdates
 - Erstellen von Software-Update-Ringen
 - Arbeiten mit Software Update Compliance
 - Integrieren der Patch-Verwaltung von Drittanbietern in Microsoft Intune
@@ -94,7 +94,7 @@ In der "Microsoft Intune Masterclass: Windows 10 und Windows 11 mit Intune verwa
 - Verstehen der Intune-Protokollierung
 - Fehlerbehebung bei der Geräteanmeldung und Richtlinien
 - Fehlerbehebung bei Geräteaktionen in Intune
-- Sammeln von Protokollen von Windows 10 und Windows 11 Geräten
+- Sammeln von Protokollen von Windows 11 Geräten
 - Fehlerbehebung bei BitLocker-Problemen mithilfe des Intune-Verschlüsselungsberichts
 - Verwendung des Intune-Fehlerbehebungsportals
 
@@ -112,7 +112,7 @@ Damit Sie der Masterclass bestens folgen können, sollten Sie Zugang haben zum I
 ## Zielgruppe:
 Dieser Masterclass richtet sich an IT-Profis, Entwickler:Innen und Entscheidungsträger:Innen, die ihr Wissen über Intune-Grundlagen erweitern möchten.  
 
-Nach Abschluss der Masterclass haben Sie ein solides Verständnis der Intune-Architektur und der grundlegenden Verwaltung von Windows-Geräten. Sie sind in der Lage, Intune-Richtlinien zu konfigurieren, Anwendungen bereitzustellen und die Sicherheit von Windows 10 und Windows 11 Geräten zu gewährleisten.
+Nach Abschluss der Masterclass haben Sie ein solides Verständnis der Intune-Architektur und der grundlegenden Verwaltung von Windows-Geräten. Sie sind in der Lage, Intune-Richtlinien zu konfigurieren, Anwendungen bereitzustellen und die Sicherheit von Windows 11 Geräten zu gewährleisten.
 
 ## Hinweis:
 Diese Masterclass bietet eine Einführung in Windows-Geräte Verwaltung und mit Microsoft Intune. Der Masterclass ist praxisorientiert und bietet viele Übungen und Beispiele, um das Gelernte zu vertiefen.
