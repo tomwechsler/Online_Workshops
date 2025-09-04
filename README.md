@@ -9,14 +9,14 @@ Informationen zu den verschiedenen Online Workshops!
 | Intune Grundlagen                                                            | -                         | [Intune Grundlagen](./Intune_Grundlagen/Readme.md) |
 | Microsoft 365 Grundlagen                                                     | -                         | [Microsoft 365 Grundlagen](./Microsoft_365_Grundlagen/Readme.md) |
 | Wireshark Grundlagen                                                         | -                         | [Wireshark Grundlagen](./Wireshark_Grundlagen/Readme.md) |
-| PowerShell, Visual Studio Code und GitHub Grundlagen                         | -                         | [PowerShell & VS Code](./PowerShell_VSCode_GitHub/Readme.md) |
+| PowerShell, Visual Studio Code und GitHub Grundlagen                         | -                         | [PowerShell & VS Code](./PowerShell_Visual_Studio_Code_GitHub/Readme.md) |
 | Azure Infrastruktur Administrieren                                           | -                         | [Azure Infrastruktur](./Azure_Infrastruktur/Readme.md) |
-| Microsoft Intune Masterclass: Windows 10 und Windows 11 mit Intune verwalten | Freitag 16. Januar 2026   | [Intune Masterclass](./Intune_Masterclass/Readme.md) |
-| Aufbau einer Microsoft Intune Infrastruktur                                  | -                         | [Intune Infrastruktur](./Intune_Infrastruktur/Readme.md) |
-| Einführung in Ethical Hacking und Penetration Testing                        | Dienstag 21. Oktober 2025 | [Ethical Hacking](./Ethical_Hacking/Readme.md)     |
-| Cybersecurity Analyst - Ein praktischer Ansatz!                              | -                         | [Cybersecurity Analyst](./Cybersecurity_Analyst/Readme.md) |
-| Microsoft Cloud Architect - Design und Architektur in der Praxis             | Freitag 31. Oktober 2025  | [Cloud Architect](./Cloud_Architect/Readme.md)     |
-| Masterclass: Microsoft Cloud Cybersecurity Architect                         | Freitag 27. Februar 2026  | [Cloud Cybersecurity Architect](./Cloud_Cybersecurity_Architect/Readme.md) |
+| Microsoft Intune Masterclass: Windows 11 mit Intune verwalten                | Freitag 16. Januar 2026   | [Intune Masterclass](./Masterclass_Verwaltung_von_Windows_11_Microsoft_Intune/Readme.md) |
+| Aufbau einer Microsoft Intune Infrastruktur                                  | -                         | [Intune Infrastruktur](./Aufbau_einer_Microsoft_Intune_Infrastruktur/Readme.md) |
+| Einführung in Ethical Hacking und Penetration Testing                        | Dienstag 21. Oktober 2025 | [Ethical Hacking](./Ethical_Hacking_und_Penetration_Testing/Readme.md) |
+| Cybersecurity Analyst - Ein praktischer Ansatz!                              | -                         | [Cybersecurity Analyst](./Cybersecurity_Analyst_Practitioner/Readme.md) |
+| Microsoft Cloud Architect - Design und Architektur in der Praxis             | Freitag 31. Oktober 2025  | [Microsoft Cloud Architect](./Microsoft_Cloud_Architect/Readme.md) |
+| Masterclass: Microsoft Cloud Cybersecurity Architect                         | Freitag 27. Februar 2026  | [MicrosoftCloud Cybersecurity Architect](./Masterclass_Microsoft_Cloud_Cybersecurity_Architect/Readme.md) |
 | CompTIA PenTest+                                                             | Dienstag 13. Januar 2026  | [CompTIA PenTest+](./CompTIA_PenTest+/Readme.md)   |
 | Microsoft 365 Certified: Endpoint Administrator Associate (MD-102)           | -                         | [MD-102](./Microsoft_365_Certified_Endpoint_Administrator_Associate/Readme.md) |
 | Microsoft Certified: Identity and Access Administrator Associate (SC-300)    | -                         | [SC-300](./Microsoft_Certified_Identity_and_Access_Administrator_Associate/Readme.md) |
