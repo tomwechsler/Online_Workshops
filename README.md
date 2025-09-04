@@ -1,36 +1,36 @@
 # Online Workshops
 Informationen zu den verschiedenen Online Workshops!
 
-## Workshop Themen:
-- Azure Grundlagen
-- Intune Grundlagen
-- Microsoft 365 Grundlagen
-- Wireshark Grundlagen
-- PowerShell, Visual Studio Code und GitHub Grundlagen
-- Azure Infrastruktur Administrieren
-- Microsoft Intune Masterclass: Windows 10 und Windows 11 mit Intune verwalten **(Start: Freitag 16. Januar 2026)**
-- Aufbau einer Microsoft Intune Infrastruktur
-- Einführung in Ethical Hacking und Penetration Testing **(Start: Dienstag 21. Oktober 2025)**
-- Cybersecurity Analyst - Ein praktischer Ansatz!
-- Microsoft Cloud Architect - Design und Architektur in der Praxis **(Start: Freitag 31. Oktober 2025)**
-- Masterclass: Microsoft Cloud Cybersecurity Architect - Design und Architektur in der Praxis **(Start: Freitag 27. Februar 2026)**
-- (weitere werden folgen)
+## Workshop Übersicht
 
-## Zertifizierungs-Vorbereitungskurse:  
-- CompTIA PenTest+ **(Start: Dienstag 13. Januar 2026)**  
-- Microsoft 365 Certified: Endpoint Administrator Associate (MD-102)  
-- Microsoft Certified: Identity and Access Administrator Associate (SC-300)
-- Microsoft Certified: Azure Administrator Associate (AZ-104) **(Start: Freitag 06. Juni 2025)**
-- Microsoft Certified: Azure Virtual Desktop Specialty (AZ-140)
-- Linux Foundation Certified System Administrator (LFCS)
-- Linux Foundation Certified IT Associate (LFCA) (coming soon)
-- Linux Professional Institute Security Essentials (020-100) (coming soon)
-- Red Hat Certified System Administrator (RHCSA - EX200) (coming soon)
-- Microsoft Certified: Information Protection and Compliance Administrator Associate (SC-400) (coming soon)
-- Microsoft Certified: Azure Security Engineer Associate (AZ-500) (coming soon)
-- Microsoft Certified: Azure Network Engineer Associate (AZ-700) (coming soon)
-- Microsoft Certified: Windows Server Hybrid Administrator Associate (Az-800 und AZ-801) (coming soon)
-- Microsoft Certified: Cybersecurity Architect Expert (SC-100) (coming soon)
+| Thema / Kurs                                                                 | Startdatum                | Link zum Workshop                                  |
+|------------------------------------------------------------------------------|---------------------------|----------------------------------------------------|
+| Azure Grundlagen                                                             | -                         | [Azure Grundlagen](./Azure_Grundlagen/Readme.md)   |
+| Intune Grundlagen                                                            | -                         | [Intune Grundlagen](./Intune_Grundlagen/Readme.md) |
+| Microsoft 365 Grundlagen                                                     | -                         | [Microsoft 365 Grundlagen](./Microsoft_365_Grundlagen/Readme.md) |
+| Wireshark Grundlagen                                                         | -                         | [Wireshark Grundlagen](./Wireshark_Grundlagen/Readme.md) |
+| PowerShell, Visual Studio Code und GitHub Grundlagen                         | -                         | [PowerShell & VS Code](./PowerShell_VSCode_GitHub/Readme.md) |
+| Azure Infrastruktur Administrieren                                           | -                         | [Azure Infrastruktur](./Azure_Infrastruktur/Readme.md) |
+| Microsoft Intune Masterclass: Windows 10 und Windows 11 mit Intune verwalten | Freitag 16. Januar 2026   | [Intune Masterclass](./Intune_Masterclass/Readme.md) |
+| Aufbau einer Microsoft Intune Infrastruktur                                  | -                         | [Intune Infrastruktur](./Intune_Infrastruktur/Readme.md) |
+| Einführung in Ethical Hacking und Penetration Testing                        | Dienstag 21. Oktober 2025 | [Ethical Hacking](./Ethical_Hacking/Readme.md)     |
+| Cybersecurity Analyst - Ein praktischer Ansatz!                              | -                         | [Cybersecurity Analyst](./Cybersecurity_Analyst/Readme.md) |
+| Microsoft Cloud Architect - Design und Architektur in der Praxis             | Freitag 31. Oktober 2025  | [Cloud Architect](./Cloud_Architect/Readme.md)     |
+| Masterclass: Microsoft Cloud Cybersecurity Architect                         | Freitag 27. Februar 2026  | [Cloud Cybersecurity Architect](./Cloud_Cybersecurity_Architect/Readme.md) |
+| CompTIA PenTest+                                                             | Dienstag 13. Januar 2026  | [CompTIA PenTest+](./CompTIA_PenTest+/Readme.md)   |
+| Microsoft 365 Certified: Endpoint Administrator Associate (MD-102)           | -                         | [MD-102](./Microsoft_365_Certified_Endpoint_Administrator_Associate/Readme.md) |
+| Microsoft Certified: Identity and Access Administrator Associate (SC-300)    | -                         | [SC-300](./Microsoft_Certified_Identity_and_Access_Administrator_Associate/Readme.md) |
+| Microsoft Certified: Azure Administrator Associate (AZ-104)                  | -                         | [AZ-104](./Azure_Administrator_Associate_AZ-104/Readme.md)                       |
+| Microsoft Certified: Azure Virtual Desktop Specialty (AZ-140)                | -                         | [AZ-140](./Azure_Virtual_Desktop_Specialty_AZ-140/Readme.md)                       |
+| Linux Foundation Certified System Administrator (LFCS)                       | -                         | [LFCS](./Linux_Foundation_Certified_System_Administrator_(LFCS)/Readme.md) |
+| Linux Foundation Certified IT Associate (LFCA)                               | coming soon               | [LFCA](./LFCA/Readme.md)                           |
+| Linux Professional Institute Security Essentials (020-100)                   | coming soon               | [LPI Security Essentials](./LPI_Security/Readme.md)|
+| Red Hat Certified System Administrator (RHCSA - EX200)                       | coming soon               | [RHCSA](./RHCSA/Readme.md)                         |
+| Microsoft Certified: Information Protection and Compliance Administrator     | coming soon               | [SC-400](./SC-400/Readme.md)                       |
+| Microsoft Certified: Azure Security Engineer Associate (AZ-500)              | coming soon               | [AZ-500](./AZ-500/Readme.md)                       |
+| Microsoft Certified: Azure Network Engineer Associate (AZ-700)               | coming soon               | [AZ-700](./AZ-700/Readme.md)                       |
+| Microsoft Certified: Windows Server Hybrid Administrator Associate           | coming soon               | [AZ-800/801](./AZ-800_801/Readme.md)               |
+| Microsoft Certified: Cybersecurity Architect Expert (SC-100)                 | coming soon               | [SC-100](./SC-100/Readme.md)                       |
 
 **Informationen zur Datenschutzerklärung** finden Sie [hier](http://www.winsolution.ch).
 
