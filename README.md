@@ -13,7 +13,7 @@ Informationen zu den verschiedenen Online Workshops!
 | Azure Infrastruktur Administrieren                                           | -                         | [Azure Infrastruktur](./Azure_Infrastruktur/Readme.md) |
 | Microsoft Intune Masterclass: Windows 11 mit Intune verwalten                | Freitag 16. Januar 2026   | [Intune Masterclass](./Masterclass_Verwaltung_von_Windows_11_Microsoft_Intune/Readme.md) |
 | Aufbau einer Microsoft Intune Infrastruktur                                  | -                         | [Intune Infrastruktur](./Aufbau_einer_Microsoft_Intune_Infrastruktur/Readme.md) |
-| Einführung in Ethical Hacking und Penetration Testing                        | Dienstag 21. Oktober 2025 | [Ethical Hacking](./Ethical_Hacking_und_Penetration_Testing/Readme.md) |
+| Einführung in Ethical Hacking und Penetration Testing                        | -                         | [Ethical Hacking](./Ethical_Hacking_und_Penetration_Testing/Readme.md) |
 | Cybersecurity Analyst - Ein praktischer Ansatz!                              | -                         | [Cybersecurity Analyst](./Cybersecurity_Analyst_Practitioner/Readme.md) |
 | Microsoft Cloud Architect - Design und Architektur in der Praxis             | Freitag 31. Oktober 2025  | [Microsoft Cloud Architect](./Microsoft_Cloud_Architect/Readme.md) |
 | Masterclass: Microsoft Cloud Cybersecurity Architect                         | Freitag 27. Februar 2026  | [Microsoft Cloud Cybersecurity Architect](./Masterclass_Microsoft_Cloud_Cybersecurity_Architect/Readme.md) |
