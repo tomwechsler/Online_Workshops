@@ -65,12 +65,14 @@ Kenntnisse auf dem Niveau von AZ-104, MS-102 und SC-900 sowie Grundkenntnisse vo
 - **Microsoft Entra Verified ID** – dezentrale Identitätslösungen  
 - **Privileged Identity Management (PIM)** – Verwaltung privilegierter Zugriffe  
 - **Conditional Access** – kontextbasierte Zugriffssteuerung  
+- **Global Secure Access** – Zero Trust Network Access (ZTNA) und Identity Protection
 
 ### 🛡️ Infrastruktur- & Netzwerksicherheit
 - **Microsoft Defender for Cloud** – Sicherheitsbewertung und Schutz hybrider Cloud-Workloads  
 - **Microsoft Defender for Cloud Apps (MCAS)** – Cloud Access Security Broker (CASB)  
 - **Azure Firewall & Azure DDoS Protection** – Netzwerkschutz auf Cloud-Ebene  
 - **Azure Bastion** – sicherer Zugriff auf virtuelle Maschinen  
+- **Zero Trust Network Architecture** – Mikrosegmentierung, Netzwerkzugriffskontrollen, VPN-Alternativen
 
 ### 📊 Security Operations & Bedrohungserkennung
 - **Microsoft Sentinel** – Cloud-native SIEM & SOAR-Lösung für Bedrohungserkennung und Reaktion  
