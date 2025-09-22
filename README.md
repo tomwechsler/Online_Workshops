@@ -1,5 +1,5 @@
 # Online Workshops
-Informationen zu den verschiedenen Online Workshops!
+Informationen und Termine zu den verschiedenen Online Workshops!
 
 ## Workshop Übersicht
 
