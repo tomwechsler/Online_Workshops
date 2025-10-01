@@ -17,7 +17,7 @@ Informationen und Termine zu den verschiedenen Online Workshops!
 | Cybersecurity Analyst - Ein praktischer Ansatz!                              | -                         | [Cybersecurity Analyst](./Cybersecurity_Analyst_Practitioner/Readme.md) |
 | Microsoft Cloud Architect - Design und Architektur in der Praxis             | Dienstag 27. Januar 2026  | [Microsoft Cloud Architect](./Microsoft_Cloud_Architect/README.md) |
 | Masterclass: Microsoft Cloud Cybersecurity Architect                         | Freitag 27. Februar 2026  | [Microsoft Cloud Cybersecurity Architect](./Masterclass_Microsoft_Cloud_Cybersecurity_Architect/README.md) |
-| CompTIA PenTest+                                                             | Dienstag 13. Januar 2026  | [CompTIA PenTest+](./CompTIA_PenTest+/Readme.md)   |
+| CompTIA PenTest+                                                             | -                         | [CompTIA PenTest+](./CompTIA_PenTest+/Readme.md)   |
 | Microsoft 365 Certified: Endpoint Administrator Associate (MD-102)           | -                         | [MD-102](./Microsoft_365_Certified_Endpoint_Administrator_Associate/Readme.md) |
 | Microsoft Certified: Identity and Access Administrator Associate (SC-300)    | -                         | [SC-300](./Microsoft_Certified_Identity_and_Access_Administrator_Associate/Readme.md) |
 | Microsoft Certified: Azure Administrator Associate (AZ-104)                  | -                         | [AZ-104](./Azure_Administrator_Associate_AZ-104/Readme.md)                       |
