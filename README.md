@@ -15,7 +15,7 @@ Informationen und Termine zu den verschiedenen Online Workshops!
 | Aufbau einer Microsoft Intune Infrastruktur                                  | -                         | [Intune Infrastruktur](./Aufbau_einer_Microsoft_Intune_Infrastruktur/Readme.md) |
 | Einführung in Ethical Hacking und Penetration Testing                        | -                         | [Ethical Hacking](./Ethical_Hacking_und_Penetration_Testing/Readme.md) |
 | Cybersecurity Analyst - Ein praktischer Ansatz!                              | -                         | [Cybersecurity Analyst](./Cybersecurity_Analyst_Practitioner/Readme.md) |
-| Microsoft Cloud Architect - Design und Architektur in der Praxis             | Freitag 31. Oktober 2025  | [Microsoft Cloud Architect](./Microsoft_Cloud_Architect/README.md) |
+| Microsoft Cloud Architect - Design und Architektur in der Praxis             | Dienstag 27. Januar 2026  | [Microsoft Cloud Architect](./Microsoft_Cloud_Architect/README.md) |
 | Masterclass: Microsoft Cloud Cybersecurity Architect                         | Freitag 27. Februar 2026  | [Microsoft Cloud Cybersecurity Architect](./Masterclass_Microsoft_Cloud_Cybersecurity_Architect/README.md) |
 | CompTIA PenTest+                                                             | Dienstag 13. Januar 2026  | [CompTIA PenTest+](./CompTIA_PenTest+/Readme.md)   |
 | Microsoft 365 Certified: Endpoint Administrator Associate (MD-102)           | -                         | [MD-102](./Microsoft_365_Certified_Endpoint_Administrator_Associate/Readme.md) |
