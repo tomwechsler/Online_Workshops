@@ -11,7 +11,7 @@ mit Tom Wechsler 👉 [LinkedIn-Profil](https://www.linkedin.com/in/tom-wechsler
 - 💸 **Preis pro TeilnehmerIn:** Euro 1'600.- (für Anmeldungen aus der Schweiz – CHF 1'600.- exkl. MwSt.)  
 - 📍 **Plattform:** Microsoft Teams (Online-Kurs)  
 - ➡️ **Alle Kurseinheiten werden aufgezeichnet und stehen den TeilnehmerInnen online zur Verfügung.**  
-- 🗓️ **Anmeldefrist:**⏰ Dauer: 6 Nachmittage (jeweils 13.00 - 17.00 Uhr) einmal pro Woche  
+- 🗓️ **Anmeldefrist:**  
 
 *Jede Teilnehmerin und jeder Teilnehmer erhält eine Teilnahmebestätigung.*
 
