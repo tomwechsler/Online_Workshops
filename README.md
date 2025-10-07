@@ -15,7 +15,7 @@ Informationen und Termine zu den verschiedenen Online Workshops!
 | Aufbau einer Microsoft Intune Infrastruktur                                  | -                         | [Intune Infrastruktur](./Aufbau_einer_Microsoft_Intune_Infrastruktur/Readme.md) |
 | Einführung in Ethical Hacking und Penetration Testing                        | -                         | [Ethical Hacking](./Ethical_Hacking_und_Penetration_Testing/Readme.md) |
 | Cybersecurity Analyst - Ein praktischer Ansatz!                              | -                         | [Cybersecurity Analyst](./Cybersecurity_Analyst_Practitioner/Readme.md) |
-| Cybersecurity für KMU – Praxisorientierter Einstieg mit dem NIST CSF 2.0     | coming soon               | [Cybersecurity für KMU](./Cybersecurity_für_KMU_Praxisorientierter_Einstieg/Readme.md) |
+| Cybersecurity für KMU – Praxisorientierter Einstieg mit dem NIST CSF 2.0     | Dienstag 10. März 2026   | [Cybersecurity für KMU](./Cybersecurity_für_KMU_Praxisorientierter_Einstieg/Readme.md) |
 | Microsoft Cloud Architect - Design und Architektur in der Praxis             | Dienstag 27. Januar 2026  | [Microsoft Cloud Architect](./Microsoft_Cloud_Architect/README.md) |
 | Masterclass: Microsoft Cloud Cybersecurity Architect                         | Freitag 27. Februar 2026  | [Microsoft Cloud Cybersecurity Architect](./Masterclass_Microsoft_Cloud_Cybersecurity_Architect/README.md) |
 | CompTIA PenTest+                                                             | -                         | [CompTIA PenTest+](./CompTIA_PenTest+/Readme.md)   |
