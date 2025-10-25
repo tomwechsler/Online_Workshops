@@ -33,7 +33,8 @@ Ein besonderes Highlight des Workshops sind praxisorientierte Beispiele und umfa
 ### Voraussetzungen:
 Kenntnisse auf dem Niveau von AZ-104, MS-102 und SC-900 sowie Grundkenntnisse von Windows-Betriebssystemen und allgemeine Cloud-Kenntnisse sind von Vorteil.
 
-**Die Themen im Detail:**  
+## Die Hauptthemen:  
+
 - Modern Workplace: Mit Azure Virtual Desktop, Windows 365 und Microsoft Intune
 - Microsoft Intune: Geräteverwaltung, Sicherheit und Compliance
 - Azure-Infrastruktur: Mit virtuellen Maschinen, Netzwerken, Speicher und Sicherheit
@@ -44,6 +45,56 @@ Kenntnisse auf dem Niveau von AZ-104, MS-102 und SC-900 sowie Grundkenntnisse vo
 - Azure-Verwaltung: Mit Azure Monitor, Log Analytics und Update Management
 - Azure-Identitäten: Mit Entra ID Identity Protection und Conditional Access
 - Azure-Netzwerke: Mit VPN-Gateways, ExpressRoute und Azure Firewall
+- Migration nach Azure: Best Practices und Strategien
+
+## Die Themen im Detail:
+
+### Tag 1 – Fundament: Identität & Netzwerke
+
+- Begrüßung & Überblick Microsoft Cloud Architektur
+- Azure-Identitäten: Entra ID, Identity Protection, Conditional Access
+- Azure-Netzwerke: Grundlagen, VPN-Gateways, ExpressRoute
+- Azure Firewall & Netzwerksicherheit
+- Architekturbeispiele für hybride Szenarien
+
+### Tag 2 – Azure-Infrastruktur
+
+- Virtuelle Maschinen: Compute-Optionen & Skalierung
+- Netzwerke & Storage im Zusammenspiel
+- Sicherheitskonzepte: NSG, Bastion, Key Vault
+- Kostenoptimierung & Governance für Infrastruktur
+
+### Tag 3 – Management & Monitoring
+
+- Azure Monitor & Log Analytics – Überblick
+- Update Management & Automatisierung
+- Cloud Governance (Rollen, Policies, Blueprints)
+- Migration nach Azure: Best Practices und Strategien
+- Best Practices: Betriebs- und Architekturansätze
+
+### Tag 4 – Modern Workplace & Microsoft 365
+
+- Modern Workplace mit Azure Virtual Desktop & Windows 365
+- Geräteverwaltung mit Microsoft Intune (Grundlagen)
+- Intune Vertiefung: Sicherheit & Compliance-Policies
+- Microsoft 365 Services: Exchange Online, SharePoint Online, OneDrive
+
+### Tag 5 – Kollaboration & Integration
+
+- Microsoft Teams: Architektur, Sicherheit & Integration
+- Power Platform: Automatisierung & Erweiterung von M365
+- Zusammenspiel von M365, Intune & Azure Identity
+- Praxisbeispiele: Hybrid Work Architekturen
+
+### Tag 6 – Security, Compliance & Abschluss
+
+- Microsoft Defender Suite – Überblick
+- Defender for Endpoint & Defender for Identity
+- Defender for Office 365
+- Azure Security: Defender for Cloud
+- Microsoft Sentinel: SIEM & SOAR in der Praxis
+- Microsoft Purview: Information Protection & Datenklassifizierung
+- Abschluss: Architektur-Blueprints, Best Practices & Q&A
 
 **Empfehlung:**  
 Damit Sie dem Workshop bestens folgen können, sollten Sie Zugang haben zum Azure-, Microsoft 365- und Microsoft Defender Portal. Unten finden Sie einen Link, um eine kostenlose Testversion von Azure zu erhalten.
