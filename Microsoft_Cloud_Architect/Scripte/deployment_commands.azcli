@@ -1,0 +1,18 @@
+#Login to Azure
+az login --use-device-code
+az account show --query name
+
+#Set primary subscription if you have multiple
+az account set --subscription "Your subscription name"
+
+#List all RG names
+az group list -o table
+
+#Create a resource group
+az group create -n 'clidemorg' -l 'westeurope'
+
+#Deploy an ARM Template
+az deployment group create --name "firstdeploy" --resource-group 'clidemorg' -f "./03_01_blanksamplearm.json" -c
+
+#Delete the resource group
+az group delete -n 'clidemorg' --yes
