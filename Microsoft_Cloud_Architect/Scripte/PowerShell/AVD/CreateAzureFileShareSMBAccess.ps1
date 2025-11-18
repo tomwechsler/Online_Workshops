@@ -33,17 +33,7 @@ $DomainAccountType = "ComputerAccount" # ServiceLogonAccount or default Computer
 #Select the target subscription for the current session
 Select-AzSubscription -SubscriptionId $SubscriptionId 
 
-# Register the target storage account with your active directory environment under the target OU 
-# (for example: specify the OU with Name as "UserAccounts" or DistinguishedName as 
-# "OU=UserAccounts,DC=CONTOSO,DC=COM"). You can use this PowerShell cmdlet: Get-ADOrganizationalUnit 
-# to find the Name and DistinguishedName of your target OU. If you are using the OU Name, specify it 
-# with -OrganizationalUnitName as shown below. If you are using the OU DistinguishedName, you can set it 
-# with -OrganizationalUnitDistinguishedName. You can choose to provide one of the two names to specify 
-# the target OU. You can choose to create the identity that represents the storage account as either a 
-# Service Logon Account or Computer Account (default parameter value), depending on your AD permissions 
-# and preference. Run Get-Help Join-AzStorageAccountForAuth for more details on this cmdlet. Note that 
-# Service Logon Accounts do not support AES256 encryption.
-
+#Join the storage account for SMB access using AD DS authentication
 Join-AzStorageAccountForAuth `
         -ResourceGroupName $ResourceGroupName `
         -StorageAccountName $StorageAccountName `
