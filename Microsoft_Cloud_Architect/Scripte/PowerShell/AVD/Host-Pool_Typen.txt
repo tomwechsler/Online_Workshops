@@ -1,0 +1,70 @@
+=============================================================
+              Host-Pool-Typen in Azure Virtual Desktop
+=============================================================
+
+TYP: POOLED
+-------------------------------------------------------------
+Einsatzszenarien:
+- Viele Benutzer mit ähnlichen Aufgaben (z. B. Office-Worker)
+- Standardisierte Arbeitsplätze, Schulungen oder Supportteams
+
+Vorteile:
++ Kosteneffiziente Nutzung durch geteilte Sitzungshosts
++ Einfache Skalierung und zentrale Verwaltung
++ Flexibel bei wechselnden Benutzerzahlen
++ Unterstützt zwei Load-Balancing-Methoden:
+
+   ► Breadth-first:
+     - Sitzungen werden gleichmäßig auf alle Hosts verteilt
+     - Vorteil: gleichmäßige Performance
+     - Nachteil: mehr aktive Hosts → höhere Kosten
+
+   ► Depth-first:
+     - Sitzungen werden nacheinander auf Hosts gelegt
+     - Vorteil: weniger aktive VMs → Kosteneinsparung
+     - Nachteil: einzelne Hosts können stärker ausgelastet werden
+
+Nachteile:
+- Weniger Individualisierung pro Benutzer
+- Geteilte Ressourcen können Performance beeinflussen
+- FSLogix erforderlich für konsistente Benutzerprofile
+
+=============================================================
+
+TYP: PERSONAL
+-------------------------------------------------------------
+Einsatzszenarien:
+- Benutzer mit individuellen oder leistungsintensiven Anforderungen
+- Entwickler, Administratoren, Power-User oder Spezialanwendungen
+
+Vorteile:
++ Dedizierte Leistung pro Benutzer, keine Ressourcenteilung
++ Volle Personalisierung und dauerhafte Zuordnung
++ Stabile Performance für anspruchsvolle Anwendungen
+
+Zuweisung:
+► Automatisch:
+   - Benutzer wird beim ersten Anmelden automatisch einem Host zugewiesen
+   - Vorteil: geringerer Verwaltungsaufwand
+   - Nachteil: weniger Kontrolle über die Zuordnung
+
+► Manuell:
+   - Administrator weist Benutzer gezielt einem Host zu
+   - Vorteil: volle Kontrolle über Ressourcenzuteilung
+   - Nachteil: höherer Administrationsaufwand
+
+Nachteile:
+- Höhere Kosten durch dedizierte Ressourcen
+- Geringere Skalierbarkeit bei wachsender Benutzerzahl
+- Komplexere Verwaltung und Wartung
+
+=============================================================
+Merksätze:
+Pooled = gemeinsam, effizient, flexibel  
+→ Breadth-first = stabil, teurer  
+→ Depth-first = kostensparend, höhere Hostlast  
+
+Personal = individuell, leistungsstark, exklusiv  
+→ Zuweisung automatisch = bequem  
+→ Zuweisung manuell = kontrolliert
+=============================================================
