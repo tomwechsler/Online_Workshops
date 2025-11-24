@@ -6,17 +6,16 @@ mit Tom Wechsler 👉 [LinkedIn-Profil](https://www.linkedin.com/in/tom-wechsler
 
 ## Informationen:
 - ⏰ **Dauer:** 6 Nachmittage (jeweils 13.00 – 17.00 Uhr), einmal pro Woche  
-- 🗓️ **Startdatum:** 10. März 2026  
-- 🗓️ **Enddatum:** 14. April 2026  
+- 🗓️ **Startdatum:** Dienstag 10. März 2026  
+- 🗓️ **Enddatum:** Dienstag 14. April 2026  
 - 💸 **Preis pro TeilnehmerIn:** Euro 1'600.- (für Anmeldungen aus der Schweiz – CHF 1'600.- exkl. MwSt.)  
 - 📍 **Plattform:** Microsoft Teams (Online-Kurs)  
 - ➡️ **Alle Kurseinheiten werden aufgezeichnet und stehen den TeilnehmerInnen online zur Verfügung.**  
-- 🗓️ **Anmeldefrist:** 3. März 2026  
+- 🗓️ **Anmeldefrist:** Dienstag 3. März 2026  
 
 *Jede Teilnehmerin und jeder Teilnehmer erhält eine Teilnahmebestätigung.*
 
-**Anmeldung:** Schreiben Sie eine E-Mail an [training@videotrainer.ch](mailto:training@videotrainer.ch)  
-mit dem Betreff: *„Cybersecurity für KMU – Praxisorientierter Einstieg mit dem NIST CSF 2.0“*
+**Anmeldung:** Schreiben Sie eine E-Mail an [training@videotrainer.ch](mailto:training@videotrainer.ch) mit dem Betreff: *„Cybersecurity für KMU“*.
 
 ---
 
