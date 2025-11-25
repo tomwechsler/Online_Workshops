@@ -1,3 +1,7 @@
+# Persönliches Coaching
+Massgeschneiderte Unterstützung für Ihre persönliche Vorbereitung auf die nächste IT-Zertifizierung oder für spezifische berufliche Herausforderungen.
+👉 [Persönliches Coaching](./Coaching/Readme.md)
+
 # Online Workshops
 Informationen und Termine zu den verschiedenen Online Workshops!
 
