@@ -38,6 +38,7 @@ Die Teilnehmerinnen und Teilnehmer lernen, wie das Framework in den sechs Kernfu
 ## Ziel des Workshops
 Der Workshop befähigt KMU, Cybersecurity **strukturiert, praxisnah und ressourcenschonend** umzusetzen.  
 Teilnehmer erhalten konkrete Handlungsempfehlungen und Werkzeuge, um ihr Unternehmen mit Hilfe des **NIST Cybersecurity Framework 2.0** widerstandsfähiger gegen Cyberbedrohungen zu machen.  
+Ohne komplizierte Theorien oder überladene Standards – stattdessen praxisorientierte Ansätze, die sofort im eigenen KMU angewendet werden können.
 
 ---
 
