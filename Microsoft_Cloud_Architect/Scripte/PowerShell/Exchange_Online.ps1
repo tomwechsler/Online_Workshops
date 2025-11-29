@@ -87,3 +87,12 @@ Set-OrganizationConfig -FocusedInboxOn $false
 
 #Did it work?
 Get-OrganizationConfig | Format-List Focused*
+
+#Is the tenant dehydrated?
+Get-OrganizationConfig | Format-List IsDehydrated
+
+#Use the cmdlet enable-OrganizationCustomization to rehydrate the tenant
+Enable-OrganizationCustomization
+
+#Did it work?
+Get-OrganizationConfig | Format-List IsDehydrated
