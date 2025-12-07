@@ -19,7 +19,7 @@ Tom Wechsler 👉 [LinkedIn-Profil](https://www.linkedin.com/in/tom-wechsler)
 - Ihre Zertifizierung oder Ihr Thema ist nicht aufgeführt? Kontaktieren Sie mich gerne, um Ihre individuellen Bedürfnisse zu besprechen.
 
 ## Coaching Angebot
-- ⏰ **Dauer:** Flexibel, je nach Bedarf (z.B. 1-2 Stunden pro Sitzung, max 3 Stunden pro Sitzung)
+- ⏰ **Dauer:** Flexibel, je nach Bedarf (z.B. 1-2 Stunden pro Sitzung, max 3 Stunden pro Sitzung), die Sessions finden Nachmittags statt.
 - 💸 **Preis pro Stunde:** Euro 200.- (für Anmeldungen aus der Schweiz – CHF 200.- exkl. MwSt.)
 - 🗓️ **Preisstaffelung:** 2 Stunden Euro 350.- / 3 Stunden Euro 450.- (für Anmeldungen aus der Schweiz sind die Preise exkl. MwSt.)
 - ➡️ **Individuell abgestimmte Coaching-Sitzungen basierend auf Ihren Bedürfnissen und Zielen.**
