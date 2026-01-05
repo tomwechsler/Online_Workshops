@@ -15,13 +15,13 @@ Informationen und Termine zu den verschiedenen Online Workshops!
 | Wireshark Grundlagen                                                         | -                         | [Wireshark Grundlagen](./Wireshark_Grundlagen/Readme.md) |
 | PowerShell, Visual Studio Code und GitHub Grundlagen                         | -                         | [PowerShell & VS Code](./PowerShell_Visual_Studio_Code_GitHub/Readme.md) |
 | Azure Infrastruktur Administrieren                                           | -                         | [Azure Infrastruktur](./Azure_Infrastruktur/Readme.md) |
-| Microsoft Intune Masterclass: Windows 11 mit Intune verwalten                | Freitag 16. Januar 2026   | [Intune Masterclass](./Masterclass_Verwaltung_von_Windows_11_Microsoft_Intune/Readme.md) |
+| Microsoft Intune Masterclass: Windows 11 mit Intune verwalten                | Freitag 17. April 2026   | [Intune Masterclass](./Masterclass_Verwaltung_von_Windows_11_Microsoft_Intune/Readme.md) |
 | Aufbau einer Microsoft Intune Infrastruktur                                  | -                         | [Intune Infrastruktur](./Aufbau_einer_Microsoft_Intune_Infrastruktur/Readme.md) |
 | Einführung in Ethical Hacking und Penetration Testing                        | -                         | [Ethical Hacking](./Ethical_Hacking_und_Penetration_Testing/Readme.md) |
 | Cybersecurity Analyst - Ein praktischer Ansatz!                              | -                         | [Cybersecurity Analyst](./Cybersecurity_Analyst_Practitioner/Readme.md) |
 | Cybersecurity für KMU – Praxisorientierter Einstieg mit dem NIST CSF 2.0     | Dienstag 10. März 2026   | [Cybersecurity für KMU](./Cybersecurity_für_KMU_Praxisorientierter_Einstieg/Readme.md) |
 | Microsoft Cloud Architect - Design und Architektur in der Praxis             | Freitag 29. Mai 2026  | [Microsoft Cloud Architect](./Microsoft_Cloud_Architect/README.md) |
-| Masterclass: Microsoft Cloud Cybersecurity Architect                         | Freitag 27. Februar 2026  | [Microsoft Cloud Cybersecurity Architect](./Masterclass_Microsoft_Cloud_Cybersecurity_Architect/README.md) |
+| Masterclass: Microsoft Cloud Cybersecurity Architect                         | Freitag 30. Oktober 2026  | [Microsoft Cloud Cybersecurity Architect](./Masterclass_Microsoft_Cloud_Cybersecurity_Architect/README.md) |
 | CompTIA PenTest+                                                             | -                         | [CompTIA PenTest+](./CompTIA_PenTest+/Readme.md)   |
 | Microsoft 365 Certified: Endpoint Administrator Associate (MD-102)           | -                         | [MD-102](./Microsoft_365_Certified_Endpoint_Administrator_Associate/Readme.md) |
 | Microsoft Certified: Identity and Access Administrator Associate (SC-300)    | -                         | [SC-300](./Microsoft_Certified_Identity_and_Access_Administrator_Associate/Readme.md) |
