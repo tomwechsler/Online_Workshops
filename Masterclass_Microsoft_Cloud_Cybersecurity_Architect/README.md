@@ -6,7 +6,7 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
 ## Informationen:
 ⏰ Dauer: 6 Nachmittage (jeweils 13.00 - 17.00 Uhr) einmal pro Woche  
-🗓️ Startdatum: Freitag 27. Februar 2026 (ausgebucht) => **nächstes Startdatum: Freitag 30. Oktober 2026**  
+🗓️ Startdatum: Freitag 27. Februar 2026 => **nächstes Startdatum: Freitag 30. Oktober 2026**  
 🗓️ Enddatum: Freitag 10. April 2026 (Freitag 3. April 2026 wird ausgelassen - Feiertag)  
 💸 Preis pro TeilnehmerIn: Euro 1'600.- (für Anmeldungen aus der Schweiz - CHF 1'600.- exkl. MwSt.)  
 📍 Plattform: Microsoft Teams (Online Kurs)  
