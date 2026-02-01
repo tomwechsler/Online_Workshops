@@ -41,19 +41,19 @@ Der Workshop befähigt KMU, Cybersecurity **strukturiert, praxisnah und ressourc
 ---
 
 ## Aussagen / falsche Interpretationen über das NIST Cybersecurity Framework 2.0
-🤔Der Workshop ist nichts für uns, wir sind keiner Regulierungsbehörde unterstellt.
+🤔Der Workshop ist nichts für uns, wir sind keiner Regulierungsbehörde unterstellt.  
 ➡️NIST ist keine Regulierungsbehörde, das CSF kann helfen Konformitätsfragen zu beantworten.
 
-🤔Der Workshop ist nichts für uns, wir sind nicht NIST „unterstellt“ und wir haben keine Standorte in den USA.
+🤔Der Workshop ist nichts für uns, wir sind nicht NIST „unterstellt“ und wir haben keine Standorte in den USA.  
 ➡️Niemand ist NIST unterstellt. NIST erstellt Empfehlungen, niemand unterliegt Empfehlungen.
 
-🙄Der Workshop ist nichts für uns, wir streben keine NIST Zertifizierung an.
+🙄Der Workshop ist nichts für uns, wir streben keine NIST Zertifizierung an.  
 ➡️Es gibt keine Zertifizierungen von NIST. Das CSF 2.0 ist eine Sammlung von praktischen Empfehlungen. Diese helfen die IT-Gesamtsicherheit zu verbessern.
 
-🤑Der Workshop ist nichts für uns, wir können uns das NIST CSF 2.0 nicht leisten.
+🤑Der Workshop ist nichts für uns, wir können uns das NIST CSF 2.0 nicht leisten.  
 ➡️Das NIST CSF 2.0 ist kostenlos. Bei der Umsetzung von Empfehlungen können durchaus Kosten entstehen 😉.
 
-🤔Der Workshop ist nichts für uns, wir haben nicht die notwendigen Ressourcen das Framework umzusetzen.
+🤔Der Workshop ist nichts für uns, wir haben nicht die notwendigen Ressourcen das Framework umzusetzen.  
 ➡️Es ist nicht das Ziel das CSF blind und unstrukturiert umzusetzen. Zielgerichtet, strukturiert und den geschäftlichen Zielen entsprechend anwenden. Ist der primäre Aspekt.
 
 ---
