@@ -3,8 +3,6 @@
 ![Format](https://img.shields.io/badge/Format-Online%20via%20Microsoft%20Teams-6264A7?style=for-the-badge)
 ![Zeit](https://img.shields.io/badge/Zeit-Donnerstag%2013%3A00%E2%80%9317%3A00-0A66C2?style=for-the-badge)
 ![Rhythmus](https://img.shields.io/badge/Rhythmus-Letzter%20Donnerstag%20im%20Monat-1F8B4C?style=for-the-badge)
-![Preis EUR](https://img.shields.io/badge/Preis-EUR%20400.--F39C12?style=for-the-badge)
-![Preis CHF](https://img.shields.io/badge/Preis-CHF%20400.--16A085?style=for-the-badge)
 ![Anmeldung](https://img.shields.io/badge/Anmeldung-per%20E--Mail-D14836?style=for-the-badge)
 
 > **Praxisnahe Tech-Sessions am letzten Donnerstag jedes Monats**  
