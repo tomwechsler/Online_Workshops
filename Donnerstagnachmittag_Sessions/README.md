@@ -125,5 +125,5 @@ Für Anfragen und Anmeldungen:
 ---
 
 <p align="center">
-  <sub>Professionelle Tech-Weiterbildung • Kompakt • Praxisnah • Modern</sub>
+  <sub>Professionelle Tech-Weiterbildung • Kompakt • Praxisnah • Modern • Interaktiv</sub>
 </p>
