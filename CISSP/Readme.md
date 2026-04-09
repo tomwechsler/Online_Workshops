@@ -18,7 +18,7 @@ Bereiten Sie sich gezielt auf eine der weltweit anerkanntesten Zertifizierungen 
 | ⏰ Dauer         | 6 Nachmittage (jeweils 13:00 – 17:00 Uhr), einmal pro Woche   |
 | 🗓️ Startdatum  | wird bekannt gegeben                                          |
 | 🗓️ Enddatum    | wird bekannt gegeben                                          |
-| 💸 Preis        | EUR 1'600.– (für Anmeldungen aus der Schweiz – CHF 1'600.- exkl. MwSt.)                       |
+| 💸 Preis        | EUR 1'600.– (für Anmeldungen aus der Schweiz – CHF 1'600.- exkl. MwSt.) |
 | 📍 Format       | Online (Microsoft Teams)                                      |
 | 🎥 Aufzeichnung | Alle Sessions werden aufgezeichnet und zur Verfügung gestellt |
 | 📝 Anmeldefrist | wird bekannt gegeben                                          |
@@ -138,6 +138,7 @@ Sie lernen:
 ## 👨‍🏫 Ihr Trainer
 
 **Tom Wechsler**  
+Erfahrener IT- und Cloud-Security-Experte mit Fokus auf praxisnahe Wissensvermittlung.
 
 🔗 [LinkedIn-Profil](https://www.linkedin.com/in/tom-wechsler)
 
