@@ -2,7 +2,7 @@
 
 ## 🚀 Werden Sie CISSP-zertifiziert – mit strukturierter, praxisnaher Vorbereitung
 
-Bereiten Sie sich gezielt auf eine der weltweit anerkanntesten Zertifizierungen im Bereich Informationssicherheit vor.
+Bereiten Sie sich gezielt auf eine der weltweit anerkanntesten Zertifizierungen im Bereich Informationssicherheit vor – mit strukturierter Begleitung durch einen erfahrenen Trainer.
 
 ✔ Strukturierte Abdeckung aller 8 CISSP-Domänen  
 ✔ Praxisnahe Beispiele & Übungen  
