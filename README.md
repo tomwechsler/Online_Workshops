@@ -36,6 +36,10 @@ Informationen und Termine zu den verschiedenen Online Workshops!
 | Microsoft Certified: Azure Network Engineer Associate (AZ-700)               | coming soon               | [AZ-700](./AZ-700/Readme.md)                       |
 | Microsoft Certified: Windows Server Hybrid Administrator Associate           | coming soon               | [AZ-800/801](./AZ-800_801/Readme.md)               |
 | Microsoft Certified: Cybersecurity Architect Expert (SC-100)                 | coming soon               | [SC-100](./SC-100/Readme.md)                       |
+| ISC2 Systems Security Certified Practitioner (SSCP)                          | coming soon               | [SSCP](./SSCP/Readme.md)                         |
+| ISC2 Certified Information Systems Security Professional (CISSP)             | coming soon               | [CISSP](./CISSP/Readme.md)                       |
+| ISC2 Certified Cloud Security Professional (CCSP)                            | coming soon               | [CCSP](./CCSP/Readme.md)                       |
+| ISACA Certified Information Security Manager (CISM)                          | coming soon               | [CISM](./CISM/Readme.md)                         |
 
 **Informationen zur Datenschutzerklärung** finden Sie [hier](http://www.winsolution.ch).
 
