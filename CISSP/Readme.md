@@ -137,8 +137,7 @@ Sie lernen:
 
 ## 👨‍🏫 Ihr Trainer
 
-**Tom Wechsler**
-Erfahrener IT-Security-Experte mit Fokus auf praxisnahe Wissensvermittlung.
+**Tom Wechsler**  
 
 🔗 [LinkedIn-Profil](https://www.linkedin.com/in/tom-wechsler)
 
