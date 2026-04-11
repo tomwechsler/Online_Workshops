@@ -20,7 +20,7 @@ param azureFirewallSubnetPrefix string = '10.0.1.0/26'
 param routeServerSubnetPrefix string = '10.0.2.0/27'
 
 @description('Hub subnet: AzureBastionSubnet prefix')
-param azureBastionSubnetPrefix string = '10.0.3.0/27'
+param azureBastionSubnetPrefix string = '10.0.3.0/26'
 
 @description('Additional hub subnets as array of objects { name: string, prefix: string }')
 param hubAdditionalSubnets array = []
