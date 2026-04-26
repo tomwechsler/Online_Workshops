@@ -65,7 +65,7 @@ Unsere Sessions sind bewusst so konzipiert, dass Theorie und Praxis sinnvoll kom
 | Datum | Thema | Status |
 |------|------|--------|
 | 28. Mai 2026 | Microsoft Azure Grundlagen | ✅ Bestätigt |
-| 25. Juni 2026 | Wird noch bekannt gegeben | 🕒 Offen |
+| 25. Juni 2026 | Wird noch bekannt gegeben | ✅ Aufbau des eigenen KI-Cybersicherheitslabors |
 | 30. Juli 2026 | Wird noch bekannt gegeben | 🕒 Offen |
 | 27. August 2026 | Wird noch bekannt gegeben | 🕒 Offen |
 | 24. September 2026 | Wird noch bekannt gegeben | 🕒 Offen |
