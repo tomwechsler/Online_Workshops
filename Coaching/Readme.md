@@ -5,7 +5,7 @@ Massgeschneiderte Unterstützung für Ihre persönliche Vorbereitung auf die nä
 Tom Wechsler 👉 [LinkedIn-Profil](https://www.linkedin.com/in/tom-wechsler)
 
 ## Bei welchen Themen kann ich Sie unterstützen?
-- Microsoft Azure Zertifizierungen (z.B. AZ-900, AZ-104, AZ-140, AZ-500, AZ-700, AZ-800, AZ-801)
+- Microsoft Azure Zertifizierungen (z.B. AZ-900, AZ-104, AZ-140, AZ-500, AZ-700, AZ-802)
 - Microsoft Security Zertifizierungen (z.B. SC-900, SC-200, SC-300, SC-401, SC-100)
 - Microsoft 365 Zertifizierungen (z.B. MS-900, MD-102, MS-102, PL-900)
 - Github Zertifizierungen (z.B. GH-100, GH-200, GH-500)
@@ -14,8 +14,9 @@ Tom Wechsler 👉 [LinkedIn-Profil](https://www.linkedin.com/in/tom-wechsler)
 - Red Hat Zertifizierungen (z.B. RHCSA, RHCE)
 - Linux Foundation Zertifizierungen (z.B. LFCS, LFCE)
 - Cisco Zertifizierungen (z.B. CCNA CyberOps, CCNA Security, CCNA Routing & Switching)
-- Linux Professional Institute Zertifizierungen (z.B. LPIC-1, LPIC-2)
+- Linux Professional Institute Zertifizierungen (z.B. LPIC-1, LPIC-2, LPIC-3)
 - EC-Council Zertifizierungen (z.B. Certified Ethical Hacker (CEH))
+- Einführung in das Thema KI (LLMs, RAG, Open WebUI, Ollama, GPT4All, etc.)
 - Ihre Zertifizierung oder Ihr Thema ist nicht aufgeführt? Kontaktieren Sie mich gerne, um Ihre individuellen Bedürfnisse zu besprechen.
 
 ## Coaching Angebot
