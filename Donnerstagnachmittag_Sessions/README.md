@@ -65,7 +65,7 @@ Unsere Sessions sind bewusst so konzipiert, dass Theorie und Praxis sinnvoll kom
 | Datum | Thema | Status |
 |------|------|--------|
 | 28. Mai 2026 | Microsoft Azure Grundlagen | ✅ Bestätigt |
-| 25. Juni 2026 | Aufbau des eigenen KI-(Cybersicherheits)labors | ✅ Bestätigt |
+| 25. Juni 2026 | Aufbau des eigenen lokalen KI-(Cybersicherheits)labors | ✅ Bestätigt |
 | 30. Juli 2026 | Wird noch bekannt gegeben | 🕒 Offen |
 | 27. August 2026 | Wird noch bekannt gegeben | 🕒 Offen |
 | 24. September 2026 | Wird noch bekannt gegeben | 🕒 Offen |
@@ -85,7 +85,9 @@ In dieser Session erhalten die Teilnehmenden eine fundierte Einführung in die G
 - Bereitstellung und Betrieb von **Cloud-Infrastruktur**
 
 ### Ziel
-Die Teilnehmenden lernen, wie Azure-Dienste effizient eingesetzt und verwaltet werden können, um moderne IT-Infrastrukturen in der Cloud aufzubauen und zu betreiben.
+Workshop vom 28.05.2026: Die Teilnehmenden lernen, wie Azure-Dienste effizient eingesetzt und verwaltet werden können, um moderne IT-Infrastrukturen in der Cloud aufzubauen und zu betreiben.
+
+Workshop vom 25.06.2026: Die Teilnehmenden erhalten eine praxisnahe Einführung in den Aufbau eines eigenen lokalen KI-(Cybersicherheits)labors, um KI-Technologien und Cybersicherheitstools effektiv zu nutzen und zu testen.
 
 ---
 
