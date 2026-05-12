@@ -26,7 +26,7 @@ Dieser Workshop zeigt praxisnah, wie Sie mit dem **NIST Cybersecurity Framework 
 
 Die Teilnehmerinnen und Teilnehmer lernen, wie das Framework in den sechs Kernfunktionen **Govern, Identify, Protect, Detect, Respond, Recover** aufgebaut ist und wie es Schritt für Schritt auf die Realität von KMU angewendet werden kann.  
 
-**Zudem werden wir für die Erstellung des Cybersecurity-Programms eine lokale, KI-gestützte Laborumgebung aufbauen. Diese Plattform kann wiederholt genutzt werden, beispielsweise für neue Kundenprojekte, bestehende Bewertungen oder Schulungen.**  
+**🔥Zudem werden wir für die Erstellung des Cybersecurity-Programms eine lokale, KI-gestützte Laborumgebung aufbauen. Diese Plattform kann wiederholt genutzt werden, beispielsweise für neue Kundenprojekte, bestehende Bewertungen oder Schulungen.🔥**  
 
 ---
 
