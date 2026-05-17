@@ -6,12 +6,12 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
 ## Informationen:
 ⏰ Dauer: 5 Nachmittage (jeweils 13.00 - 17.00 Uhr) einmal pro Woche  
-🗓️ Startdatum: Freitag 06. Juni 2025  
-🗓️ Enddatum: Freitag 04. Juli 2025  
+🗓️ Startdatum:    
+🗓️ Enddatum:  
 💸 Preis pro TeilnehmerIn: Euro 1'400.- (für Anmeldungen aus der Schweiz - CHF 1'400.- exkl. MwSt.)  
 📍 Plattform: Microsoft Teams (Online Kurs)  
 ➡️ Alle Kursnachmittage werden aufgezeichnet und stehen den TeilnehmerInnen Online zur Verfügung  
-🗓️ **Anmeldefrist: 30. Mai 2025**  
+🗓️ **Anmeldefrist:**    
 
 > Note: Jede Teilnehmerin und jeder Teilnehmer erhalten eine Bestätigung der Kurs-Teilnahme.
 
@@ -37,6 +37,34 @@ Damit Sie dem Workshop bestens folgen können, sollten Sie Zugang haben zum Azur
 Dieser Workshop richtet sich an IT-Profis, Entwickler:Innen und Entscheidungsträger:Innen, die ihr Wissen über Microsoft Azure erweitern möchten.  
 
 Nach Abschluss des Kurses verfügen Sie über die notwendigen Kenntnisse (**plus dem eigenen Selbststudium**), um die Prüfung AZ-104 abzulegen.
+
+## Kursprogramm - 5 Nachmittage
+Eine kompakte Übersicht der Inhalte für die fünf Nachmittage (ohne Zeitangaben). Jeder Nachmittag enthält Lernziele, Kerninhalte und eine praktische Übung.
+
+- **Nachmittag 1 - Identitäten & Governance**
+  - Lernziele: Azure AD Grundlagen, Benutzer und Gruppen verwalten, RBAC, Azure Policy, Conditional Access.
+  - Inhalte: Azure AD, Rollen und Berechtigungen, Verwaltungsaufgaben, Compliance-Optionen.
+  - Praxis: Benutzer/Gruppen anlegen, eine Rolle zuweisen, einfache Policy erstellen.
+
+- **Nachmittag 2 - Compute-Ressourcen bereitstellen und verwalten**
+  - Lernziele: VMs, VM-Skalierung, Images, Managed Disks, Azure App Services Überblick.
+  - Inhalte: Erstellen und verwalten von VMs, VM-SS, Erweiterungen, hochverfügbare Optionen.
+  - Praxis: VM bereitstellen, Managed Disk hinzufügen, Snapshot erstellen.
+
+- **Nachmittag 3 - Speicher implementieren und verwalten**
+  - Lernziele: Storage Accounts, Blob/File/Queue/Table, Zugriffssteuerung, Datensicherheit und Redundanz.
+  - Inhalte: Storage-Typen, Zugriffsschlüssel/SAS, Lebenszyklus-Richtlinien, Backup-Grundlagen.
+  - Praxis: Storage Account anlegen, Blob-Container erstellen, Zugriff per SAS testen.
+
+- **Nachmittag 4 - Virtuelle Netzwerke und Netzwerkkonnektivität**
+  - Lernziele: VNets, Subnetze, NSGs, Peering, Load Balancer, VPN-Grundlagen.
+  - Inhalte: Netzwerkdesign, Sicherheitsregeln, Verbindungsmöglichkeiten (VPN, ExpressRoute Überblick).
+  - Praxis: VNet + Subnet anlegen, NSG-Regeln setzen, einfache Peering-Konfiguration.
+
+- **Nachmittag 5 - Überwachen und Verwalten von Azure-Ressourcen**
+  - Lernziele: Azure Monitor, Log Analytics, Alerts, Azure Policy, Kosten- und Backup-Management.
+  - Inhalte: Metriken & Logs, Diagnoseeinstellungen, Alerts/Action Groups, Policy-Compliance, Cost Management Basics.
+  - Praxis: Log Analytics Workspace anlegen, einfache Alert-Regel definieren, Policy-Compliance prüfen.
 
 ## Ablegen der Prüfung:
 Die Prüfung wird von Microsoft durchgeführt. Sie können die Prüfung in einem Prüfungszentrum oder online ablegen. Weitere Informationen finden Sie unter:  
