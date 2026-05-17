@@ -39,7 +39,7 @@ Dieser Workshop richtet sich an IT-Profis, Entwickler:Innen und Entscheidungstr�
 Nach Abschluss des Kurses verfügen Sie über die notwendigen Kenntnisse (**plus dem eigenen Selbststudium**), um die Prüfung AZ-104 abzulegen.
 
 ## Kursprogramm - 5 Nachmittage
-Eine kompakte Übersicht der Inhalte für die fünf Nachmittage (ohne Zeitangaben). Jeder Nachmittag enthält Lernziele, Kerninhalte und eine praktische Übung.
+Eine kompakte Übersicht der Inhalte für die fünf Nachmittage. Jeder Nachmittag enthält Lernziele, Kerninhalte und eine praktische Übung.
 
 - **Nachmittag 1 - Identitäten & Governance**
   - Lernziele: Azure AD Grundlagen, Benutzer und Gruppen verwalten, RBAC, Azure Policy, Conditional Access.
