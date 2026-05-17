@@ -46,20 +46,20 @@ Eine kompakte Übersicht der Inhalte für die fünf Nachmittage. Jeder Nachmitta
   - Inhalte: Azure AD, Rollen und Berechtigungen, Verwaltungsaufgaben, Compliance-Optionen.
   - Praxis: Benutzer/Gruppen anlegen, eine Rolle zuweisen, einfache Policy erstellen.
 
-- **Nachmittag 2 - Compute-Ressourcen bereitstellen und verwalten**
-  - Lernziele: VMs, VM-Skalierung, Images, Managed Disks, Azure App Services Überblick.
-  - Inhalte: Erstellen und verwalten von VMs, VM-SS, Erweiterungen, hochverfügbare Optionen.
-  - Praxis: VM bereitstellen, Managed Disk hinzufügen, Snapshot erstellen.
+- **Nachmittag 2 - Virtuelle Netzwerke und Netzwerkkonnektivität**
+  - Lernziele: VNets, Subnetze, NSGs, Peering, Load Balancer, VPN-Grundlagen.
+  - Inhalte: Netzwerkdesign, Sicherheitsregeln, Verbindungsmöglichkeiten (VPN, ExpressRoute Überblick).
+  - Praxis: VNet + Subnet anlegen, NSG-Regeln setzen, einfache Peering-Konfiguration.
 
 - **Nachmittag 3 - Speicher implementieren und verwalten**
   - Lernziele: Storage Accounts, Blob/File/Queue/Table, Zugriffssteuerung, Datensicherheit und Redundanz.
   - Inhalte: Storage-Typen, Zugriffsschlüssel/SAS, Lebenszyklus-Richtlinien, Backup-Grundlagen.
   - Praxis: Storage Account anlegen, Blob-Container erstellen, Zugriff per SAS testen.
 
-- **Nachmittag 4 - Virtuelle Netzwerke und Netzwerkkonnektivität**
-  - Lernziele: VNets, Subnetze, NSGs, Peering, Load Balancer, VPN-Grundlagen.
-  - Inhalte: Netzwerkdesign, Sicherheitsregeln, Verbindungsmöglichkeiten (VPN, ExpressRoute Überblick).
-  - Praxis: VNet + Subnet anlegen, NSG-Regeln setzen, einfache Peering-Konfiguration.
+- **Nachmittag 4 - Compute-Ressourcen bereitstellen und verwalten**
+  - Lernziele: VMs, VM-Skalierung, Images, Managed Disks, Azure App Services Überblick.
+  - Inhalte: Erstellen und verwalten von VMs, VM-SS, Erweiterungen, hochverfügbare Optionen.
+  - Praxis: VM bereitstellen, Managed Disk hinzufügen, Snapshot erstellen.
 
 - **Nachmittag 5 - Überwachen und Verwalten von Azure-Ressourcen**
   - Lernziele: Azure Monitor, Log Analytics, Alerts, Azure Policy, Kosten- und Backup-Management.
