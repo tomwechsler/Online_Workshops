@@ -23,11 +23,61 @@ Die Zertifizierung "CompTIA Security+" richtet sich an IT-Fachleute, die grundle
 ## Ziel der Prüfungsvorbereitung
 Diese Prüfungsvorbereitung zielt darauf ab, Sie strukturiert und praxisnah auf die CompTIA Security+ Prüfung vorzubereiten. Sie erhalten die Prüfungsinhalte erklärt, üben typische Aufgabenstellungen und erhalten Tipps zur Prüfungsvorbereitung und zum Selbststudium, damit Sie die Prüfung mit Zuversicht antreten können.
 
-## Hauptthemen:
-- General security concepts
-- Threats, attacks and vulnerabilities
-- Security architecture and design
-- Security operations
+## Workshop‑Programm (Security+ V7 — Exam Objectives Summary)
+Die folgende, kompakte Zusammenfassung orientiert sich an den offiziellen CompTIA Security+ (V7 / SY0-701) Exam Objectives und zeigt, welche Themen wir im Workshop vertiefen.
+
+- General security concepts (12%): Grundlagen der Sicherheitskontrollen (technisch, organisatorisch, physisch), Vertraulichkeit/Integrität/Verfügbarkeit (CIA), AAA (Authentication/Authorization/Accounting), Zero Trust, Change Management sowie grundlegende Kryptographie/PKI.
+
+- Threats, vulnerabilities, and mitigations (22%): Bedrohungsakteure und Motivationen, Angriffsvektoren und Angriffsoberflächen, Schwachstellenarten (Applikation, OS, Cloud, Supply Chain), Malware- und Passwortangriffe sowie Gegenmaßnahmen wie Segmentierung, Härtung und Patch‑Management.
+
+- Security architecture (18%): Architekturmodelle (on‑prem, Cloud, Virtualisierung, IoT/ICS), sichere Infrastrukturprinzipien, Datenklassifikation und -schutz, Hochverfügbarkeit, Backups und Wiederherstellung.
+
+- Security operations (28%): Härtung von Systemen, Asset- und Schwachstellenmanagement, Monitoring und Log‑Analyse, Firewall/IDS/IPS/DLP/NAC/EDR, Identity & Access Management (Provisioning, SSO, MFA), Automatisierung/Orchestrierung sowie Incident Response, Threat Hunting und Forensik.
+
+- Security program management and oversight (20%): Governance, Richtlinien und Standards, Risiko- und Drittanbieter‑Management, Compliance, Audits/Assessments sowie Security Awareness und organisatorische Rollen.
+
+## Detailliertes 5‑Nachmittage‑Programm
+Alle Sitzungen finden 13:00–17:00 Uhr statt. Jede Einheit enthält Theorie, praktische Übungen, eine kurze Fallstudie und Hausaufgaben.
+
+Nachmittag 1 — General Security Concepts & Kryptographie
+- Einführung, Kursziele, Prüfungsübersicht (Gewichtung, Format, Lernressourcen)
+- Grundlagen: Sicherheitskontrollen (technisch, organisatorisch, physisch), CIA, AAA, Zero Trust
+- Kryptographie‑Basics: Symmetrische/Asymmetrische Verschlüsselung, Hashing, digitale Signaturen, PKI
+- Hands‑On: SSL/TLS prüfen (Browser/openssl), einfache GnuPG‑Signatur, Hash‑Prüfung von Dateien
+- Q&A, Zusammenfassung, Hausaufgabe: Kurzes Quiz + Artikel zu PKI
+
+Nachmittag 2 — Threats, Vulnerabilities & Mitigations
+- Recap + Lernziele des Nachmittags
+- Bedrohungsakteure, Angriffsvektoren, Schwachstellenkategorien (App, OS, Cloud, Supply Chain)
+- Analyse von Malware‑ und Passwortangriffen; Grundlagen der Patch‑ und Konfigurationsverwaltung
+- Hands‑On: Nmap‑Recon (networks), einfache Schwachstellensuche (OpenVAS/scan‑tools) und Interpretation der Ergebnisse
+- Q&A, Hausaufgabe: Scan‑Report analysieren und Hardening‑Empfehlungen formulieren
+
+Nachmittag 3 — Security Architecture & Data Protection
+- Recap + Lernziele
+- Architekturmodelle (on‑prem / Cloud / Virtualisierung / IoT), Data Classification & Data‑Protection‑Methoden
+- Resilienz & Recovery: Hochverfügbarkeit, Backup‑Strategien, DR‑Planung
+- Hands‑On: Backup/Restore Demo (Server‑Snapshot or file backup) und einfache Datensicherungs‑Übung
+- Q&A, Hausaufgabe: Erstellen Sie ein kurzes Backup‑/Restore‑Konzept für ein kleines Netzwerk
+
+Nachmittag 4 — Security Operations, Monitoring & IAM
+- Recap + Lernziele
+- Security Operations: Asset Management, Vulnerability Management, Monitoring & Log‑Analyse
+- Identity & Access Management: Provisioning, SSO, MFA, Privileged Access Management
+- Hands‑On: Logs mit Wireshark/OS‑Logs lesen; MFA‑Konfiguration (Beispiel Microsoft 365/Azure AD oder lokale Lösung)
+- Q&A, Hausaufgabe: Vorbereiten einer kurzen Incident‑Beschreibung inkl. benötigter Logs
+
+Nachmittag 5 — Incident Response, Governance & Prüfungsvorbereitung
+- Recap + Prüfungs‑Tipps
+- Incident Response Lifecycle, Forensik‑Grundlagen, Threat Hunting‑Methoden
+- Security Program Management: Governance, Risikomanagement, Drittanbieter‑Management, Compliance und Audits
+- Fallstudie & Simulation: Incident‑Response‑Übung (Rollen, Kommunikation, Erstmaßnahmen, Root Cause) + Prüfungs‑Beispielfragen durchgehen
+- Abschluss, offene Fragen, Lernplan für Selbststudium und Ressourcen‑Checkliste
+
+Vorbereitung für Teilnehmende
+- Vor dem ersten Nachmittag: VM‑Images und Tools herunterladen (optional): Windows Server Evaluation, Windows Client, Kali Linux, Nmap, Wireshark, OpenVAS (oder alternative Scanner).  
+- Hardware: Mindestens 8–16 GB RAM, ≥50 GB freier Speicher.  
+- Zugang zu Microsoft Teams
 
 ## Voraussetzungen:
 - Grundkenntnisse in IT und Netzwerktechnik
