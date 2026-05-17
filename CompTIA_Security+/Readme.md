@@ -37,7 +37,7 @@ Die folgende, kompakte Zusammenfassung orientiert sich an den offiziellen CompTI
 - Security program management and oversight (20%): Governance, Richtlinien und Standards, Risiko- und Drittanbieter‑Management, Compliance, Audits/Assessments sowie Security Awareness und organisatorische Rollen.
 
 ## Detailliertes 5‑Nachmittage‑Programm
-Alle Sitzungen finden 13:00–17:00 Uhr statt. Jede Einheit enthält Theorie, praktische Übungen, eine kurze Fallstudie und Hausaufgaben.
+Alle Sitzungen finden 13:00–17:00 Uhr statt. Jede Einheit enthält Theorie undpraktische Übungen.
 
 Nachmittag 1 — General Security Concepts & Kryptographie
 - Einführung, Kursziele, Prüfungsübersicht (Gewichtung, Format, Lernressourcen)
