@@ -37,7 +37,7 @@ Die folgende, kompakte Zusammenfassung orientiert sich an den offiziellen CompTI
 - Security program management and oversight (20%): Governance, Richtlinien und Standards, Risiko- und Drittanbieter‑Management, Compliance, Audits/Assessments sowie Security Awareness und organisatorische Rollen.
 
 ## Detailliertes 5‑Nachmittage‑Programm
-Alle Sitzungen finden 13:00–17:00 Uhr statt. Jede Einheit enthält Theorie undpraktische Übungen.
+Alle Sitzungen finden 13:00–17:00 Uhr statt. Jede Einheit enthält Theorie und praktische Übungen.
 
 Nachmittag 1 — General Security Concepts & Kryptographie
 - Einführung, Kursziele, Prüfungsübersicht (Gewichtung, Format, Lernressourcen)
@@ -71,7 +71,7 @@ Nachmittag 5 — Incident Response, Governance & Prüfungsvorbereitung
 - Recap + Prüfungs‑Tipps
 - Incident Response Lifecycle, Forensik‑Grundlagen, Threat Hunting‑Methoden
 - Security Program Management: Governance, Risikomanagement, Drittanbieter‑Management, Compliance und Audits
-- Fallstudie & Simulation: Incident‑Response‑Übung (Rollen, Kommunikation, Erstmaßnahmen, Root Cause) + Prüfungs‑Beispielfragen durchgehen
+- Fallstudie & Simulation: Incident‑Response‑Übung (Rollen, Kommunikation, Erstmassnahmen, Root Cause) + Prüfungs‑Beispielfragen durchgehen
 - Abschluss, offene Fragen, Lernplan für Selbststudium und Ressourcen‑Checkliste
 
 Vorbereitung für Teilnehmende
