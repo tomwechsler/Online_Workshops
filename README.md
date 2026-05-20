@@ -31,6 +31,7 @@ Informationen und Termine zu den verschiedenen Online Workshops!
 | Linux Foundation Certified System Administrator (LFCS)                       | -                         | [LFCS](./Linux_Foundation_Certified_System_Administrator_(LFCS)/Readme.md) |
 | Linux Foundation Certified IT Associate (LFCA)                               | coming soon               | [LFCA](./LFCA/Readme.md)                           |
 | Linux Professional Institute Security Essentials (020-100)                   | coming soon               | [LPI Security Essentials](./LPI_Security/Readme.md)|
+| Linux Professional Institute (LPIC-1)                                        | coming soon               | [LPI LPIC-1](./Linux_Professional_Institute_(LPI)/LPIC-1/Readme.md)|
 | Red Hat Certified System Administrator (RHCSA - EX200)                       | coming soon               | [RHCSA](./RHCSA/Readme.md)                         |
 | Microsoft Certified: Information Protection and Compliance Administrator     | coming soon               | [SC-400](./SC-400/Readme.md)                       |
 | Microsoft Certified: Azure Security Engineer Associate (AZ-500)              | coming soon               | [AZ-500](./AZ-500/Readme.md)                       |
