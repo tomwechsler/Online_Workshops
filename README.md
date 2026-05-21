@@ -65,7 +65,7 @@ Im persönlichen Coaching erhalten Sie massgeschneiderte Unterstützung für Ihr
 | ISC2 Systems Security Certified Practitioner (SSCP) | Termin folgt | [Workshop öffnen](./ISC2/SSCP/Readme.md) |
 | ISC2 Certified Information Systems Security Professional (CISSP) | Termin folgt | [Workshop öffnen](./ISC2/CISSP/Readme.md) |
 | ISC2 Certified Cloud Security Professional (CCSP) | Termin folgt | [Workshop öffnen](./ISC2/CCSP/Readme.md) |
-| ISACA Certified Information Security Manager (CISM) | Termin folgt | [Workshop öffnen](./CISM/Readme.md) |
+| ISACA Certified Information Security Manager (CISM) | Coming soon | [Workshop öffnen](./CISM/Readme.md) |
 
 ---
 
