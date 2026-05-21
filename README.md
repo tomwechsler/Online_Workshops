@@ -46,9 +46,9 @@ Im persönlichen Coaching erhalten Sie massgeschneiderte Unterstützung für Ihr
 | Microsoft Certified: Azure Administrator Associate (AZ-104) | Termin folgt | [Workshop öffnen](./Azure_Administrator_Associate_AZ-104/Readme.md) |
 | Microsoft Certified: Azure Virtual Desktop Specialty (AZ-140) | Termin folgt | [Workshop öffnen](./Azure_Virtual_Desktop_Specialty_AZ-140/Readme.md) |
 | Microsoft Certified: Information Protection and Compliance Administrator (SC-400) | Coming soon | [Workshop öffnen](./SC-400/Readme.md) |
-| Microsoft Certified: Azure Security Engineer Associate (AZ-500) | Coming soon | [Workshop öffnen](./AZ-500/Readme.md) |
+| Microsoft Certified: Cloud and AI Security Engineer Associate (SC-500) | Coming soon | [Workshop öffnen](./SC-500/Readme.md) |
 | Microsoft Certified: Azure Network Engineer Associate (AZ-700) | Coming soon | [Workshop öffnen](./AZ-700/Readme.md) |
-| Microsoft Certified: Windows Server Hybrid Administrator Associate (AZ-800/801) | Coming soon | [Workshop öffnen](./AZ-800_801/Readme.md) |
+| Microsoft Certified: Windows Server Hybrid Administrator Associate (AZ-802) | Coming soon | [Workshop öffnen](./AZ-802/Readme.md) |
 | Microsoft Certified: Cybersecurity Architect Expert (SC-100) | Coming soon | [Workshop öffnen](./SC-100/Readme.md) |
 
 ---
