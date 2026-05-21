@@ -35,7 +35,7 @@ Im persönlichen Coaching erhalten Sie massgeschneiderte Unterstützung für Ihr
 | Workshop | Status | Details |
 |---|---:|---|
 | Azure Grundlagen | Termin folgt | [Workshop öffnen](./Azure_Grundlagen/Readme.md) |
-| Azure Infrastruktur administrieren | Termin folgt | [Workshop öffnen](./Azure_Infrastruktur/Readme.md) |
+| Azure Infrastruktur administrieren | Termin folgt | [Workshop öffnen](./Azure_Infrastruktur_Administrieren/Readme.md) |
 | Microsoft 365 Grundlagen | Termin folgt | [Workshop öffnen](./Microsoft_365_Grundlagen/Readme.md) |
 | Intune Grundlagen | Termin folgt | [Workshop öffnen](./Intune_Grundlagen/Readme.md) |
 | Aufbau einer Microsoft Intune Infrastruktur | Termin folgt | [Workshop öffnen](./Aufbau_einer_Microsoft_Intune_Infrastruktur/Readme.md) |
