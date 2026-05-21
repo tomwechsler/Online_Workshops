@@ -5,12 +5,12 @@ Online Workshop zum Thema Microsoft 365 Grundlagen!
 mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
 ## Informationen:
-🗓️ Datum: 13. Oktober 2023  
-⌚ Zeit: 14.00 Uhr  
-⌚ Dauer: 3 Stunden  
-💸 Preis pro TeilnehmerIn: Euro 120.- (für Anmeldungen aus der Schweiz - CHF 120.- exkl. MwSt.)  
+🗓️ Datum:  
+⌚ Zeit: 13.00 - 17.00 Uhr  
+⌚ Dauer: 4 Stunden  
+💸 Preis pro TeilnehmerIn: Euro 400.- (für Anmeldungen aus der Schweiz - CHF 400.- exkl. MwSt.)  
 📍 Plattform: Microsoft Teams (Online Workshop)  
-🗓️ **Anmeldefrist: 06. Oktober 2023**  
+🗓️ **Anmeldefrist:**  
 
 > Note: Jede Teilnehmerin und jeder Teilnehmer erhalten eine Bestätigung der Workshop-Teilnahme!
 
@@ -19,7 +19,7 @@ Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff 
 ## Beschreibung:
 In diesem interaktiven Workshop werden wir uns intensiv mit den Grundlagen von Microsoft 365 beschäftigen. Teilnehmer:Innen haben die Möglichkeit, sich mit den vielseitigen Funktionen und Anwendungen von Microsoft 365 vertraut zu machen. Der Workshop ist speziell auf Einsteiger:Innen zugeschnitten. Sie erlernen, wie man effektiv E-Mails verwaltet, Dateien teilt, Meetings plant und die vielseitigen Produktivitätstools nutzt, um die tägliche Arbeit zu erleichtern.
 
-Der Workshop findet über eine Dauer von 3 Stunden statt und wird über die Plattform Microsoft Teams durchgeführt.
+Der Workshop findet über eine Dauer von 4 Stunden statt und wird über die Plattform Microsoft Teams durchgeführt.
 
 ## Hauptthemen:
 1. Einführung  
