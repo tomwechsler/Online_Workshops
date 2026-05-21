@@ -5,12 +5,12 @@ Online Workshop zum Thema Azure Infrastruktur Administrieren!
 mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
 ## Informationen:
-🗓️ Datum: 08. September 2023  
-⌚ Zeit: 14.00 Uhr  
-⌚ Dauer: 3 Stunden  
-💸 Preis pro TeilnehmerIn: Euro 120.- (für Anmeldungen aus der Schweiz - CHF 120.- exkl. MwSt.)  
+🗓️ Datum:    
+⌚ Zeit: 13.00 - 17.00 Uhr  
+⌚ Dauer: 4 Stunden  
+💸 Preis pro TeilnehmerIn: Euro 400.- (für Anmeldungen aus der Schweiz - CHF 400.- exkl. MwSt.)  
 📍 Plattform: Microsoft Teams (Online Workshop)  
-🗓️ **Anmeldefrist: 01. September 2023**  
+🗓️ **Anmeldefrist:**  
 
 > Note: Jede Teilnehmerin und jeder Teilnehmer erhalten eine Bestätigung der Workshop-Teilnahme!
 
@@ -19,7 +19,7 @@ Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff 
 ## Beschreibung:
 Dieser intensive Workshop ist darauf ausgelegt, IT-Profis in die Grundlagen der Administration der Microsoft Azure Infrastruktur einzuführen. Der Workshop bietet eine detaillierte Übersicht über die Bereiche wie Netzwerkverwaltung, Identitäts- und Zugriffsmanagement, Speicherdienste, virtuelle Maschinen und mehr.
 
-Der Workshop findet über eine Dauer von 3 Stunden statt und wird über die Plattform Microsoft Teams durchgeführt.
+Der Workshop findet über eine Dauer von 4 Stunden statt und wird über die Plattform Microsoft Teams durchgeführt.
 
 ## Hauptthemen:
 1. Einführung in Microsoft Azure  
