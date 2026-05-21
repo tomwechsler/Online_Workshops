@@ -6,11 +6,11 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
 ## Informationen:
 🗓️ Datum: 18. August 2023  
-⌚ Zeit: 14.00 Uhr  
-⌚ Dauer: 3 Stunden  
-💸 Preis pro TeilnehmerIn: Euro 120.- (für Anmeldungen aus der Schweiz - CHF 120.- exkl. MwSt.)  
+⌚ Zeit: 13.00 - 17.00Uhr  
+⌚ Dauer: 4 Stunden  
+💸 Preis pro TeilnehmerIn: Euro 400.- (für Anmeldungen aus der Schweiz - CHF 400.- exkl. MwSt.)  
 📍 Plattform: Microsoft Teams (Online Workshop)  
-🗓️ **Anmeldefrist: 11. August 2023**  
+🗓️ **Anmeldefrist:**  
 
 > Note: Jede Teilnehmerin und jeder Teilnehmer erhalten eine Bestätigung der Workshop-Teilnahme!
 
@@ -18,7 +18,7 @@ Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff 
 
 ## Beschreibung:
 Der Azure Grundlagen-Workshop ist ein interaktiver Online-Workshop, der Ihnen eine Einführung in die Grundlagen von Microsoft Azure bietet. 
-Der Workshop findet über eine Dauer von 3 Stunden statt und wird über die Plattform Microsoft Teams durchgeführt.
+Der Workshop findet über eine Dauer von 4 Stunden statt und wird über die Plattform Microsoft Teams durchgeführt.
 
 ## Hauptthemen:
 1. Cloudkonzepte:
