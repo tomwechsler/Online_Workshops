@@ -5,19 +5,19 @@ Online Workshop zum Thema Wireshark Grundlagen!
 mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
 ## Informationen:
-🗓️ Datum: 25. August 2023  
-⌚ Zeit: 14.00 Uhr  
-⌚ Dauer: 3 Stunden  
-💸 Preis pro TeilnehmerIn: Euro 120.- (für Anmeldungen aus der Schweiz - CHF 120.- exkl. MwSt.)  
+🗓️ Datum:  
+⌚ Zeit: 13.00 - 17.00 Uhr
+⌚ Dauer: 4 Stunden  
+💸 Preis pro TeilnehmerIn: Euro 400.- (für Anmeldungen aus der Schweiz - CHF 400.- exkl. MwSt.)  
 📍 Plattform: Microsoft Teams (Online Workshop)  
-🗓️ **Anmeldefrist: 18. August 2023**  
+🗓️ **Anmeldefrist:**  
 
 > Note: Jede Teilnehmerin und jeder Teilnehmer erhalten eine Bestätigung der Workshop-Teilnahme!
 
 Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff "Anmeldung Workshop Wireshark Grundlagen".  
 
 ## Beschreibung:
-In diesem interaktiven, 3-stündigen Workshop führen wir Sie in die Grundlagen der Netzwerkanalyse mit Wireshark ein, einer der weltweit beliebtesten und am weitesten verbreiteten Open-Source-Netzwerkanalysetools. Sie werden lernen, wie Sie Wireshark effektiv einsetzen können, um Datenverkehr in Echtzeit zu erfassen und zu analysieren, und wie Sie erweiterte Funktionen nutzen können, um detaillierte Informationen über Ihr Netzwerk zu erhalten.
+In diesem interaktiven, 4-stündigen Workshop führen wir Sie in die Grundlagen der Netzwerkanalyse mit Wireshark ein, einer der weltweit beliebtesten und am weitesten verbreiteten Open-Source-Netzwerkanalysetools. Sie werden lernen, wie Sie Wireshark effektiv einsetzen können, um Datenverkehr in Echtzeit zu erfassen und zu analysieren, und wie Sie erweiterte Funktionen nutzen können, um detaillierte Informationen über Ihr Netzwerk zu erhalten.
 
 Der Workshop wird über die Plattform Microsoft Teams durchgeführt.
 
