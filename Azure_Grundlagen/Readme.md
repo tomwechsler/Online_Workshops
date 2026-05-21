@@ -6,7 +6,7 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
 ## Informationen:
 🗓️ Datum:    
-⌚ Zeit: 13.00 - 17.00Uhr  
+⌚ Zeit: 13.00 - 17.00 Uhr  
 ⌚ Dauer: 4 Stunden  
 💸 Preis pro TeilnehmerIn: Euro 400.- (für Anmeldungen aus der Schweiz - CHF 400.- exkl. MwSt.)  
 📍 Plattform: Microsoft Teams (Online Workshop)  
