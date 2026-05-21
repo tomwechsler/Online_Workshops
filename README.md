@@ -79,7 +79,7 @@ Im persönlichen Coaching erhalten Sie massgeschneiderte Unterstützung für Ihr
 | Linux Foundation Certified IT Associate (LFCA) | Coming soon | [Workshop öffnen](./LFCA/Readme.md) |
 | Linux Professional Institute Security Essentials (020-100) | Coming soon | [Workshop öffnen](./LPI_Security/Readme.md) |
 | Linux Professional Institute LPIC-1 | Termin folgt | [Workshop öffnen](./Linux_Professional_Institute_(LPI)/LPIC-1/Readme.md) |
-| Red Hat Certified System Administrator (RHCSA – EX200) | Coming soon | [Workshop öffnen](./Red_Hat/RHCSA/Readme.md) |
+| Red Hat Certified System Administrator (RHCSA – EX200) | Termin folgt | [Workshop öffnen](./Red_Hat/RHCSA/Readme.md) |
 
 ---
 
