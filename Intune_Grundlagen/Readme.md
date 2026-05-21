@@ -5,12 +5,12 @@ Online Workshop zum Thema Intune Grundlagen!
 mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
 ## Informationen:
-🗓️ Datum: 06. Oktober 2023  
-⌚ Zeit: 14.00 Uhr  
-⌚ Dauer: 3 Stunden  
-💸 Preis pro TeilnehmerIn: Euro 120.- (für Anmeldungen aus der Schweiz - CHF 120.- exkl. MwSt.)  
+🗓️ Datum:    
+⌚ Zeit: 13.00 - 17.00 Uhr  
+⌚ Dauer: 4 Stunden  
+💸 Preis pro TeilnehmerIn: Euro 400.- (für Anmeldungen aus der Schweiz - CHF 400.- exkl. MwSt.)  
 📍 Plattform: Microsoft Teams (Online Workshop)  
-🗓️ **Anmeldefrist: 29. September 2023**  
+🗓️ **Anmeldefrist:**  
 
 > Note: Jede Teilnehmerin und jeder Teilnehmer erhalten eine Bestätigung der Workshop-Teilnahme!
 
@@ -18,7 +18,7 @@ Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff 
 
 ## Beschreibung:
 Der Intune Grundlagen-Workshop ist ein interaktiver Online-Kurs, der Ihnen eine Einführung in die Grundlagen von Microsoft Intune bietet. 
-Der Workshop findet über eine Dauer von 3 Stunden statt und wird über die Plattform Microsoft Teams durchgeführt.
+Der Workshop findet über eine Dauer von 4 Stunden statt und wird über die Plattform Microsoft Teams durchgeführt.
 
 ## Hauptthemen:
 1. Einführung in Microsoft Intune  
@@ -49,7 +49,7 @@ Der Workshop kombiniert theoretische Inhalte mit Demo's, um Ihnen einen umfassen
 Um an diesem Workshop teilzunehmen, sollten Sie über grundlegende IT-Kenntnisse verfügen und ein grundlegendes Verständnis von Cloud-Computing haben. 
 
 Weitere Voraussetzungen sind:  
-    - Grundlegende Kenntnisse von Microsoft 365 und Azure AD  
+    - Grundlegende Kenntnisse von Microsoft 365 und Entra ID  
     - Grundlegende Kenntnisse der Windows 10/11 Verwaltung  
 
 **Empfehlung:**  
