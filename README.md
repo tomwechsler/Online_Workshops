@@ -116,7 +116,7 @@ Die Workshops eignen sich besonders für:
 
 Weitere Informationen zum Datenschutz finden Sie hier:
 
-👉 [www.winsolution.ch](http://www.winsolution.ch)
+👉 [www.winsolution.ch](https://www.winsolution.ch)
 
 ---
 
