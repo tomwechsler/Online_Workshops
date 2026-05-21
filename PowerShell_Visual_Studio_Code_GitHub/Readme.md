@@ -5,19 +5,19 @@ Online Workshop zum Thema PowerShell, Visual Studio Code und GitHub Grundlagen!
 mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
 ## Informationen:
-🗓️ Datum: 27. Oktober 2023  
-⌚ Zeit: 13.00 Uhr  
+🗓️ Datum:  
+⌚ Zeit: 13.00 - 17.00 Uhr  
 ⌚ Dauer: 4 Stunden  
-💸 Preis pro TeilnehmerIn: Euro 250.- (für Anmeldungen aus der Schweiz - CHF 250.- exkl. MwSt.)  
+💸 Preis pro TeilnehmerIn: Euro 400.- (für Anmeldungen aus der Schweiz - CHF 400.- exkl. MwSt.)  
 📍 Plattform: Microsoft Teams (Online Workshop)  
-🗓️ **Anmeldefrist: 20. Oktober 2023**  
+🗓️ **Anmeldefrist:**  
 
 > Note: Jede Teilnehmerin und jeder Teilnehmer erhalten eine Bestätigung der Workshop-Teilnahme!
 
 Anmeldung: Schreiben Sie eine Email an training@videotrainer.ch mit dem Betreff "Anmeldung Workshop PowerShell, Visual Studio Code und GitHub Grundlagen".  
 
 ## Beschreibung:
-In diesem 3-stündigen Workshop konzentrieren wir uns auf das Zusammenspiel und die Interaktion zwischen GitHub, Git, Visual Studio Code und PowerShell. Die Teilnehmer:Innen erhalten einen Überblick, wie diese Tools effizient zusammenarbeiten, um die Zusammenarbeit in Teams zu verbessern. Anhand von Demo's erfahren die Teilnehmer:Innen, wie man die Tools effizient miteinander verbindet und integriert, um einen effektiven Mangement-Workflow zu schaffen.
+In diesem 4-stündigen Workshop konzentrieren wir uns auf das Zusammenspiel und die Interaktion zwischen GitHub, Git, Visual Studio Code und PowerShell. Die Teilnehmer:Innen erhalten einen Überblick, wie diese Tools effizient zusammenarbeiten, um die Zusammenarbeit in Teams zu verbessern. Anhand von Demo's erfahren die Teilnehmer:Innen, wie man die Tools effizient miteinander verbindet und integriert, um einen effektiven Mangement-Workflow zu schaffen.
 
 ## Hauptthemen:
 1. Einführung und Überblick  
