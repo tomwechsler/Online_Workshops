@@ -6,12 +6,12 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
 ## Informationen:
 ⏰ Dauer: 5 Nachmittage (jeweils 13.00 - 17.00 Uhr) einmal pro Woche  
-🗓️ Startdatum:   
-🗓️ Enddatum:   
+🗓️ Startdatum: Freitag 02. Oktober 2026  
+🗓️ Enddatum: Freitag 30. Oktober 2026  
 💸 Preis pro TeilnehmerIn: Euro 1'400.- (für Anmeldungen aus der Schweiz - CHF 1'400.- exkl. MwSt.)  
 📍 Plattform: Microsoft Teams (Online Kurs)  
 ➡️ Alle Kursnachmittage werden aufgezeichnet und stehen den TeilnehmerInnen online zur Verfügung  
-🗓️ **Anmeldefrist:**  
+🗓️ **Anmeldefrist: Freitag 25. September 2026**    
 
 > Hinweis: Jede Teilnehmerin und jeder Teilnehmer erhalten eine Bestätigung der Kurs-Teilnahme.
 

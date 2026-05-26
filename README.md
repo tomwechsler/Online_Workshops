@@ -28,6 +28,7 @@ Im persönlichen Coaching erhalten Sie massgeschneiderte Unterstützung für Ihr
 |---|---:|---|
 | Cybersecurity für KMU – Praxisorientierter Einstieg mit dem NIST CSF 2.0 | Freitag, 10. Juli 2026 | [Workshop öffnen](./Cybersecurity_für_KMU_Praxisorientierter_Einstieg/Readme.md) |
 | Microsoft Certified: Azure Administrator Associate (AZ-104) | Samstag, 29. August 2026 | [Workshop öffnen](./Azure_Administrator_Associate_AZ-104/Readme.md) |
+| CompTIA Security+ | Freitag 02. Oktober 2026 | [Workshop öffnen](./CompTIA/CompTIA_Security+/Readme.md) |
 
 ---
 
@@ -61,7 +62,7 @@ Im persönlichen Coaching erhalten Sie massgeschneiderte Unterstützung für Ihr
 | Einführung in Ethical Hacking und Penetration Testing | Termin folgt | [Workshop öffnen](./Ethical_Hacking_und_Penetration_Testing/Readme.md) |
 | Cybersecurity Analyst – Ein praktischer Ansatz | Termin folgt | [Workshop öffnen](./Cybersecurity_Analyst_Practitioner/Readme.md) |
 | Masterclass: Microsoft Cloud Cybersecurity Architect | Termin folgt | [Workshop öffnen](./Masterclass_Microsoft_Cloud_Cybersecurity_Architect/README.md) |
-| CompTIA Security+ | Termin folgt | [Workshop öffnen](./CompTIA/CompTIA_Security+/Readme.md) |
+| CompTIA Security+ | Freitag 02. Oktober 2026 | [Workshop öffnen](./CompTIA/CompTIA_Security+/Readme.md) |
 | CompTIA PenTest+ | Termin folgt | [Workshop öffnen](./CompTIA/CompTIA_PenTest+/Readme.md) |
 | ISC2 Systems Security Certified Practitioner (SSCP) | Termin folgt | [Workshop öffnen](./ISC2/SSCP/Readme.md) |
 | ISC2 Certified Information Systems Security Professional (CISSP) | Termin folgt | [Workshop öffnen](./ISC2/CISSP/Readme.md) |
