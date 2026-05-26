@@ -27,6 +27,7 @@ Im persönlichen Coaching erhalten Sie massgeschneiderte Unterstützung für Ihr
 | Workshop | Startdatum | Details |
 |---|---:|---|
 | Cybersecurity für KMU – Praxisorientierter Einstieg mit dem NIST CSF 2.0 | Freitag, 10. Juli 2026 | [Workshop öffnen](./Cybersecurity_für_KMU_Praxisorientierter_Einstieg/Readme.md) |
+| Microsoft Certified: Azure Administrator Associate (AZ-104) | Samstag, 29. August 2026 | [Workshop öffnen](./Azure_Administrator_Associate_AZ-104/Readme.md) |
 
 ---
 
@@ -43,7 +44,7 @@ Im persönlichen Coaching erhalten Sie massgeschneiderte Unterstützung für Ihr
 | Microsoft Cloud Architect – Design und Architektur in der Praxis | Termin folgt | [Workshop öffnen](./Microsoft_Cloud_Architect/README.md) |
 | Microsoft 365 Certified: Endpoint Administrator Associate (MD-102) | Termin folgt | [Workshop öffnen](./Microsoft_365_Certified_Endpoint_Administrator_Associate/Readme.md) |
 | Microsoft Certified: Identity and Access Administrator Associate (SC-300) | Termin folgt | [Workshop öffnen](./Microsoft_Certified_Identity_and_Access_Administrator_Associate/Readme.md) |
-| Microsoft Certified: Azure Administrator Associate (AZ-104) | Termin folgt | [Workshop öffnen](./Azure_Administrator_Associate_AZ-104/Readme.md) |
+| Microsoft Certified: Azure Administrator Associate (AZ-104) | Samstag, 29. August 2026 | [Workshop öffnen](./Azure_Administrator_Associate_AZ-104/Readme.md) |
 | Microsoft Certified: Azure Virtual Desktop Specialty (AZ-140) | Termin folgt | [Workshop öffnen](./Azure_Virtual_Desktop_Specialty_AZ-140/Readme.md) |
 | Microsoft Certified: Information Protection and Compliance Administrator (SC-400) | Coming soon | [Workshop öffnen](./SC-400/Readme.md) |
 | Microsoft Certified: Cloud and AI Security Engineer Associate (SC-500) | Coming soon | [Workshop öffnen](./SC-500/Readme.md) |
