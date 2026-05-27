@@ -87,6 +87,15 @@ In dieser Session erhalten die Teilnehmenden eine fundierte Einführung in die G
 ### Ziel
 Workshop vom 28.05.2026: Die Teilnehmenden lernen, wie Azure-Dienste effizient eingesetzt und verwaltet werden können, um moderne IT-Infrastrukturen in der Cloud aufzubauen und zu betreiben.
 
+## ☁️ Session im Fokus: Aufbau des eigenen lokalen KI-(Cybersicherheits)labors
+
+In dieser Session erhalten die Teilnehmenden eine praxisnahe Einführung in den Aufbau eines eigenen lokalen KI-(Cybersicherheits)labors.
+
+### Inhalte
+- Überblick über relevante KI-Technologien und Cybersicherheitstools
+- Schritt-für-Schritt-Anleitung zum Aufbau eines lokalen Labors
+- Praktische Übungen zur Nutzung und Testung der Tools
+
 Workshop vom 25.06.2026: Die Teilnehmenden erhalten eine praxisnahe Einführung in den Aufbau eines eigenen lokalen KI-(Cybersicherheits)labors (Ollama, Open WebUI, GPT4All, Hugging Face, etc.), um KI-Technologien und Cybersicherheitstools effektiv zu nutzen und zu testen.
 
 ---
