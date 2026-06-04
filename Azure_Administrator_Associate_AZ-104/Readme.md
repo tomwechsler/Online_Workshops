@@ -42,8 +42,8 @@ Nach Abschluss des Kurses verfügen Sie über die notwendigen Kenntnisse (**plus
 Eine kompakte Übersicht der Inhalte für die fünf Nachmittage. Jeder Nachmittag enthält Lernziele, Kerninhalte und eine praktische Übung.
 
 - **Nachmittag 1 - Identitäten & Governance**
-  - Lernziele: Azure AD Grundlagen, Benutzer und Gruppen verwalten, RBAC, Azure Policy, Conditional Access.
-  - Inhalte: Azure AD, Rollen und Berechtigungen, Verwaltungsaufgaben, Compliance-Optionen.
+  - Lernziele: Entra ID Grundlagen, Benutzer und Gruppen verwalten, RBAC, Azure Policy, Conditional Access.
+  - Inhalte: Entra ID, Rollen und Berechtigungen, Verwaltungsaufgaben, Compliance-Optionen.
   - Praxis: Benutzer/Gruppen anlegen, eine Rolle zuweisen, einfache Policy erstellen.
 
 - **Nachmittag 2 - Virtuelle Netzwerke und Netzwerkkonnektivität**
