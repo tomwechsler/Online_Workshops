@@ -73,41 +73,36 @@ Der Workshop findet von 13:00 bis 17:00 Uhr statt und kombiniert verständliche 
 * Warum Cybersecurity jede Person im Unternehmen betrifft
 * Aktuelle Bedrohungen und typische Angriffsmuster im Arbeitsalltag
 * Menschlicher Faktor: Warum Angriffe oft bei Mitarbeitenden ansetzen
-* Phishing erkennen:
-
+* (Consent)-Phishing erkennen:
   * verdächtige Absender
   * gefälschte Links
   * manipulierte Anhänge
   * Dringlichkeit und Druck als Angriffsmethode
 * Social Engineering verstehen:
-
   * Manipulation über Vertrauen
   * gefälschte Identitäten
   * Telefonanrufe, Nachrichten und persönliche Kontaktaufnahme
 * Sichere Authentifizierung:
-
   * starke Passwörter
   * Passwortmanager
   * Multi-Faktor-Authentifizierung
   * typische Fehler bei Zugangsdaten
 * Sicherer Umgang mit Informationen:
-
   * vertrauliche Daten erkennen
   * Datenklassifikation verstehen
   * sichere Weitergabe von Informationen
   * Risiken durch falsche Empfänger oder öffentliche Freigaben
 * Sicherheit im modernen Arbeitsumfeld:
-
   * Homeoffice
   * mobile Geräte
   * öffentliche Netzwerke
   * Cloud-Dienste und Kollaborationstools
 * Richtig reagieren bei Verdacht:
-
   * nicht weiterklicken
   * Vorfall melden
   * Informationen sichern
   * interne Meldewege nutzen
+
 * Kurze Praxisbeispiele und typische Alltagsszenarien
 * Aufbau einer nachhaltigen Sicherheitskultur
 * Empfehlungen für Teams, Führungskräfte und Organisationen
