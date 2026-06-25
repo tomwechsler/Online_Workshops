@@ -59,7 +59,7 @@ Im persönlichen Coaching erhalten Sie massgeschneiderte Unterstützung für Ihr
 
 | Workshop | Status | Details |
 |---|---:|---|
-| Aufbau eines lokalen KI-Labors | Termin folgt | [Workshop öffnen](./Aufbau_eines_lokalen_KI-Labors/Readme.md) |
+| Aufbau eines lokalen KI-Labors für Cybersecurity | Termin folgt | [Workshop öffnen](./Aufbau_eines_lokalen_KI-Labors/Readme.md) |
 | IT Security Awareness Training | Termin folgt | [Workshop öffnen](./IT_Security_Awareness_Training/Readme.md) |
 | Einführung in Ethical Hacking und Penetration Testing | Termin folgt | [Workshop öffnen](./Ethical_Hacking_und_Penetration_Testing/Readme.md) |
 | Cybersecurity Analyst – Ein praktischer Ansatz | Termin folgt | [Workshop öffnen](./Cybersecurity_Analyst_Practitioner/Readme.md) |

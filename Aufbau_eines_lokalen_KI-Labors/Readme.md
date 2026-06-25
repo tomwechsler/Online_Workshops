@@ -1,8 +1,8 @@
-# 📢 Aufbau eines lokalen KI-Labors
+# 📢 Aufbau eines lokalen KI-Labors für Cybersecurity
 
 Praxisorientierter Online Workshop zum Aufbau und Einsatz einer lokalen KI-Umgebung für IT, Cybersecurity, Automatisierung und Wissenstransfer.
 
-## Aufbau eines lokalen KI-Labors
+## Aufbau eines lokalen KI-Labors für Cybersecurity
 
 mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
