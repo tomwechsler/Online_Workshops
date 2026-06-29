@@ -148,6 +148,21 @@ Nach 6 Nachmittagen haben die Teilnehmer:
 - Cloud Computing Grundkenntnisse
 - Programmier-Grundkenntnisse (von Vorteil)
 
+## Vorbereitung für Teilnehmende (optional, falls Sie eine lokale KI-Laborumgebung aufbauen möchten)
+
+Empfohlen wird:
+
+* Ein aktueller Windows-, macOS- oder Linux-Rechner
+* Administratorrechte auf dem eigenen System
+* Mindestens 16 GB Arbeitsspeicher, empfohlen 32 GB oder mehr
+* Mindestens 30–50 GB freier Speicherplatz
+* Stabile Internetverbindung zum Herunterladen von Tools und Modellen
+* Optional: dedizierte GPU für grössere oder leistungsfähigere Modelle
+* Grundlegende Erfahrung mit Installation von Software
+* Optional: Erfahrung mit Docker oder virtuellen Maschinen
+
+> Hinweis: Für den Einstieg ist keine High-End-Hardware zwingend notwendig. Kleinere und quantisierte Modelle können auch auf vielen Standard-Systemen getestet werden. Leistungsfähigere Hardware verbessert jedoch Geschwindigkeit, Modellgrösse und Nutzungserlebnis.
+
 ## Kontaktinformationen
 Wenn Sie Fragen haben, können Sie mich unter folgender Adresse erreichen:
 
