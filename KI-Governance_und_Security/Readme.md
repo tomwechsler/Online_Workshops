@@ -6,8 +6,12 @@ mit Tom Wechsler 👉 [LinkedIn-Profil](https://www.linkedin.com/in/tom-wechsler
 
 ## Informationen:
 ⏰ **Dauer:** 1 Nachmittag (13.00 – 17.00 Uhr)  
+🗓️ **Startdatum:**  
+🗓️ **Enddatum:**  
+💸 **Preis pro TeilnehmerIn:** Euro 400.- (für Anmeldungen aus der Schweiz – CHF 400.- exkl. MwSt.)  
 📍 **Plattform:** Microsoft Teams (Online-Kurs)  
 ➡️ **Alle Kurseinheiten werden aufgezeichnet und stehen den TeilnehmerInnen online zur Verfügung.**  
+🗓️ **Anmeldefrist:**  
 
 *Jede Teilnehmerin und jeder Teilnehmer erhält eine Teilnahmebestätigung.*
 
@@ -45,7 +49,7 @@ Am Ende des Workshops können die Teilnehmenden ein praxisnahes KI-Governance- u
 # 📅 Agenda – Sichere KI im Unternehmen
 
 ### 13.00 – 13.30 Uhr – **Einordnung, KI-Grundlagen und Erwartungen**
-- Begrüßung & Zielsetzung des Workshops
+- Begrüssung & Zielsetzung des Workshops
 - Grundlagen moderner KI-Systeme: generative KI, LLMs, Copilots und Agenten
 - Chancen, Grenzen und typische Einsatzszenarien im Unternehmen
 - Risiken durch Shadow AI und unkontrollierte Tool-Nutzung
@@ -85,12 +89,12 @@ Am Ende des Workshops können die Teilnehmenden ein praxisnahes KI-Governance- u
 - Auswahl und Bewertung von KI-Diensten, Modellen und Anbietern
 - Awareness und Schulung für Mitarbeitende
 - Incident Response für KI-bezogene Vorfälle
-- Übung: Maßnahmenplan für eine sichere KI-Einführung
+- Übung: Massnahmenplan für eine sichere KI-Einführung
 
 ---
 
 ### 16.45 – 17.00 Uhr – **Fahrplan, Abschluss und Fragen**
-- Priorisierung von Quick Wins und langfristigen Maßnahmen
+- Priorisierung von Quick Wins und langfristigen Massnahmen
 - Skizze eines individuellen **KI-Governance- und Sicherheitsfahrplans**
 - Abschlussdiskussion & Feedbackrunde
 
