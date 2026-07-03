@@ -1,7 +1,7 @@
-# 📢 Workshop: Sichere KI im Unternehmen – Governance, Risiken und praxisnahe Frameworks 📢
-Online Workshop zu KI-Governance, KI-Sicherheit, Risikomanagement und verantwortungsvoller Einführung von KI-Technologien in Unternehmen
+# 📢 Workshop: KI-Governance, Risiko und Konformität im Unternehmen 📢
+Online Workshop zu KI-Governance, KI-Risikomanagement, Compliance und verantwortungsvoller Einführung von KI-Technologien in Unternehmen
 
-## Online Workshop zu Sichere KI im Unternehmen – Governance, Risiken und praxisnahe Frameworks
+## Online Workshop zu KI-Governance, Risiko und Konformität im Unternehmen
 mit Tom Wechsler 👉 [LinkedIn-Profil](https://www.linkedin.com/in/tom-wechsler)
 
 ## Informationen:
@@ -15,18 +15,18 @@ mit Tom Wechsler 👉 [LinkedIn-Profil](https://www.linkedin.com/in/tom-wechsler
 
 *Jede Teilnehmerin und jeder Teilnehmer erhält eine Teilnahmebestätigung.*
 
-**Anmeldung:** Schreiben Sie eine E-Mail an [training@videotrainer.ch](mailto:training@videotrainer.ch) mit dem Betreff: *„Sichere KI im Unternehmen“*.
+**Anmeldung:** Schreiben Sie eine E-Mail an [training@videotrainer.ch](mailto:training@videotrainer.ch) mit dem Betreff: *„KI-Governance, Risiko und Konformität“*.
 
 ---
 
 ## Beschreibung
-Künstliche Intelligenz verändert Geschäftsprozesse, IT-Sicherheit, Compliance und strategische Entscheidungen in Unternehmen grundlegend. Gleichzeitig entstehen neue Risiken: unkontrollierte Datennutzung, Shadow AI, Modellmanipulation, Prompt Injection, fehlerhafte Ergebnisse, Datenschutzverletzungen, regulatorische Unsicherheit und ethische Fragestellungen.
+Künstliche Intelligenz verändert Geschäftsprozesse, Compliance, Risikomanagement und strategische Entscheidungen in Unternehmen grundlegend. Gleichzeitig entstehen neue Herausforderungen: unkontrollierte Datennutzung, Shadow AI, unklare Verantwortlichkeiten, fehlerhafte Ergebnisse, Datenschutzverletzungen, regulatorische Unsicherheit und ethische Fragestellungen.
 
-Dieser Workshop vermittelt grundlegendes und praxisnahes Wissen, um selbstbewusst mit KI-Technologien umzugehen, Sicherheitsprogramme zu stärken, globale Standards einzuhalten und die ethische sowie sichere Einführung von KI in Unternehmen voranzutreiben.
+Dieser Workshop vermittelt grundlegendes und praxisnahes Wissen, um KI-Technologien strukturiert, verantwortungsvoll und regelkonform im Unternehmen einzuführen. Der Fokus liegt auf Governance-Strukturen, Risikobewertung, regulatorischen Anforderungen, Nachweisen und pragmatischen Umsetzungsansätzen.
 
-Die Teilnehmerinnen und Teilnehmer lernen, wie KI-Governance, Risikomanagement, Cybersecurity und Compliance zusammenspielen. Im Mittelpunkt stehen praxisnahe Frameworks und Standards wie das **NIST AI Risk Management Framework (AI RMF)**, das **NIST Cybersecurity Framework 2.0**, **ISO/IEC 42001**, **ISO/IEC 27001**, **OWASP Top 10 for LLM Applications**, Datenschutzanforderungen sowie Anforderungen aus dem **EU AI Act**.
+Die Teilnehmerinnen und Teilnehmer lernen, wie KI-Governance, Risikomanagement, Datenschutz und Compliance zusammenspielen. Im Mittelpunkt stehen praxisnahe Frameworks und Standards wie das **NIST AI Risk Management Framework (AI RMF)**, **ISO/IEC 42001**, **ISO/IEC 27001**, Datenschutzanforderungen sowie Anforderungen aus dem **EU AI Act**.
 
-Ziel ist nicht, KI nur technisch zu verstehen, sondern deren Potenzial verantwortungsvoll zu nutzen und gleichzeitig Risiken strukturiert zu erkennen, zu bewerten und zu steuern.
+Ziel ist nicht, KI nur technisch zu verstehen, sondern deren Potenzial verantwortungsvoll zu nutzen und gleichzeitig Risiken strukturiert zu erkennen, zu bewerten, zu dokumentieren und zu steuern.
 
 ---
 
@@ -40,35 +40,35 @@ Ziel ist nicht, KI nur technisch zu verstehen, sondern deren Potenzial verantwor
 ---
 
 ## Ziel des Workshops
-Der Workshop befähigt Unternehmen, KI-Technologien **sicher, ethisch, strategisch und regelkonform** einzusetzen. Die Teilnehmerinnen und Teilnehmer erwerben ein solides Verständnis für KI-Grundlagen, typische Risiken, Governance-Strukturen, Sicherheitskontrollen und internationale Standards.
+Der Workshop befähigt Unternehmen, KI-Technologien **verantwortungsvoll, strategisch und regelkonform** einzusetzen. Die Teilnehmerinnen und Teilnehmer erwerben ein solides Verständnis für KI-Grundlagen, typische Risiken, Governance-Strukturen, Kontrollprozesse und internationale Standards.
 
-Am Ende des Workshops können die Teilnehmenden ein praxisnahes KI-Governance- und Sicherheitsprogramm skizzieren, Risiken priorisieren, geeignete Kontrollen ableiten und die Einführung von KI-Lösungen verantwortungsbewusst begleiten.
-
----
-
-# 📅 Agenda – Sichere KI im Unternehmen
-
-### 13.00 – 13.30 Uhr – **Einordnung, KI-Grundlagen und Erwartungen**
-- Begrüssung & Zielsetzung des Workshops
-- Grundlagen moderner KI-Systeme: generative KI, LLMs, Copilots und Agenten
-- Chancen, Grenzen und typische Einsatzszenarien im Unternehmen
-- Risiken durch Shadow AI und unkontrollierte Tool-Nutzung
+Am Ende des Workshops können die Teilnehmenden ein praxisnahes KI-Governance-Programm skizzieren, Risiken priorisieren, geeignete Kontrollen ableiten und die Einführung von KI-Lösungen verantwortungsbewusst begleiten.
 
 ---
 
-### 13.30 – 14.15 Uhr – **KI-Governance und relevante Standards**
-- Aufbau eines pragmatischen KI-Governance-Ansatzes
-- Rollen und Verantwortlichkeiten: Business, IT, Security, Datenschutz, Legal und Management
-- Überblick über NIST AI RMF, NIST CSF 2.0, ISO/IEC 42001, ISO/IEC 27001 und EU AI Act
-- Einordnung bestehender Security-, Risiko- und Compliance-Programme
+# 📅 Agenda – KI-Governance, Risiko und Konformität im Unternehmen
+
+### 13.00 – 13.30 Uhr – **Einordnung und Zielbild für verantwortungsvolle KI**
+- Begrüssung und Zielsetzung des Workshops
+- Warum KI-Governance für Unternehmen relevant ist
+- Typische Herausforderungen: Shadow AI, unklare Verantwortlichkeiten, Datenschutz und regulatorische Unsicherheit
+- Abgrenzung: KI-Governance, KI-Risikomanagement, KI-Sicherheit und Compliance
 
 ---
 
-### 14.15 – 15.00 Uhr – **KI-Risiken, Datenschutz und Compliance**
-- Identifikation und Klassifizierung von KI-Anwendungsfällen
-- Geschäftsrisiken, Sicherheitsrisiken, Datenschutzrisiken und ethische Risiken
-- Datenminimierung, Zweckbindung, Vertraulichkeit und menschliche Aufsicht
-- Übung: Erste Bewertung eines KI-Use-Cases anhand eines einfachen Risikorasters
+### 13.30 – 14.15 Uhr – **Governance-Strukturen für den KI-Einsatz**
+- Aufbau eines pragmatischen KI-Governance-Modells
+- Rollen und Verantwortlichkeiten: Management, Business, IT, Security, Datenschutz, Legal und Compliance
+- KI-Richtlinien, Freigabeprozesse und Entscheidungswege
+- Umgang mit bestehenden und neuen KI-Anwendungsfällen
+
+---
+
+### 14.15 – 15.00 Uhr – **Risikomanagement für KI-Anwendungsfälle**
+- Identifikation und Inventarisierung von KI-Use-Cases
+- Risikokategorien: Geschäftsrisiken, Datenschutzrisiken, Compliance-Risiken, ethische Risiken und Sicherheitsrisiken
+- Bewertung nach Kritikalität, Datenarten, Zweck, Nutzergruppen und Auswirkungen
+- Praxisübung: Bewertung eines KI-Use-Cases mit einem einfachen Risikoraster
 
 ---
 
@@ -76,27 +76,29 @@ Am Ende des Workshops können die Teilnehmenden ein praxisnahes KI-Governance- u
 
 ---
 
-### 15.15 – 16.00 Uhr – **Technische Sicherheit von KI-Systemen**
-- Bedrohungen gegen KI-Systeme und LLM-Anwendungen
-- OWASP Top 10 for LLM Applications im Überblick
-- Prompt Injection, Data Leakage, Model Abuse und Supply-Chain-Risiken
-- Zugriffskontrolle, Protokollierung, Monitoring und Schutz sensibler Daten
+### 15.15 – 16.00 Uhr – **Regulatorische Anforderungen und Standards**
+- Überblick über zentrale Anforderungen aus dem EU AI Act
+- Risikobasierte Klassifizierung von KI-Systemen
+- Einordnung von NIST AI RMF, ISO/IEC 42001 und ISO/IEC 27001
+- Datenschutz, Transparenz, Nachvollziehbarkeit und menschliche Aufsicht
+- Welche Anforderungen sind für typische Unternehmensszenarien besonders relevant?
 
 ---
 
-### 16.00 – 16.45 Uhr – **Sichere Einführung und Betrieb von KI**
-- KI-Richtlinien, Nutzungsregeln und Freigabeprozesse
-- Auswahl und Bewertung von KI-Diensten, Modellen und Anbietern
-- Awareness und Schulung für Mitarbeitende
-- Incident Response für KI-bezogene Vorfälle
-- Übung: Massnahmenplan für eine sichere KI-Einführung
+### 16.00 – 16.40 Uhr – **Kontrollen, Nachweise und Umsetzung in der Praxis**
+- Vom Risiko zur Massnahme: Policies, Prozesse, technische und organisatorische Kontrollen
+- KI-Risikoregister und Use-Case-Freigabe
+- Dokumentation, Nachweise und Auditfähigkeit
+- Anbieterbewertung und Governance bei externen KI-Diensten
+- Awareness und klare Nutzungsregeln für Mitarbeitende
 
 ---
 
-### 16.45 – 17.00 Uhr – **Fahrplan, Abschluss und Fragen**
-- Priorisierung von Quick Wins und langfristigen Massnahmen
-- Skizze eines individuellen **KI-Governance- und Sicherheitsfahrplans**
-- Abschlussdiskussion & Feedbackrunde
+### 16.40 – 17.00 Uhr – **Roadmap und Abschluss**
+- Priorisierung erster Massnahmen
+- Quick Wins für Governance, Risiko und Compliance
+- Skizze eines pragmatischen KI-Governance-Fahrplans
+- Fragen, Diskussion und Abschluss
 
 ---
 
@@ -104,25 +106,23 @@ Am Ende des Workshops können die Teilnehmenden ein praxisnahes KI-Governance- u
 Nach diesem Workshop-Nachmittag haben die Teilnehmerinnen und Teilnehmer:
 - ein **praxisnahes Verständnis** für KI-Technologien, Chancen und Risiken
 - einen Überblick über relevante **Standards, Frameworks und regulatorische Anforderungen**
-- konkrete Ansätze zur Stärkung bestehender **Security-, Risiko- und Compliance-Programme**
+- konkrete Ansätze zur Stärkung bestehender **Governance-, Risiko- und Compliance-Programme**
 - ein einfaches Raster zur Bewertung von KI-Anwendungsfällen
-- erste Bausteine für einen **KI-Governance- und Sicherheitsfahrplan** als Grundlage für die Umsetzung
+- erste Bausteine für einen **KI-Governance-Fahrplan** als Grundlage für die Umsetzung
 
 ---
 
 ## Verschiedene Lösungsansätze und Techniken werden unter anderem vorgestellt:
 - NIST AI Risk Management Framework (AI RMF)
-- NIST Cybersecurity Framework 2.0
-- ISO/IEC 42001 und ISO/IEC 27001
+- ISO/IEC 42001 für KI-Managementsysteme
+- ISO/IEC 27001 als Bezugspunkt für Informationssicherheit
 - EU AI Act und risikobasierte Klassifizierung von KI-Systemen
-- OWASP Top 10 for LLM Applications
-- Microsoft Responsible AI Standard und Responsible AI Prinzipien
-- Microsoft Purview für Datenklassifizierung und Informationsschutz
-- Microsoft Entra ID, Conditional Access und Zero Trust für KI-Zugriffe
-- Microsoft Defender und Sentinel für Monitoring und Incident Response
-- KI-Risikoregister, Use-Case-Bewertung und Governance-Prozesse
-- Prompt Injection Tests und sichere Nutzung generativer KI
-- und vieles mehr!
+- Datenschutz, Zweckbindung und menschliche Aufsicht
+- KI-Richtlinien und Nutzungsregeln
+- KI-Use-Case-Inventar und KI-Risikoregister
+- Freigabe- und Kontrollprozesse
+- Anbieter- und Toolbewertung
+- Awareness und organisatorische Verankerung
 
 ---
 
@@ -163,13 +163,13 @@ Wenn Sie Fragen haben, können Sie mich unter folgender Adresse erreichen:
 
 	https://www.nist.gov/itl/ai-risk-management-framework
 
-- NIST Cybersecurity Framework 2.0
+- ISO/IEC 42001 Artificial intelligence management system
 
-	https://www.nist.gov/cyberframework
+	https://www.iso.org/standard/81230.html
 
-- OWASP Top 10 for Large Language Model Applications
+- ISO/IEC 27001 Information security management systems
 
-	https://owasp.org/www-project-top-10-for-large-language-model-applications/
+	https://www.iso.org/standard/27001
 
 - EU AI Act
 
