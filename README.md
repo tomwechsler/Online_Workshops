@@ -80,6 +80,7 @@ Im persönlichen Coaching erhalten Sie massgeschneiderte Unterstützung für Ihr
 |---|---:|---|
 | Wireshark Grundlagen | Termin folgt | [Workshop öffnen](./Wireshark_Grundlagen/Readme.md) |
 | PowerShell, Visual Studio Code und GitHub Grundlagen | Termin folgt | [Workshop öffnen](./PowerShell_Visual_Studio_Code_GitHub/Readme.md) |
+| Einführung in die Linux-Befehlszeile | Termin folgt | [Workshop öffnen](./Einfuehrung_in_die_Linux-Befehlszeile/Readme.md) |
 | Linux Foundation Certified System Administrator (LFCS) | Termin folgt | [Workshop öffnen](./Linux_Foundation_Certified_System_Administrator_(LFCS)/Readme.md) |
 | Linux Foundation Certified IT Associate (LFCA) | Coming soon | [Workshop öffnen](./LFCA/Readme.md) |
 | Linux Professional Institute Security Essentials (020-100) | Coming soon | [Workshop öffnen](./LPI_Security/Readme.md) |
