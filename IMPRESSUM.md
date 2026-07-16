@@ -11,9 +11,9 @@
 
 ## Kontaktadresse
 
-Hofackerstrasse 8
-4625 Oberbuchsiten
-Schweiz
+Hofackerstrasse 8  
+4625 Oberbuchsiten  
+Schweiz  
 
 **E-Mail:** [training@videotrainer.ch](mailto:training@videotrainer.ch)
 
