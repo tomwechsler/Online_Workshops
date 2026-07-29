@@ -6,12 +6,12 @@ mit Tom Wechsler (https://www.linkedin.com/in/tom-wechsler)
 
 ## Informationen:
 ⏰ Dauer: 6 Nachmittage (jeweils 13.00 - 17.00 Uhr) einmal pro Woche  
-🗓️ Startdatum: wird bekannt gegeben  
-🗓️ Enddatum: wird bekannt gegeben  
+🗓️ Startdatum: Freitag 15. Januar 2027    
+🗓️ Enddatum: Freitag 19. Februar 2027  
 💸 Preis pro TeilnehmerIn: Euro 1'600.- (für Anmeldungen aus der Schweiz - CHF 1'600.- exkl. MwSt.)  
 📍 Plattform: Microsoft Teams (Online Kurs)  
 ➡️ Alle Kursnachmittage werden aufgezeichnet und stehen den TeilnehmerInnen Online zur Verfügung  
-🗓️ **Anmeldefrist: wird bekannt gegeben**  
+🗓️ **Anmeldefrist: Freitag 08. Januar 2027**  
 
 > Note: Jede Teilnehmerin und jeder Teilnehmer erhalten eine Bestätigung der Masterclass-Teilnahme.
 

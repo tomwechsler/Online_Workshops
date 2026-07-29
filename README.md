@@ -29,6 +29,7 @@ Im persönlichen Coaching erhalten Sie massgeschneiderte Unterstützung für Ihr
 | Cybersecurity für KMU – Praxisorientierter Einstieg mit dem NIST CSF 2.0 | Freitag, 10. Juli 2026 | [Workshop öffnen](./Cybersecurity_für_KMU_Praxisorientierter_Einstieg/Readme.md) |
 | Microsoft Certified: Azure Administrator Associate (AZ-104) | Samstag, 29. August 2026 | [Workshop öffnen](./Azure_Administrator_Associate_AZ-104/Readme.md) |
 | CompTIA Security+ | Freitag 06. November 2026 | [Workshop öffnen](./CompTIA/CompTIA_Security+/Readme.md) |
+| Microsoft Intune Masterclass: Windows 11 mit Intune verwalten | Freitag 15. Januar 2027 | [Workshop öffnen](./Masterclass_Verwaltung_von_Windows_11_Microsoft_Intune/Readme.md) |
 
 ---
 
