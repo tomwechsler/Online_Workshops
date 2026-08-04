@@ -136,6 +136,7 @@ Seit 2007 arbeite ich selbstständig als **Cloud Solution Architect**, **Cyber S
 Ich bin **Microsoft Most Valuable Professional (MVP)** in Azure sowie Cloud and Datacenter Management und verfüge über zahlreiche Fachzertifizierungen, darunter:
 
 - ISC2 CISSP, CCSP und SSCP
+- Certified NIST CSF 2.0 Lead Implementer
 - Microsoft Cybersecurity Architect
 - Microsoft Certified: Azure Solutions Architect Expert
 - Microsoft Certified: Windows Server Hybrid Administrator Associate
