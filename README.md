@@ -136,14 +136,18 @@ Seit 2007 arbeite ich selbstständig als **Cloud Solution Architect**, **Cyber S
 Ich bin **Microsoft Most Valuable Professional (MVP)** in Azure sowie Cloud and Datacenter Management und verfüge über zahlreiche Fachzertifizierungen, darunter:
 
 - ISC2 CISSP, CCSP und SSCP
+- CompTIA SecurityX (formerly CASP+)
 - Certified NIST CSF 2.0 Lead Implementer
 - Microsoft Cybersecurity Architect
 - Microsoft Certified: Azure Solutions Architect Expert
+- Microsoft 365 Certified: Administrator Expert
 - Microsoft Certified: Windows Server Hybrid Administrator Associate
+- Microsoft Certified: Information Security Administrator Associate
 - EC-Council Certified Ethical Hacker (CEH)
-- Cisco CCNA Routing & Switching, Security und Cyber Ops
+- Cisco CCNA Routing & Switching, Security und CyberOps
 - LPIC-1, LPIC-2, LPIC-3
 - SUSE Certified Linux Administrator
+- Linux Foundation Certified IT Associate (LFCA)
 - Red Hat Certified System Administrator (RHCSA)
 
 Als **Microsoft Certified Trainer (MCT)** unterstütze ich Unternehmen und IT-Fachkräfte dabei, Cloud-, Security- und Infrastrukturthemen strukturiert aufzubauen, besser zu verstehen und sicherer anzuwenden.
