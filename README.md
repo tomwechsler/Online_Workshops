@@ -138,6 +138,7 @@ Ich bin **Microsoft Most Valuable Professional (MVP)** in Azure sowie Cloud and 
 - ISC2 CISSP, CCSP und SSCP
 - CompTIA SecurityX (formerly CASP+)
 - Certified NIST CSF 2.0 Lead Implementer
+- Certified NIST CSF 2.0 Lead Auditor
 - Microsoft Cybersecurity Architect
 - Microsoft Certified: Azure Solutions Architect Expert
 - Microsoft 365 Certified: Administrator Expert

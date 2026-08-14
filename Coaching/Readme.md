@@ -11,6 +11,7 @@ Tom Wechsler 👉 [LinkedIn-Profil](https://www.linkedin.com/in/tom-wechsler)
 - Github Zertifizierungen (z.B. GH-100, GH-200, GH-500)
 - ISC2 Zertifizierungen (z.B. CISSP, CCSP, SSCP)
 - Certified NIST CSF 2.0 Lead Implementer
+- Certified NIST CSF 2.0 Lead Auditor
 - CompTIA Zertifizierungen (z.B. Network+, Security+, CySA+, PenTest+, SecurityX)
 - Red Hat Zertifizierungen (z.B. RHCSA, RHCE)
 - Linux Foundation Zertifizierungen (z.B. LFCS, LFCE)
