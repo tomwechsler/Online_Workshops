@@ -24,7 +24,7 @@ Künstliche Intelligenz verändert Geschäftsprozesse, Compliance, Risikomanagem
 
 Dieser Workshop vermittelt grundlegendes und praxisnahes Wissen, um KI-Technologien strukturiert, verantwortungsvoll und regelkonform im Unternehmen einzuführen. Der Fokus liegt auf Governance-Strukturen, Risikobewertung, regulatorischen Anforderungen, Nachweisen und pragmatischen Umsetzungsansätzen.
 
-Die Teilnehmerinnen und Teilnehmer lernen, wie KI-Governance, Risikomanagement, Datenschutz und Compliance zusammenspielen. Im Mittelpunkt stehen praxisnahe Frameworks und Standards wie das **NIST AI Risk Management Framework (AI RMF)**, **ISO/IEC 42001**, **ISO/IEC 27001**, Datenschutzanforderungen sowie Anforderungen aus dem **EU AI Act**.
+Die Teilnehmerinnen und Teilnehmer lernen, wie KI-Governance, Risikomanagement, Datenschutz und Compliance zusammenspielen. Im Mittelpunkt stehen praxisnahe Frameworks und Standards wie das **NIST AI Risk Management Framework (AI RMF)**, **ISO/IEC 31000**, **ISO/IEC 42001**, **ISO/IEC 27001**, Datenschutzanforderungen sowie Anforderungen aus dem **EU AI Act**.
 
 Ziel ist nicht, KI nur technisch zu verstehen, sondern deren Potenzial verantwortungsvoll zu nutzen und gleichzeitig Risiken strukturiert zu erkennen, zu bewerten, zu dokumentieren und zu steuern.
 
