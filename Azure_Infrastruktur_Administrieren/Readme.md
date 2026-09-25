@@ -31,7 +31,7 @@ Der Workshop findet über eine Dauer von 4 Stunden statt und wird über die Plat
     Netzwerksicherheitsgruppen und Firewall-Regeln    
 
 3. Azure Identitäts- und Zugriffsmanagement  
-    Überblick über Azure Active Directory  
+    Überblick über Entra ID  
     Rollenbasierte Zugriffskontrolle (RBAC)   
 
 4. Azure Speicher- und Datenverwaltung  
