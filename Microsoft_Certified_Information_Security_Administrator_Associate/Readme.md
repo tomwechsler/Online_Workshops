@@ -22,6 +22,18 @@ Diese Prüfungsvorbereitung dient der Vorbereitung auf die Prüfung SC-401: Admi
 
 Der Kurs behandelt zentrale Themen wie Informationsschutz, Sensitivity Labels, Data Loss Prevention (DLP), Endpoint DLP, Aufbewahrung und Datenlebenszyklusverwaltung. Zusätzlich werden Insider Risk Management, Audit, Aktivitätenanalyse, Warnungen, eDiscovery sowie der Schutz von Daten in Umgebungen mit KI-Diensten behandelt. Der Schwerpunkt liegt auf praxisnahen Szenarien, damit die Teilnehmenden technische Kontrollen mit organisatorischen Sicherheits-, Governance- und Compliance-Anforderungen verbinden können.
 
+## Praxisbeispiel: Eine E-Mail. Fünf Sicherheitsschichten. Vier davon haben nur zugeschaut.
+Ein Mitarbeiter sendet Kreditkartendaten an ein externes Postfach. So reagiert der Microsoft Security Stack:
+
+- 🔐 Microsoft Entra ID: gültiger Benutzer, MFA bestanden - Zugriff gewährt
+- 💻 Endpoint Detection and Response (EDR): kein bösartiger Prozess - nichts zu erkennen
+- 🛡️ Anti-Malware: Anhang ist sauber - Zustellung möglich
+- 🌐 Netzwerk: normaler HTTPS-Verkehr - erlaubt
+
+Jede einzelne Kontrolle hat ihren Job korrekt gemacht. Und trotzdem hätten sensible Daten das Unternehmen verlassen können.
+
+⛔ Microsoft Purview Data Loss Prevention (DLP): sensibler Inhalt erkannt, Versand blockiert und Vorfall protokolliert.
+
 ## Bewertete Qualifikationen:
 - Implementieren von Informationsschutz
 
