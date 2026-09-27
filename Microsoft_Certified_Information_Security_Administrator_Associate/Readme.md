@@ -34,6 +34,20 @@ Jede einzelne Kontrolle hat ihren Job korrekt gemacht. Und trotzdem hätten sens
 
 ⛔ Microsoft Purview Data Loss Prevention (DLP): sensibler Inhalt erkannt, Versand blockiert und Vorfall protokolliert.
 
+## Praxisbeispiel: Ein KI-Prompt. Patienteninformationen. Ein unterschätztes Risiko.
+Eine Mitarbeiterin möchte sich von einem KI-Dienst eine Zusammenfassung für einen internen Fallbericht erstellen lassen. In den Prompt kopiert sie Patientendaten, Diagnosen und Versicherungsinformationen.
+
+So reagieren klassische Sicherheitskontrollen:
+
+- 🔐 Microsoft Entra ID: gültiger Benutzer, MFA bestanden - Zugriff gewährt
+- 💻 Endpoint Detection and Response (EDR): kein bösartiger Prozess - nichts zu erkennen
+- 🛡️ Anti-Malware: keine Datei mit Schadcode - nichts zu blockieren
+- 🌐 Netzwerk: erlaubter Zugriff auf einen Cloud-Dienst - Verbindung zugelassen
+
+Alle technischen Kontrollen arbeiten korrekt. Trotzdem besteht das Risiko, dass hochsensible Patienteninformationen in einen nicht freigegebenen KI-Dienst übertragen werden.
+
+⛔ Microsoft Purview: sensibler Inhalt erkannt, Richtlinie angewendet, Eingabe blockiert oder Benutzer gewarnt und Aktivität protokolliert.
+
 ## Bewertete Qualifikationen:
 - Implementieren von Informationsschutz
 
