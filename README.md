@@ -26,7 +26,7 @@ Im persönlichen Coaching erhalten Sie massgeschneiderte Unterstützung für Ihr
 
 | Workshop | Startdatum | Details |
 |---|---:|---|
-| CompTIA Security+ | Freitag 06. November 2026 | [Workshop öffnen](./CompTIA/CompTIA_Security+/Readme.md) |
+| Microsoft Certified: Information Security Administrator Associate (SC-401) | Freitag 13. November 2026 | [Workshop öffnen](./Microsoft_Certified_Information_Security_Administrator_Associate/Readme.md) |
 | Microsoft Intune Masterclass: Windows 11 mit Intune verwalten | Freitag 15. Januar 2027 | [Workshop öffnen](./Masterclass_Verwaltung_von_Windows_11_Microsoft_Intune/Readme.md) |
 
 ---
