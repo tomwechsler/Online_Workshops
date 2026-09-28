@@ -46,7 +46,7 @@ Im persönlichen Coaching erhalten Sie massgeschneiderte Unterstützung für Ihr
 | Microsoft Certified: Identity and Access Administrator Associate (SC-300) | Termin folgt | [Workshop öffnen](./Microsoft_Certified_Identity_and_Access_Administrator_Associate/Readme.md) |
 | Microsoft Certified: Azure Administrator Associate (AZ-104) | Samstag, 29. August 2026 | [Workshop öffnen](./Azure_Administrator_Associate_AZ-104/Readme.md) |
 | Microsoft Certified: Azure Virtual Desktop Specialty (AZ-140) | Termin folgt | [Workshop öffnen](./Azure_Virtual_Desktop_Specialty_AZ-140/Readme.md) |
-| Microsoft Certified: Information Security Administrator Associate (SC-401) | Coming soon | [Workshop öffnen](./Microsoft_Certified_Information_Security_Administrator_Associate/Readme.md) |
+| Microsoft Certified: Information Security Administrator Associate (SC-401) | Freitag 13. November 2026 | [Workshop öffnen](./Microsoft_Certified_Information_Security_Administrator_Associate/Readme.md) |
 | Microsoft Certified: Cloud and AI Security Engineer Associate (SC-500) | Coming soon | [Workshop öffnen](./Microsoft_Certified_Cloud_and_AI_Security_Engineer_Associate/Readme.md) |
 | Microsoft Certified: Azure Network Engineer Associate (AZ-700) | Coming soon | [Workshop öffnen](./Microsoft_Certified_Azure_Network_Engineer_Associate/Readme.md) |
 | Microsoft Certified: Windows Server Hybrid Administrator Associate (AZ-802) | Coming soon | [Workshop öffnen](./Microsoft_Certified_Windows_Server_Hybrid_Administrator_Associate/Readme.md) |
