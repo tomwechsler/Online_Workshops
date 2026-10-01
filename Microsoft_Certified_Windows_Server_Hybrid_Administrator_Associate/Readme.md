@@ -161,9 +161,9 @@ Ich wünsche Ihnen viel Spass mit dem Workshop. Wenn Sie Fragen haben, können S
 	https://learn.microsoft.com/de-de/azure/azure-arc/servers/
 
 ## Weitere Lerninhalte
-- Windows Server auf Microsoft Learn:
+- Microsoft Learn:
 
-	https://learn.microsoft.com/de-de/training/windowsserver/
+	https://learn.microsoft.com/de-de/training/
 
 - Active Directory Domain Services Dokumentation:
 
