@@ -27,7 +27,7 @@ Im persönlichen Coaching erhalten Sie massgeschneiderte Unterstützung für Ihr
 | Workshop | Startdatum | Details |
 |---|---:|---|
 | Microsoft Certified: Information Security Administrator Associate (SC-401) | Freitag 13. November 2026 | [Workshop öffnen](./Microsoft_Certified_Information_Security_Administrator_Associate/Readme.md) |
-| Microsoft Intune Masterclass: Windows 11 mit Intune verwalten | Freitag 15. Januar 2027 | [Workshop öffnen](./Masterclass_Verwaltung_von_Windows_11_Microsoft_Intune/Readme.md) |
+| Microsoft Certified: Windows Server Hybrid Administrator Associate (AZ-802) | Freitag 15. Januar 2027 | [Workshop öffnen](./Microsoft_Certified_Windows_Server_Hybrid_Administrator_Associate/Readme.md) |
 
 ---
 
@@ -49,7 +49,7 @@ Im persönlichen Coaching erhalten Sie massgeschneiderte Unterstützung für Ihr
 | Microsoft Certified: Information Security Administrator Associate (SC-401) | Freitag 13. November 2026 | [Workshop öffnen](./Microsoft_Certified_Information_Security_Administrator_Associate/Readme.md) |
 | Microsoft Certified: Cloud and AI Security Engineer Associate (SC-500) | Coming soon | [Workshop öffnen](./Microsoft_Certified_Cloud_and_AI_Security_Engineer_Associate/Readme.md) |
 | Microsoft Certified: Azure Network Engineer Associate (AZ-700) | Coming soon | [Workshop öffnen](./Microsoft_Certified_Azure_Network_Engineer_Associate/Readme.md) |
-| Microsoft Certified: Windows Server Hybrid Administrator Associate (AZ-802) | Coming soon | [Workshop öffnen](./Microsoft_Certified_Windows_Server_Hybrid_Administrator_Associate/Readme.md) |
+| Microsoft Certified: Windows Server Hybrid Administrator Associate (AZ-802) | Freitag 15. Januar 2027 | [Workshop öffnen](./Microsoft_Certified_Windows_Server_Hybrid_Administrator_Associate/Readme.md) |
 | Microsoft Certified: Cybersecurity Architect Expert (SC-100) | Coming soon | [Workshop öffnen](./Microsoft_Certified_Cybersecurity_Architect_Expert/Readme.md) |
 
 ---
