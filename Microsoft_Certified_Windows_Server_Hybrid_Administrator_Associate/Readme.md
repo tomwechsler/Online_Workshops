@@ -132,6 +132,10 @@ Ich wünsche Ihnen viel Spass mit dem Workshop. Wenn Sie Fragen haben, können S
 - LinkedIn (https://www.linkedin.com/in/tom-wechsler)
 
 ## Ressourcen
+- Tom's GitHub:
+
+	https://github.com/tomwechsler/Microsoft_Certified_Windows_Server_Hybrid_Administrator_Associate/tree/main
+	
 - Microsoft Teams herunterladen:
 
 	https://www.microsoft.com/de-ch/microsoft-teams/download-app
@@ -176,4 +180,3 @@ Ich wünsche Ihnen viel Spass mit dem Workshop. Wenn Sie Fragen haben, können S
 - Azure File Sync Dokumentation:
 
 	https://learn.microsoft.com/de-de/azure/storage/file-sync/file-sync-introduction
-
