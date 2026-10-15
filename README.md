@@ -66,6 +66,7 @@ Im persönlichen Coaching erhalten Sie massgeschneiderte Unterstützung für Ihr
 | Masterclass: Microsoft Cloud Cybersecurity Architect | Termin folgt | [Workshop öffnen](./Masterclass_Microsoft_Cloud_Cybersecurity_Architect/README.md) |
 | CompTIA Security+ | Termin folgt | [Workshop öffnen](./CompTIA/CompTIA_Security+/Readme.md) |
 | CompTIA PenTest+ | Termin folgt | [Workshop öffnen](./CompTIA/CompTIA_PenTest+/Readme.md) |
+| CompTIA SecAI+ | Termin folgt | [Workshop öffnen](./CompTIA/CompTIA_SecAI+/Readme.md) |
 | ISC2 Systems Security Certified Practitioner (SSCP) | Termin folgt | [Workshop öffnen](./ISC2/SSCP/Readme.md) |
 | ISC2 Certified Information Systems Security Professional (CISSP) | Termin folgt | [Workshop öffnen](./ISC2/CISSP/Readme.md) |
 | ISC2 Certified Cloud Security Professional (CCSP) | Termin folgt | [Workshop öffnen](./ISC2/CCSP/Readme.md) |
