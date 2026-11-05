@@ -140,6 +140,7 @@ Ich bin **Microsoft Most Valuable Professional (MVP)** in Azure sowie Cloud and 
 - Certified NIST CSF 2.0 Lead Auditor
 - Certified NIST AI Risk Management Framework (RMF) Architect
 - Certified ISO 31000 Internal Controls Risk Analyst (CICRA)
+- Certified ISO 42001 Lead Implementer
 - Microsoft Cybersecurity Architect
 - Microsoft Certified: Azure Solutions Architect Expert
 - Microsoft 365 Certified: Administrator Expert
